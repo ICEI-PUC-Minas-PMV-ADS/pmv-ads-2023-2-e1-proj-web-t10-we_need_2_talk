@@ -1,25 +1,26 @@
-# Título do Projeto
+# We need 2 talk
 
-`CURSO`
+`Análise e Desenvolvimento de sistemas`
 
-`DISCIPLINA`
+`Eixo 1 - Projeto: Desenvolvimento de Aplicação Web Front-End - Turma 10`
 
-`SEMESTRE`
+`1° SEMESTRE`
 
-Descrever resumidamente, em um ou dois parágrafos, o projeto desenvolvido.
+O projeto busca auxiliar estudantes de idiomas no aperfeiçoamento da língua falada, promover a comunicação de pessoas de diferentes culturas, romper barreiras geográficas e facilitar o acesso a comunicação em diferentes línguas. O ambiente a ser desenvolvido facilitará as interações de diversos usuários, conectando falantes nativos e locais do idioma desejado, proporcionando uma jornada de aprendizado envolvente e prática. 
+A plataforma será bastante flexível e intuitiva, a fim de promover o ensino e aperfeiçoamento de idiomas de maneira não convencional. Além da conexão entre diferentes indivíduos, serão disponibilizadas lições estruturadas, atividades interativas, paindel de desempenho individual, feedback personalizado e uma comunidade de aprendizagem.
 
 ## Integrantes
 
-* Nome completo do aluno 1
-* Nome completo do aluno 2
-* Nome completo do aluno 3
-* Nome completo do aluno 4
-* Nome completo do aluno 5
-* Nome completo do aluno 6
+* Ariel Ortega Acerbi 
+* Cassiano Torneiro Baptista 
+* Emília Raphael dos Santos 
+* Ivair Cavalcanti 
+* João Victor Diniz Piazza 
+* Vitor de Paula Andrade 
 
 ## Orientador
 
-* Nome completo do professor
+* Simone de Assis Alves da Silva
 
 # Documentação
 
