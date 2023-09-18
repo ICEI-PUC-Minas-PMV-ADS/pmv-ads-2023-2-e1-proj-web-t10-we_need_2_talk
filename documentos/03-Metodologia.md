@@ -67,7 +67,7 @@ Os artefatos do projeto são desenvolvidos a partir de diversas plataformas e a 
 |-------------------------------------|------------------------------------|----------------------------------------|
 | Repositório de código fonte         | GitHub                             | http://....                            |
 | Documentos do projeto               | GitHub                             | http://....                            |
-| Projeto de Interface                | Figma                              | http://....                            |
+| Projeto de Interface                | Figma                              | http:https://www.figma.com/file/QJ32ymilfwIwHKnBZmqiy4/Untitled?type=whiteboard&node-id=0-1&t=I0GmEORCAGsvCp13-0                         |
 | Gerenciamento do Projeto            | Trello                    | https://trello.com/b/pwoAiob0/we-need-2-talk                            |
 | Hospedagem                          | GitHub Pages                       | http://....                            |
 
