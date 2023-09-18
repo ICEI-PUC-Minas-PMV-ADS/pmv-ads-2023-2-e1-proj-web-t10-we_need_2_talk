@@ -14,7 +14,7 @@ A metodologia ágil escolhida para o desenvolvimento deste projeto foi o SCRUM, 
 A equipe utiliza o Scrum como base para definição do processo de desenvolvimento.
 [Adicione informações abaixo sobre a divisão de papéis entre os membros da equipe.]
 - Scrum Master: Nome de um membro da equipe, principal responsável pela gestão do projeto.
-- Product Owner: Nome de um membro da equipe, representante dos interesses de todos os envolvidos (Stakeholders), define as funcionalidades do produto e prioriza os itens de Product Backlog.
+- Product Owner: Ivair Cavalcanti.
 - Equipe de Desenvolvimento: Ariel Ortega Acerbi, Cassiano Torneiro Baptista, Emília Raphael dos Santos, Ivair Cavalcanti, João Victor Diniz Piazza, Vitor de Paula Andrade .
 - Equipe de Design: Vitor de Paula Andrade.
 
