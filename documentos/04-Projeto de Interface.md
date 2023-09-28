@@ -20,7 +20,12 @@ Desenvolver um protótipo emerge como uma das maneiras mais ágeis e econômicas
 
 Protótipos de baixa fidelidade apresentam de forma simplificada o design da interface e o relacionamento entre suas páginas, permitindo evolução da proposta da solução. Neste projeto, os utilizaremos para apoiar a validação dos requisitos e efetuar mudanças dos mesmos, caso seja necessário, para menor impacto na codificação da aplicação.
 
-[Elabore as principais interfaces gráficas da aplicação de modo que os requisitos funcionais sejam contemplados nas telas propostas.]
+Tela inicial - Login
+
+![image](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-2-e1-proj-web-t10-we_need_2_talk/assets/144388125/bcbffa07-cdd8-4784-a651-bd1f2e5c493b)
+
+A tela de inicial permite que o usuário faça o login se já for cadastrado ou efetue o cadastro na plataforma.
+
 
 [Adicione aqui as telas da sua aplicação com seus devidos títulos.] 
  
