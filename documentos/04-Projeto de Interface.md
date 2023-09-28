@@ -22,7 +22,9 @@ Protótipos de baixa fidelidade apresentam de forma simplificada o design da int
 
 Tela inicial - Login
 
-![image](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-2-e1-proj-web-t10-we_need_2_talk/assets/144388125/bcbffa07-cdd8-4784-a651-bd1f2e5c493b)
+![image](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-2-e1-proj-web-t10-we_need_2_talk/assets/144388125/bcbffa07-cdd8-4784-a651-bd1f2e5c493b)   
+
+Figura 2 - Tela inicial 
 
 A tela de inicial permite que o usuário faça o login se já for cadastrado ou efetue o cadastro na plataforma.
 
@@ -30,7 +32,18 @@ Tela Menu
 
 ![image](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-2-e1-proj-web-t10-we_need_2_talk/assets/144743493/3123b828-9a99-4263-86ca-e68c70c5bf60)
 
+Figura 3 - Tela Menu 
+
 A tela que permite aos usuários acessar o menu inicial, sendo elas, aulas, exercícios, comunidade e medalhas.
+
+Tela Menu Completo 
+
+![image](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-2-e1-proj-web-t10-we_need_2_talk/assets/144743654/842320f8-9201-47ab-9d07-deb366b3d61c) 
+
+Figura 4 - Tela Menu Completo
+
+As listas supensas da tela permite que o usuário selecione a opção desejada.
+
 
 
 [Adicione aqui as telas da sua aplicação com seus devidos títulos.] 
