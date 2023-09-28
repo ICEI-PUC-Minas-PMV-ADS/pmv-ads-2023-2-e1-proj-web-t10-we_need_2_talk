@@ -117,6 +117,10 @@
 
 
 ## Requisitos do Projeto
+
+### Requisitos Funcionais
+
+
 |ID   | DESCRIÇÃO | PRIORIDADE                |
 |--------------------|---------------------------|----------------------------------|
 | RF-01               | Cadastro de Usuários: Permitir que os usuários criem contas utilizando o endereço de e-mail, CPF, endereço residencial, considerando métodos definidos RBAC e utilizando funções CRUD                     | Alta                              |
@@ -127,27 +131,16 @@
 | RF-06               | Feedback Personalizado: Oferecer feedback personalizado com base no desempenho do usuário                        |Média                               |
 | RF-07               |Comunidade de Aprendizagem: Implementar fóruns de discussão, grupos de estudo e chat em tempo real para permitir que os usuários interajam, compartilhem dicas e pratiquem com outros aprendizes.                        | Alta                              |
 
-
-
-### Requisitos Funcionais
-
-[Utilize o modelo de tabela abaixo para apresentar os requisitos funcionais]
-
-|ID    | Descrição                | Prioridade |
-|-------|---------------------------------|----|
-| RF-01 |  ...                    | ...   | 
-|  ...  |  ...                    | ...   |
-
 **Prioridade: Alta / Média / Baixa. 
 
 ### Requisitos não Funcionais
 
-[Utilize o modelo de tabela abaixo para apresentar os requisitos não-funcionais]
 
 |ID      | Descrição               |Prioridade |
 |--------|-------------------------|----|
-| RNF-01 |  ...                    | ...   | 
-| ...    |  ...                    | ...   | 
+| RNF- 01 |  Tempo de resposta: O software deve fornecer respostas (em até 3s), especialmente em interações em tempo real como tradução ou correção gramatical.                     | Média    | 
+| RNF- 02  | Proteção de dados: O software deve garantir a confidencialidade e integridade dos dados pessoais dos usuários, como informações de login                    | Alta   |
+|  RNF- 03  |  Navegadores suportados: O software deve ser compatível com uma gama de navegadores populares.                    | Baixa   |
 
 **Prioridade: Alta / Média / Baixa. 
 
