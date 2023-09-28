@@ -26,6 +26,12 @@ Tela inicial - Login
 
 A tela de inicial permite que o usuário faça o login se já for cadastrado ou efetue o cadastro na plataforma.
 
+Tela Menu
+
+![image](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-2-e1-proj-web-t10-we_need_2_talk/assets/144743493/3123b828-9a99-4263-86ca-e68c70c5bf60)
+
+A tela que permite aos usuários acessar o menu inicial, sendo elas, aulas, exercícios, comunidade e medalhas.
+
 
 [Adicione aqui as telas da sua aplicação com seus devidos títulos.] 
  
