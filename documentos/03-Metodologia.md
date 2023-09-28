@@ -16,7 +16,7 @@ A equipe utiliza o Scrum como base para definição do processo de desenvolvimen
 - Scrum Master: Emília Raphael dos Santos.
 - Product Owner: Ivair Cavalcanti.
 - Equipe de Desenvolvimento: Ariel Ortega Acerbi, Cassiano Torneiro Baptista, Emília Raphael dos Santos, Ivair Cavalcanti, João Victor Diniz Piazza, Vitor de Paula Andrade .
-- Equipe de Design: Vitor de Paula Andrade e João Victor Diniz Piazza.
+- Equipe de Design: Ariel Ortega Acerbi, Cassiano Torneiro Baptista, Emília Raphael dos Santos, Ivair Cavalcanti, João Victor Diniz Piazza, Vitor de Paula Andrade.
 
 > **Links Úteis**:
 > - [11 Passos Essenciais para Implantar Scrum no seu 
