@@ -16,11 +16,6 @@ A equipe utiliza o Scrum como base para definição do processo de desenvolvimen
 - Equipe de Desenvolvimento: Ariel Ortega Acerbi, Cassiano Torneiro Baptista, Emília Raphael dos Santos, Ivair Cavalcanti, João Victor Diniz Piazza, Vitor de Paula Andrade .
 - Equipe de Design: Ariel Ortega Acerbi, Cassiano Torneiro Baptista, Emília Raphael dos Santos, Ivair Cavalcanti, João Victor Diniz Piazza, Vitor de Paula Andrade.
 
-> **Links Úteis**:
-> - [11 Passos Essenciais para Implantar Scrum no seu 
-> Projeto](https://mindmaster.com.br/scrum-11-passos/)
-> - [Scrum em 9 minutos](https://www.youtube.com/watch?v=XfvQWnRgxG0)
-
 ### Processo
 
 ![image](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-2-e1-proj-web-t10-we_need_2_talk/assets/144388125/26e7a1c9-780a-446e-b758-8b806b5c17a5)
