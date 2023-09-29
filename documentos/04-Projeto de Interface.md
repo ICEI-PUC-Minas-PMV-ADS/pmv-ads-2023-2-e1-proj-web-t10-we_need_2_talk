@@ -57,6 +57,16 @@ Figura 4 - Tela Menu
 
 A tela que permite aos usuários acessar o menu inicial, sendo elas, aulas, exercícios, comunidade e medalhas.
 
+Cadastro / Redefinição de senha 
+
+![image](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-2-e1-proj-web-t10-we_need_2_talk/assets/144743654/4d657438-4fd1-43e5-aae7-9eff5baf49d6)
+
+Figura 5 - Cadastro / Redefinição de senha 
+
+Possibilita que o usuário configura seus dados pessoais ( nome, email, telefone, escolha de idiomas, redefinir a senha) .
+
+
+
 Tela Menu Completo 
 
 ![image](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-2-e1-proj-web-t10-we_need_2_talk/assets/144743654/842320f8-9201-47ab-9d07-deb366b3d61c) 
