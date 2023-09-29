@@ -72,7 +72,7 @@ Tela Menu Completo
 
 ![image](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-2-e1-proj-web-t10-we_need_2_talk/assets/144743654/842320f8-9201-47ab-9d07-deb366b3d61c) 
 
-Figura 5 - Tela Menu Completo
+Figura 6 - Tela Menu Completo
 
 As listas supensas da tela permite que o usuário selecione a opção desejada.
 
@@ -80,7 +80,7 @@ Tela Adicionar usuário e encontrar professor.
 
 ![image](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-2-e1-proj-web-t10-we_need_2_talk/assets/144743493/608498cc-595f-4178-ab9f-e7d53418399f)
 
-Figura 6 - Tela Adicionar usuário e encontrar professor
+Figura 7 - Tela Adicionar usuário e encontrar professor
 
 Tela que permite a procura de usuários e professores, possibilitanto o requerimento de amizade, envio de mensagem, bloqueio de usuario e agendamento de aulas.
 
