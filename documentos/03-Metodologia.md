@@ -66,7 +66,7 @@ Os artefatos do projeto são desenvolvidos a partir de diversas plataformas e a 
 | AMBIENTE                            | PLATAFORMA                         | LINK DE ACESSO                         |
 |-------------------------------------|------------------------------------|----------------------------------------|
 | Repositório de código fonte         | GitHub                             | http://https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-2-e1-proj-web-t10-we_need_2_talk/tree/main/codigo-fonte     |
-| Documentos do projeto               | GitHub                             | http://....                            |
+| Documentos do projeto               | GitHub                             | https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-2-e1-proj-web-t10-we_need_2_talk/blob/main/documentos/01-Documenta%C3%A7%C3%A3o%20de%20Contexto.md|
 | Projeto de Interface                | Figma                              | https://www.figma.com/file/QJ32ymilfwIwHKnBZmqiy4/Untitled?type=whiteboard&node-id=0-1&t=I0GmEORCAGsvCp13-0                         |
 | Gerenciamento do Projeto            | Trello                    | https://trello.com/b/pwoAiob0/we-need-2-talk                            |
 | Hospedagem                          | GitHub Pages                       | http://....                            |
