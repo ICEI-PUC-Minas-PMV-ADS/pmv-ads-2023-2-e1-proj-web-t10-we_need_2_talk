@@ -28,72 +28,103 @@ Nesta estrutura existem 3 grandes blocos, descritos a seguir, São eles:
 
 ![image](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-2-e1-proj-web-t10-we_need_2_talk/assets/144743493/d95f2175-668b-46ec-9c38-94717e4b7abb)
 
+Figura 2 -Estrutura padrão do site
 
 Protótipos de baixa fidelidade apresentam de forma simplificada o design da interface e o relacionamento entre suas páginas, permitindo evolução da proposta da solução. Neste projeto, os utilizaremos para apoiar a validação dos requisitos e efetuar mudanças dos mesmos, caso seja necessário, para menor impacto na codificação da aplicação.
 
-Tela inicial - Login
-
-![image](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-2-e1-proj-web-t10-we_need_2_talk/assets/146040771/14233946-a029-46c7-9b90-cc06904c37dc)
-
-
-Figura 2 - Tela inicial 
+### Tela inicial - Login
 
 A tela inicial permite que o usuário faça o login se já for cadastrado ou efetue o cadastro na plataforma.
 
-Cadastro/Login
+![image](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-2-e1-proj-web-t10-we_need_2_talk/assets/146040771/14233946-a029-46c7-9b90-cc06904c37dc)
+
+Figura 3 - Tela inicial 
+
+
+### Tela Cadastro/Login
+
+A tela de cadastro e login possibilita cadastro ou login na plataforma.
 
 ![image](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-2-e1-proj-web-t10-we_need_2_talk/assets/146040771/5ff6935c-9212-48b6-91cd-7f8f5f1835e4)
 
+Figura 4 - Cadastro/Login
 
-Figura 3 - Cadastro/Login
-
-Tela que possibilita cadastro ou login no website
-
-
-Tela Menu
-
-![image](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-2-e1-proj-web-t10-we_need_2_talk/assets/144743493/3123b828-9a99-4263-86ca-e68c70c5bf60)
-
-Figura 4 - Tela Menu 
+### Tela Menu
 
 A tela que permite aos usuários acessar o menu inicial, sendo elas, aulas, exercícios, comunidade e medalhas.
 
-Cadastro / Redefinição de senha 
+![image](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-2-e1-proj-web-t10-we_need_2_talk/assets/144743493/3123b828-9a99-4263-86ca-e68c70c5bf60)
+
+Figura 5 - Tela Menu 
+
+### Tela Cadastro / Redefinição de senha 
+
+Possibilita que o usuário configura seus dados pessoais ( nome, email, telefone, escolha de idiomas, redefinir a senha).
 
 ![image](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-2-e1-proj-web-t10-we_need_2_talk/assets/144743654/9682063d-9368-43bd-a6c9-9c0514878678)
 
+Figura 6 - Cadastro / Redefinição de senha 
 
-Figura 5 - Cadastro / Redefinição de senha 
+### Tela Menu Completo 
 
-Possibilita que o usuário configura seus dados pessoais ( nome, email, telefone, escolha de idiomas, redefinir a senha) .
-
-
-
-Tela Menu Completo 
+As listas supensas da tela permitem que o usuário selecione a opção desejada.
 
 ![image](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-2-e1-proj-web-t10-we_need_2_talk/assets/144743654/842320f8-9201-47ab-9d07-deb366b3d61c) 
 
-Figura 6 - Tela Menu Completo
+Figura 7 - Tela Menu Completo
 
-As listas supensas da tela permite que o usuário selecione a opção desejada.
+### Tela de Aulas
 
-Tela Adicionar usuário e encontrar professor.
+Possibilita que o usuário seja introduzido no tipo de aula selecionado.
 
-![image](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-2-e1-proj-web-t10-we_need_2_talk/assets/144743493/608498cc-595f-4178-ab9f-e7d53418399f)
+![image](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-2-e1-proj-web-t10-we_need_2_talk/assets/144388125/b1d9109d-90bc-41da-a5ee-5d9fccd62b4e)
 
-Figura 7 - Tela Adicionar usuário e encontrar professor
+Figura 8 - Tela de Aulas 
+
+### Tela de seleção de Idiomas
+
+Possibilita que o usuário escolha o idioma que deseja treinar.
+
+![image](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-2-e1-proj-web-t10-we_need_2_talk/assets/144388125/3e09fbad-e00f-49de-9b2c-bdf702f8286a)
+
+Figura 9 - Tela de seleção de Idiomas
+
+### Tela de Exercícios de  vídeo e Exercícios de  vídeo no idioma selecionado
+
+Tela acessada a partir da Figura 9, permite que o usuário selecione o tipo de exercício e inicie o treinamento.
+
+![image](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-2-e1-proj-web-t10-we_need_2_talk/assets/144388125/cf1a6181-b842-4f1c-bd08-e5352330c708)
+
+Figura 10 - Tela de Exercícios de  vídeo/ Exercícios de  vídeo no idioma selecionado
+
+### Tela Adicionar usuário e encontrar professor.
 
 Tela que permite a procura de usuários e professores, possibilitanto o requerimento de amizade, envio de mensagem, bloqueio de usuario e agendamento de aulas.
 
+![image](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-2-e1-proj-web-t10-we_need_2_talk/assets/144743493/608498cc-595f-4178-ab9f-e7d53418399f)
 
-[Adicione aqui as telas da sua aplicação com seus devidos títulos.] 
- 
-> **Links Úteis**:
-> - [Protótipos vs Wireframes](https://www.nngroup.com/videos/prototypes-vs-wireframes-ux-projects/)
->- Ferramentas:
->> - [Pencil](https://pencil.evolus.vn/)
->> - [MarvelApp](https://marvelapp.com/)
->> - [Figma](https://www.figma.com/)
+Figura 11 - Tela Adicionar usuário e encontrar professor
 
+### Tela quadro de medalhas
 
+XXXXXXXXXXXXXXX
 
+![image](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-2-e1-proj-web-t10-we_need_2_talk/assets/144388125/6a86fd6c-ea9a-43fc-bfd7-6ff85c1d328b)
+
+Figura 12 - Tela quadro de medalhas
+
+### Tela de Logout
+
+XXXXXXXXXXXX
+
+![image](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-2-e1-proj-web-t10-we_need_2_talk/assets/144388125/2bffef18-6d7d-4ff6-b62c-3d20a877a504)
+
+Figura 13 - Tela de Logout
+
+### Tela de Ajuda
+
+XXXXXXXXXXXXX
+
+![image](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-2-e1-proj-web-t10-we_need_2_talk/assets/144388125/9323697f-54a6-4de8-9f42-3ad6581b6230)
+
+Figura 14 - Tela de Ajuda
