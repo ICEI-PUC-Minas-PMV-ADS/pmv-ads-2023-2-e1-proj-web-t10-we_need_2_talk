@@ -59,7 +59,8 @@ A tela que permite aos usuários acessar o menu inicial, sendo elas, aulas, exer
 
 Cadastro / Redefinição de senha 
 
-![image](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-2-e1-proj-web-t10-we_need_2_talk/assets/144743654/4d657438-4fd1-43e5-aae7-9eff5baf49d6)
+![image](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-2-e1-proj-web-t10-we_need_2_talk/assets/144743654/9682063d-9368-43bd-a6c9-9c0514878678)
+
 
 Figura 5 - Cadastro / Redefinição de senha 
 
