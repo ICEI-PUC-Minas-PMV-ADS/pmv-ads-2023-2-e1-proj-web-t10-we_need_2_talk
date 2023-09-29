@@ -22,6 +22,9 @@ O quadro kanban do grupo no Trello está disponível no link (https://trello.com
 
 ![image](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-2-e1-proj-web-t10-we_need_2_talk/assets/144388125/26e7a1c9-780a-446e-b758-8b806b5c17a5)
 
+<figcaption>Figura 1 - Tela do quadro kanban no trello</figcaption>
+
+
 Para organização e distribuição das tarefas do projeto, a equipe está utilizando o Trello, estruturado com as seguintes listas:
 
 - Backlog do Produto: Esta lista recebe os requisitos do projeto.
@@ -42,11 +45,10 @@ Para organização e distribuição das tarefas do projeto, a equipe está utili
   <li>Testes (Tests)</li>
 </ul>
 
-<figure> 
-  <img src="https://user-images.githubusercontent.com/100447878/164068979-9eed46e1-9b44-461e-ab88-c2388e6767a1.png"
-    <figcaption>Figura 3 - Tela do esquema de cores e categorias</figcaption>
-</figure> 
-  
+![image](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-2-e1-proj-web-t10-we_need_2_talk/assets/144388125/cae60cf8-abc9-40ba-ad01-65e939b829ad)
+
+<figcaption>Figura 2 - Tela do esquema de cores das etiquetas criadas no trello</figcaption>
+
 ### Ferramentas
 
 As ferramentas empregadas no projeto são:
