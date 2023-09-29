@@ -18,6 +18,17 @@ Desenvolver um protótipo emerge como uma das maneiras mais ágeis e econômicas
 
 ### Protótipo de baixa fidelidade
 
+As telas do sistema apresentam uma estrutura comum que é apresentada na figura 2.
+Nesta estrutura existem 3 grandes blocos, descritos a seguir, São eles:
+<ul>
+<li>Cabeçalho - Local onde esta disposto o menu principal e o menu completo em lista suspensa.</li>
+<li>Conteúdo - Apresenta o conteúdo da tela em questão</li>
+<li>Rodapé - Apresenta a opção de ajuda e logout.</li>
+</ul>
+
+![image](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-2-e1-proj-web-t10-we_need_2_talk/assets/144743493/d95f2175-668b-46ec-9c38-94717e4b7abb)
+
+
 Protótipos de baixa fidelidade apresentam de forma simplificada o design da interface e o relacionamento entre suas páginas, permitindo evolução da proposta da solução. Neste projeto, os utilizaremos para apoiar a validação dos requisitos e efetuar mudanças dos mesmos, caso seja necessário, para menor impacto na codificação da aplicação.
 
 Tela inicial - Login
@@ -27,16 +38,16 @@ Tela inicial - Login
 
 Figura 2 - Tela inicial 
 
-A tela de inicial permite que o usuário faça o login se já for cadastrado ou efetue o cadastro na plataforma.
+A tela inicial permite que o usuário faça o login se já for cadastrado ou efetue o cadastro na plataforma.
 
-Cadastro/Loguin
+Cadastro/Login
 
 ![image](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-2-e1-proj-web-t10-we_need_2_talk/assets/146040771/5ff6935c-9212-48b6-91cd-7f8f5f1835e4)
 
 
-Figura 3 - Cadastro/Loguin
+Figura 3 - Cadastro/Login
 
-Tela que possibilita cadastro ou loguin no website
+Tela que possibilita cadastro ou login no website
 
 
 Tela Menu
