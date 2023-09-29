@@ -103,7 +103,7 @@ Figura 11 - Tela Adicionar usuário e encontrar professor
 
 ### Tela quadro de medalhas
 
-XXXXXXXXXXXXXXX
+Permite que o usuário veja de forma organizada a classificação dos seus amigos em relaçao a voce ao longo do curso.
 
 ![image](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-2-e1-proj-web-t10-we_need_2_talk/assets/144388125/6a86fd6c-ea9a-43fc-bfd7-6ff85c1d328b)
 
@@ -111,7 +111,7 @@ Figura 12 - Tela quadro de medalhas
 
 ### Tela de Logout
 
-XXXXXXXXXXXX
+Permite que o usuário saia quando quiser.
 
 ![image](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-2-e1-proj-web-t10-we_need_2_talk/assets/144388125/2bffef18-6d7d-4ff6-b62c-3d20a877a504)
 
@@ -119,7 +119,7 @@ Figura 13 - Tela de Logout
 
 ### Tela de Ajuda
 
-XXXXXXXXXXXXX
+Permite que o usuário possa sanar com clareza suas duvidas.
 
 ![image](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-2-e1-proj-web-t10-we_need_2_talk/assets/144388125/9323697f-54a6-4de8-9f42-3ad6581b6230)
 
