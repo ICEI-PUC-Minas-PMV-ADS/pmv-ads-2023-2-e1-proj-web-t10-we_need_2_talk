@@ -119,7 +119,6 @@ body {
         left: 10cm;
         font-weight: bold;
         color: rgb(85, 78, 78);
-        background-color: ;
     }
 
     .content-main-text {
@@ -127,7 +126,7 @@ body {
         height: 2vh;
         color: rgb(85, 78, 78);
         font-weight:bold;
-        background-color: rgba(120, 167, 12, 0.527);
+        background-color: rgba(167, 113, 12, 0.527);
         margin-bottom: 0;
         position:fixed;
         top: 15cm;
@@ -136,7 +135,6 @@ body {
         display: flex;
         align-items: flex-start;
     } 
-
 
     .content-main-text-item { 
         width: 2.6cm;
