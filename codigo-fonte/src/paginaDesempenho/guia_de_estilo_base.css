@@ -2,7 +2,6 @@
 *{
     margin:0;
     padding:0;
-
 }
 
 @import url('https://fonts.googleapis.com/css2?family=Roboto&display=swap');
@@ -105,7 +104,7 @@ body {
     }
 
     main {
-        height: 21.4cm;
+        height: 21.8cm;
     }
 
     .content-main {
@@ -130,7 +129,7 @@ body {
         margin-bottom: 0;
         position:fixed;
         top: 15cm;
-        left: 10.1cm;
+        left: 10.6cm;
         text-align: left;
         display: flex;
         align-items: flex-start;
@@ -143,7 +142,7 @@ body {
         font-weight: normal;
         background-color: rgba(221, 204, 46, 0.527); 
         position: relative;
-        left:0.2cm;
+        left:0;
         margin:auto;
         margin-right: 10px;
         display: inline-block;
@@ -170,7 +169,7 @@ body {
         box-sizing: border-box;
         float: right;
         position:fixed;
-        left: 10.2cm;
+        left: 10.6cm;
         top: 16.5cm;
         margin:auto;
     } 
@@ -218,11 +217,12 @@ button {
 
 
     .content-profile-image {
+        width: 63%;
         display: block;
         position: fixed;
-        top: 2cm;
+        top: 4cm;
         margin:0 auto;
-        left: 9.6cm;
+        left: 9.9cm;
         float: right;
     }
 
