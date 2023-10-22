@@ -5,12 +5,43 @@
 }
 
 @import url('https://fonts.googleapis.com/css2?family=Roboto&display=swap');
+@media (max-width: 1292px){
+    .sidebar {
+        display: block; 
+        margin:0;
+        width: 386px;
+    }
+}
 
 body {
     font-family:'Roboto' , sans-serif;
     background-color:rgb(238, 234, 234);
     }
 
+    .wrapper {
+        display: grid;
+        grid-template-columns: 1fr;
+        grid-row: auto;
+        grid-template-areas: "header"
+                             "section"
+                             "main"
+                             "footer";
+    }
+
+    @media (min-width: 700px) {
+        .wrapper {
+        display: grid;
+        grid-template-columns: 250px 1fr;
+        grid-row: 150px 1fr 120px;
+        grid-template-areas: "header header"
+                             "section main"
+                             "footer footer";
+        }
+    }
+
+    .div .header {
+        width: fit-content;
+    }
     .header {
         background-color:rgb(217, 159, 126); 
         min-height: 45px;
@@ -18,49 +49,74 @@ body {
         font-weight: bold;
         color: rgb(255, 255, 255);
         display: flex;
-        flex-direction: row;
-        align-items: center;
         justify-content: space-between;
+        align-items:flex-start;
+        flex-direction: row;
+        grid-area: header; 
     }
 
-
-    .header-texto {
+    /* .header-texto {
         background: rgb(217, 159, 126);
+    } */
+
+    li.breadcrumb {
+        $breadcrumb-divider: quote(">");
+    }
+
+    footer {
+        grid-area: footer;
     }
 
     .footer-main {
-        margin-bottom: 0;
+        /* margin-bottom: 0;
         height: 36px;
         display: flex;
         justify-content: space-between;
         background-color:rgba(166, 65, 84, 0.71); 
         color: #fff;
         position: fixed;
-        width: 100%;
+        width: 100%; */
+        display: flex;
+        justify-content: space-between;
+        align-items: flex-end;
+        position: fixed;
+        bottom: 0;
+        left: 0;
+        right:0;
+        padding: 10px;
+        background-color:rgba(166, 65, 84, 0.71); 
+        height: 20px;
     }
 
     .footer-left {
-        display: flex;
-        align-items:center;
-        background-color:rgba(166, 65, 84, 0.71); 
+        align-content: center;
+        text-decoration: none;
+        color: #fff;
+        font-weight: 700;
+        font-size: 16px;
+        position: fixed;
+        bottom: 13.4px;
     }
 
     .footer-right {
         display: flex;
         align-items:center;
         justify-content:end;
-        background-color:rgba(166, 65, 84, 0.71); 
     }
    
+    section {
+        grid-area: section;
+    }
+
     .sidebar {
         height: 91%;
         position: fixed;
-        width: 60%;
+        width: 752px;
         background:#fff;
         justify-content: space-between;
         flex-direction: row;
         align-items: center;
-        margin-top:-1px;
+        margin-top:-.05px;
         margin-left:9rem;
         padding-right: 16rem;
     }
@@ -104,6 +160,7 @@ body {
 
     main {
         height: 21.8cm;
+        grid-area: main;
     }
 
     .content-main {
@@ -118,17 +175,38 @@ body {
         font-weight: bold;
         color: rgb(85, 78, 78);
     }
+    
+    .content-aprenda-mais {
+        width: 500px;
+        font-weight: bold;
+        box-sizing: border-box;
+        float: right;
+        position:fixed;
+        left: 20.6cm;
+        top: 12.5cm;
+        margin:auto;
+    }
+
+    .content-profile-image {
+        width: 49.313rem;
+        height: 660px;
+        display: block;
+        position: fixed;
+        top: 4cm;
+        left: 9.9cm;
+        float: right;
+    }
 
     .content-main-text {
         width: 500px;
         height: 2vh;
         color: rgb(85, 78, 78);
         font-weight:bold;
-        background-color: rgba(167, 113, 12, 0.527);
         margin-bottom: 0;
         position:fixed;
-        top: 15.5cm;
+        top: 15.7cm;
         left: 10.6cm;
+        padding-bottom: 2px;
         text-align: left;
         display: flex;
         align-items: flex-start;
@@ -139,9 +217,10 @@ body {
         height: 0.5cm;
         color: rgb(85, 78, 78);
         font-weight: normal;
-        background-color: rgba(221, 204, 46, 0.527); 
+        font-size: 12px;
         position: relative;
         left:0;
+        top: 0;
         margin:auto;
         margin-right: 10px;
         display: inline-block;
@@ -169,13 +248,19 @@ body {
         float: right;
         position:fixed;
         left: 10.6cm;
-        top: 17cm;
+        top: 16.5cm;
         margin:auto;
     } 
 
-    #curso-atual {
-        left: 14cm;
-        top: 15cm;
+    .content-main-curso-atual {
+        width: 500px;
+        font-weight: bold;
+        box-sizing: border-box;
+        float: right;
+        position:fixed;
+        left: 24cm;
+        top: 16.5cm;
+        margin:auto;
     }
 
     .content-main-text {
@@ -207,7 +292,7 @@ button {
     font-size: 12px;
     float: right;
     position: fixed;
-    top: 17.35cm;
+    top: 16.85cm;
     left: 20.3cm;
     display: block;
     justify-content:space-evenly;
@@ -215,27 +300,22 @@ button {
 
 #button2 {
     position: fixed;
-    top: 19.35cm;
+    top: 18.85cm;
     left: 20.3cm;
  }
 
  #button3 {
-    width: 8%;
+    width: 6rem;
     position: fixed;
-    top: 19.35cm;
+    top: 19cm;
     left: 27.5cm;
  }
 
-
-    .content-profile-image {
-        width: 63%;
-        display: block;
-        position: fixed;
-        top: 4cm;
-        margin:0 auto;
-        left: 9.9cm;
-        float: right;
-    }
+ #button4 {
+    position: fixed;
+    top: 13cm;
+    left: 26.9cm;
+ }
 
     ul {
         width: 25vh;
@@ -299,14 +379,14 @@ button {
         margin-left: 10px;
     }
 
-    img.header-menu-icon {
+    .header-menu-icon {
             width: 40px;
             padding-left: 60px;
             display: flex;
             background-color: rgb(217, 159, 126);
         }
 
-    img.header-config-icon {
+    #header-config-icon {
         width: 45px;
         background: rgb(217, 159, 126);
     }
