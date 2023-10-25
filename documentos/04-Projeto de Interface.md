@@ -53,7 +53,7 @@ A tela que permite aos usuários acessar o menu inicial, sendo elas, aulas, exer
 
 Figura 5 - Tela Menu 
 
-### Tela Cadastro / Redefinição de senha 
+### Tela Cadastro 
 
 Possibilita que o usuário configura seus dados pessoais ( nome, email, telefone, escolha de idiomas) e tambem colocar seus dados para a exibição.
 
