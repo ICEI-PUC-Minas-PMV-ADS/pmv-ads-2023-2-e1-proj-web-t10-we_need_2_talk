@@ -55,11 +55,11 @@ Figura 5 - Tela Menu
 
 ### Tela Cadastro / Redefinição de senha 
 
-Possibilita que o usuário configura seus dados pessoais ( nome, email, telefone, escolha de idiomas, redefinir a senha).
+Possibilita que o usuário configura seus dados pessoais ( nome, email, telefone, escolha de idiomas) e tambem colocar seus dados para a exibição.
 
-![image](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-2-e1-proj-web-t10-we_need_2_talk/assets/144743654/9682063d-9368-43bd-a6c9-9c0514878678)
+![image](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-2-e1-proj-web-t10-we_need_2_talk/assets/144743654/99d4f7f1-1b18-41ce-afa4-6f459da3cfce)
 
-Figura 6 - Cadastro / Redefinição de senha 
+Figura 6 - Cadastro e exibição no interface
 
 ### Tela Menu Completo 
 
