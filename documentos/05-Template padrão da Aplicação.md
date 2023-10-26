@@ -4,6 +4,13 @@ Layout padrão do site (HTML e CSS) que será utilizado em todas as páginas com
 
 [Apresente a estrutura padrão da sua aplicação.]
 
+## Tela de Configuração de Usuário
+
+![image](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-2-e1-proj-web-t10-we_need_2_talk/assets/144743654/e82f37b6-ee13-467a-9697-5a17d691c67f)
+
+Figura 1 - Tela de Configuração de Usuário
+
+
 > **Links Úteis**:
 >
 > - [CSS Website Layout (W3Schools)](https://www.w3schools.com/css/css_website_layout.asp)
