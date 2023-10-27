@@ -1,0 +1,83 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="/css/style.css">
+    <title>www.weneed2talk/feedback</title>
+</head>
+<body>
+    <header>
+        <a href="">
+            <img src="/img/menu.png" alt="Menu">
+        </a>
+           
+        <h1>FeedBack</h1>
+
+        <a href="">
+            <img src="/img/config.png" alt="Menu">
+        </a>
+    </header>
+        
+    <main>
+        <div class="container">
+            <form action="Feed.html" class="form">
+                <div class="container-form">
+                    <label for="">De 0 a 5, sendo 0 muito ruim muito bom. Como foi a sua experiência na navegabilidade do nosso site?</label>
+
+                    <div class="level">
+                        <div class="opcao">
+                            <label for="level-zero">0</label>
+                            <input type="checkbox" name="level-zero" id="level-zero" onclick="level(`level-zero`)">
+                        </div>
+
+                        <div class="opcao">
+                            <label for="level-um">1</label>
+                            <input type="checkbox" name="level-um" id="level-um" onclick="level(`level-um`)">
+                        </div>
+
+                       <div class="opcao">
+                           <label for="level-dois">2</label>
+                            <input type="checkbox" name="level-dois" id="level-dois" onclick="level(`level-dois`)">
+                       </div>
+
+                        <div class="opcao">
+                            <label for="level-tres">3</label>
+                            <input type="checkbox" name="level-tres" id="level-tres" onclick="level(`level-tres`)">
+                        </div>
+
+                        <div class="opcao">
+                            <label for="level-quatro">4</label>
+                            <input type="checkbox" name="level-quatro" id="level-quatro" onclick="level(`level-quatro`)">
+                        </div>
+
+                        <div class="opcao">
+                            <label for="level-cinco">5</label>
+                            <input type="checkbox" name="level-cinco" id="level-cinco" onclick="level(`level-cinco`)">
+                        </div>
+                    </div>
+                </div>
+
+                <div class="container-form">
+                    <label for="contribuicao">Em sua opinião como poderíamos melhorar sua experiência no site?</label>
+                
+                    <textarea name="contribuicao" id="contribuicao" cols="30" rows="10" placeholder="Dê sua contruibuição..."></textarea>
+                </div>
+
+                <input type="submit" value="Enviar" class="enviar" id="Enviar">
+            </form>
+        </div>
+    </main>
+
+    <footer>
+        <p>Ajuda</p>
+
+        <div>
+            <img src="/img/porta.png" alt="Logout">
+            <p>Logout</p>
+        </div>
+    </footer>
+
+    <script src="/js/main.js"></script>
+</body>
+</html>
