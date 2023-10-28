@@ -51,12 +51,13 @@
 }
 
 .header h1 {
-    align-content: center;
+    justify-content: center;
+    display: flex;
     color: #fff;
     font-weight: 700;
     font-size: 30px;
     position: relative;
-    left: 100%;
+    left: 451px;
     bottom: 20px;
 }
 
@@ -142,12 +143,11 @@
 
 .content { 
 
-  float:left; 
+  align-items: center;
   width:92%; 
   margin:0 4%;  
  
 }
-
 
 /* 48em = 768px */
 
