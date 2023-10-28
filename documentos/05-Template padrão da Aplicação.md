@@ -1,8 +1,13 @@
 # Template padrão da Aplicação
 
-Layout padrão do site (HTML e CSS) que será utilizado em todas as páginas com a definição de identidade visual, aspectos de responsividade e iconografia.
+O layout padrão do site foi construído com as linguagens de marcação HTML e CSS.
 
-[Apresente a estrutura padrão da sua aplicação.]
+As páginas terão como elementos padrões o menu de navegação, o header e o footer, além dos elementos de identidade visual citados abaixo:
+
+Cores: RGB: ; rgb(245, 245, 247), rgba(166, 65, 84, 0.71), #fff, rgb(85, 78, 78), black, rgb(58, 8, 82), rgb(217, 159, 126), #9c9a998c, #D99F7E e #fcfcfc;
+Font-family: Roboto.
+Font-size: 12px, 14px, 16px e 30px.
+
 
 ## Tela de Configuração de Usuário
 
@@ -10,6 +15,9 @@ Layout padrão do site (HTML e CSS) que será utilizado em todas as páginas com
 
 Figura 1 - Tela de Configuração de Usuário
 
+![image](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-2-e1-proj-web-t10-we_need_2_talk/assets/144388125/7e5f5ac2-c083-4245-a2d5-2759a966ae12)
+
+Figura 2 - Logotipo da aplicação web We Need 2 Talk
 
 > **Links Úteis**:
 >
