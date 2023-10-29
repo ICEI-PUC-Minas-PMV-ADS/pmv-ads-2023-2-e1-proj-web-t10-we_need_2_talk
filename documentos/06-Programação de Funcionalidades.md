@@ -140,7 +140,10 @@ RF-05	Acompanhamento de Progresso: Fornecer um painel que exiba o progresso do u
 
 #### Estrutura de Dados
 
-● [other_Novo_Desempenho.html](https://github.com/ICEI-PUC-Minas-PMV-ADS/ads-e1-exemplo-vida-de-estudante/tree/main/src/cadastro/cadastre-se.html)](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-2-e1-proj-web-t10-we_need_2_talk/blob/main/codigo-fonte/src/paginaDesempenho/other_Novo_Desempenho.html)
+● Selecione a opção de abrir no Github Desktop. Na pasta baixada abra o arquivo: 
+
+[other_Novo_Desempenho.html]
+
 
 
 #### Instruções de acesso
