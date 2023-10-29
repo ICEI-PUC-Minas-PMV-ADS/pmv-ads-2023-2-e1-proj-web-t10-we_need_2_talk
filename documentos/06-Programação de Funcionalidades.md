@@ -42,41 +42,6 @@ Implementação da aplicação descritas por meio dos requisitos codificados.
 > - [JSON Tutorial (TutorialsPoint)](https://www.tutorialspoint.com/json/index.htm)
 
 
-# Programação de Funcionalidades
-
-A nossa tela de login proporciona uma experiência rápida e segura para acessar a plataforma. Nela, você encontrará campos para inserir o seu nome de usuário e senha. Além disso, disponibilizamos um link para recuperar a sua senha, caso necessário. E se ainda não tiver uma conta, não se preocupe! Temos um botão para criar uma conta nova.
-
-### Título da funcionalidade
-
-Página de Login
-
-
-#### Requisito atendido
-
-[RF-08: permite que o usuário faça login no sistema, caso já possua uma conta. Caso contrário, basta criar uma nova conta e acessar.]
-
-#### Artefatos da funcionalidade
-
-● index.html
-
-● style.css
-
-
-#### Estrutura de Dados
-
-[index.html]
-
-
-#### Instruções de acesso
-
-[Adicione as orientações de acesso à funcionalidade]
-
-
-#### Responsável
-
-Cassiano Torneiro Baptista
-
-
 
 # Programação de Funcionalidades
 
@@ -120,6 +85,44 @@ Configuração de Usuário
 
 João Victor Diniz Piazza
 <hr>
+
+
+### Tela de Login (RF-08)
+
+A nossa tela de login proporciona uma experiência rápida e segura para acessar a plataforma. Nela, você encontrará campos para inserir o seu nome de usuário e senha. Além disso, disponibilizamos um link para recuperar a sua senha, caso necessário. E se ainda não tiver uma conta, não se preocupe! Temos um botão para criar uma conta nova.
+
+### Título da funcionalidade
+
+Página de Login
+
+
+#### Requisito atendido
+
+[RF-08: permite que o usuário faça login no sistema, caso já possua uma conta. Caso contrário, basta criar uma nova conta e acessar.]
+
+#### Artefatos da funcionalidade
+
+● index.html
+
+● style.css
+
+
+#### Estrutura de Dados
+
+[index.html]
+
+
+#### Instruções de acesso
+
+[Adicione as orientações de acesso à funcionalidade]
+
+
+#### Responsável
+
+Cassiano Torneiro Baptista
+<hr>
+
+
 
 ### Tela de Práticas de conversação (RF-04)
 
