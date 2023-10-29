@@ -84,7 +84,7 @@ Configuração de Usuário
 
 João Victor Diniz Piazza
 
-### Tela de desempenho (RF-06)
+### Tela de desempenho (RF-05)
 
 Responsável: Emília Raphael dos Santos
 
@@ -98,8 +98,7 @@ Exemplo da tela de desempenho:
 
 #### Requisito atendido
 
-RF-06: Feedback Personalizado: Oferecer feedback personalizado com base no desempenho do usuário.
-
+RF-05	Acompanhamento de Progresso: Fornecer um painel que exiba o progresso do usuário, detalhando as lições concluídas, considerando insights de áreas que precisam de mais atenção.
 
 #### Artefatos da funcionalidade
 
