@@ -84,6 +84,42 @@ Configuração de Usuário
 
 João Victor Diniz Piazza
 
+### Tela de desempenho (RF-06)
+
+Responsável: Emília Raphael dos Santos
+
+O acesso a tela de desempenho do usuário poderá ser feito através da opção de menu “Exercícios” e depois "Testes/Estatísticas". As estruturas de dados foram baseadas em HTML e CSS.
+
+Exemplo da tela de desempenho: 
+
+
+![image](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-2-e1-proj-web-t10-we_need_2_talk/assets/144388125/e33032e9-a9f1-4e96-a52c-09c6c379a94a)
+
+
+#### Requisito atendido
+
+RF-06: Feedback Personalizado: Oferecer feedback personalizado com base no desempenho do usuário.
+
+
+#### Artefatos da funcionalidade
+
+● [cadastre-se.html](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-2-e1-proj-web-t10-we_need_2_talk/blob/main/codigo-fonte/src/paginaDesempenho/other_Novo_Desempenho.html)
+
+● [cadastro.css](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-2-e1-proj-web-t10-we_need_2_talk/blob/main/codigo-fonte/src/paginaDesempenho/guia_de_estilo_base.css)
+
+● [script.js](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-2-e1-proj-web-t10-we_need_2_talk/blob/main/codigo-fonte/src/paginaDesempenho/header.css)
+
+
+#### Estrutura de Dados
+
+● [cadastre-se.html](https://github.com/ICEI-PUC-Minas-PMV-ADS/ads-e1-exemplo-vida-de-estudante/tree/main/src/cadastro/cadastre-se.html)](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-2-e1-proj-web-t10-we_need_2_talk/blob/main/codigo-fonte/src/paginaDesempenho/other_Novo_Desempenho.html)
+
+
+#### Instruções de acesso
+
+Abra um navegador de Internet e informe a seguinte URL: [https://icei-puc-minas-pmv-ads.github.io/pmv-ads-2022-1-e1-proj-web-t3-vida-de-estudante/src/paginaHome/index.htm](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-2-e1-proj-web-t10-we_need_2_talk/blob/main/codigo-fonte/src/paginaDesempenho/other_Novo_Desempenho.html)https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-2-e1-proj-web-t10-we_need_2_talk/blob/main/codigo-fonte/src/paginaDesempenho/other_Novo_Desempenho.html
+
+<hr>
 
 
 

@@ -8,136 +8,170 @@
     <meta name="author"
         content="Ariel Ortega Acerbi, Cassiano Torneiro Baptista, Emília Raphael dos Santos, João Victor Diniz Piazza, Vitor de Paula Andrade">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <link rel="stylesheet" href="guia_de_estilo_base.css">
+    <link rel="stylesheet" href=" header.css"/>
+    <link rel="stylesheet" href="guia_de_estilo_base.css"/>
 </head>
 
 <body>
-    <div class="wrapper">
+        <header class="header">
 
-        <header>
-            <div class="header">
-                <div>
-                    <a href="#">
-                    <img class="header-menu-icon" src="Imagens/Menu principal.png" alt="ícone que representa o menu principal">
-                    </a>
-                </div>
-            
-                <div class="header">
-                <a1>Meu desempenho</a1>
-                </div>
+            <div class="content">
+                <input class="mobile-btn" type="checkbox" id="mobile-btn"/>
+              <label class="mobile-icon" for="mobile-btn"><span class="hamburguer"></span><h1>Meu Desempenho</h1></label>
+              <img href="#" class="logo" src="Imagens/Configuracao.png" title="Loop Nerd">
 
-                <div class="header">
-                    <a href="#">
-                    <img id="header-config-icon" src="Imagens/Configuracao.png" alt="ícone que representa as configurações da página">
-                    </a>
-                </div>
+              <ul class="nav">
+          
+                <li><a href="#" title="Home">Aulas</a></li>
+                <li><a href="#" title="Sobre">Exercícios</a></li>
+                <li><a href="#" title="Artigos">Comunidade</a></li>
+                <li><a href="#" title="Contato">Medalhas</a></li>
+              
+              </ul>
             </div>
         </header>
+    
+    <div class="container">
+        <div class="row">
+            <div class="col-md-6 col-md-2">
+                <section >
+                    <div class="sidebar"> <br><br>
+                       
+                        <br><br>
+                        <a class="sidebar-text-user" href="#">
+                            <img id="sidebar-icon-user" src="Imagens/usuario.png" alt="icone representando o avatar do usuário">
+                            <span class="sidebar-text-user">Maria Alice Souza</span>
+                        </a>
+                        <ul>
+                            <li>
+                                <a href="#">
+                                    <span class="sidebar-text">Minhas estatísticas</span>
+                                    <img class="sidebar-icon" src="Imagens/Estatística.png" alt="ícone representando as estatíticas">
+                                </a>
+                            </li><br><br>
 
-        <nav aria-label="breadcrumb">
-            <ol class="breadcrumb">
-              <li class="breadcrumb-item"><a href="#">Configurações</a></li>
-              <li class="breadcrumb-item active" aria-current="page">Meu desempenho</li>
-            </ol>
-          </nav>
+                            <li>
+                                <a href="#">
+                                    <span class="sidebar-text">Minhas questões</span>
+                                    <img class="sidebar-icon" src="Imagens/Minhas questoes.png" alt="ícone representando as questões feitas">
+                                </a>
+                            </li><br><br>
 
-        <section class="content">
-        
-                <div class="sidebar">
-                    <a class="sidebar-text-user" href="#">
-                        <img id="sidebar-icon-user" src="Imagens/usuario.png" alt="icone representando o avatar do usuário">
-                        <span class="sidebar-text-user">Maria Alice Souza</span>
-                    </a>
-                    <br><br>
-                    <ul>
-                        <li>
-                            <a href="#">
-                                <span class="sidebar-text">Minhas estatísticas</span>
-                                <img class="sidebar-icon" src="Imagens/Estatística.png" alt="ícone representando as estatíticas">
-                            </a>
-                        </li><br><br>
+                            <li>
+                                <a href="#">
+                                    <span class="sidebar-text">Meus cadernos</span>
+                                    <img class="sidebar-icon" src="Imagens/Meus cadernos.png" alt="ícone representando os cadernos salvos">
+                                </a>
+                            </li><br><br>
 
-                        <li>
-                            <a href="#">
-                                <span class="sidebar-text">Minhas questões</span>
-                                <img class="sidebar-icon" src="Imagens/Minhas questoes.png" alt="ícone representando as questões feitas">
-                            </a>
-                        </li><br><br>
+                            <li>
+                                <a href="#">
+                                    <span class="sidebar-text">Meus cursos</span>
+                                    <img class="sidebar-icon" src="Imagens/Meus cursos.png" alt="ícone representando os cursos do usuário">
+                                        </a>
+                            </li><br><br>
 
-                        <li>
-                            <a href="#">
-                                <span class="sidebar-text">Meus cadernos</span>
-                                <img class="sidebar-icon" src="Imagens/Meus cadernos.png" alt="ícone representando os cadernos salvos">
-                            </a>
-                        </li><br><br>
+                            <li>
+                                <a href="#">
+                                    <span class="sidebar-text">Meus interesses</span>
+                                    <img class="sidebar-icon" src="Imagens/meus interesses.png" alt="ícone representando as áreas de interesse do usuário">
+                                </a>
+                            </li><br><br>
 
-                        <li>
-                            <a href="#">
-                                <span class="sidebar-text">Meus cursos</span>
-                                <img class="sidebar-icon" src="Imagens/Meus cursos.png" alt="ícone representando os cursos do usuário">
-                            </a>
-                        </li><br><br>
+                            <li>
+                                <a href="#">
+                                    <span class="sidebar-text">Minha assinatura</span>
+                                    <img class="sidebar-icon" src="Imagens/Minha assinatura.png" alt="ícone representando a assinatura do plano">
+                                </a>
+                            </li><br><br>
 
-                        <li>
-                            <a href="#">
-                                <span class="sidebar-text">Meus interesses</span>
-                                <img class="sidebar-icon" src="Imagens/meus interesses.png" alt="ícone representando as áreas de interesse do usuário">
-                            </a>
-                        </li><br><br>
-
-                        <li>
-                            <a href="#">
-                                <span class="sidebar-text">Minha assinatura</span>
-                                <img class="sidebar-icon" src="Imagens/Minha assinatura.png" alt="ícone representando a assinatura do plano">
-                            </a>
-                        </li><br><br>
-
-                        <li>
-                            <a href="#">
-                                <span class="sidebar-text">Minha rede</span>
-                                <img class="sidebar-icon" src="Imagens/Minha rede.png" alt="ícone representando a rede de contato do usuário">
-                            </a>
-                        </li><br><br>
-                    </ul>
-                </div>
-        </section>  
-
-        <main>
-
-            <div class="content-main">
-                <br><br><br>
-                <img class="content-profile-image" src="Imagens/Perfil com filtro.png" alt="imagem ampliada do perfil do usuario">
-                    <div class="content-main-text">
-                        <a>Meus cursos</a>
-
-                        <div>
-                            <a class="content-main-text-item" href="#">Todos cursos</a>
-                            <a class="content-main-text-item" href="#">Recentes</a>
-                            <a class="content-main-text-item" href="#">Mais populares</a>
-                        </div>
+                            <li>
+                                <a href="#">
+                                    <span class="sidebar-text">Minha rede</span>
+                                    <img class="sidebar-icon" src="Imagens/Minha rede.png" alt="ícone representando a rede de contato do usuário">
+                                </a>
+                            </li><br><br>
+                        </ul>
                     </div>
-
-                    <div class="content-main-curso-atual">
-                        <img class="curso-atual" src="codigo-fonte/src/paginaDesempenho/Imagens/CursoEspanhol.png" alt="imagem do curso em andamento" href="#">
-                        <button id="button3">Continuar</button>
-                        <button id="buttonSeta"></button>
-                    </div>
-
-                    <div class="content-main">
-                        <img class="content-aprenda-mais" src="c:\Users\emili\Downloads\GO PREMIUM.png" alt="imagem para selecionar recursos premium" href="#">
-                        <button id="button4">Go Premium</button>
-                        <button id="buttonSeta"></button>
-                    </div>
-
-                    <div class="content-main-image">
-                        <img class="content-main-image" src="Imagens/Cursos.png" alt="imagem da bandeira alemã indicando o idioma" href="#">
-                        <button>Ver curso</button>
-                        <button id="button2">Ver curso</button>
-                    </div>
+                </section>  
             </div>
 
-        </main>
-    
+            <div class="col-md-6 col-md-2">
+                <main>
+                    <div class="content-main">
+                        <br><br>
+                        <img class="content-profile-image" src="Imagens/Perfil com filtro.png" alt="imagem ampliada do perfil do usuario">
+
+                        <div class="content-main-notification">
+                            <img class="img-noti" src="Imagens/Notification.png" alt="acesso para as notificações">
+                            <div class="card-body">
+                                <button type="button" class="button" id="button5"></button>
+                                <a href="#" class="btn-primary"></a>
+                            </div>
+                        </div>
+
+                        <div class="dropdown">
+                            <div class="dropdown-menu">
+                                
+                            <select name="enumSelect" >
+                                <option value="Semanal"><a class="dropdown-item" href="#">Semanal</a></option>
+                                <option value="Mensal"><a class="dropdown-item" href="#">Mensal</a></option>
+                                <option value="anual"><a class="dropdown-item" href="#">Anual</a></option>
+                            </select>
+                            </div>
+                        </div>
+
+                        <div class="content-main-text">
+                            <a class="content-main-text-item-primo">Estatísticas</a><br>
+                            <div>
+                                <a class="content-main-text-item-primo-dois" href="#">Horas de aprendizado</a>
+                                <a class="content-main-text-item-primo-dois" href="#">Meus cursos</a>
+                                <img class="content-main-estatistica" src="Imagens/YOUR STATISTICS SECTION.png" alt="imagem com as estatísticas de estudo" href="#">
+
+                            </div>
+                        </div>
+
+                        <div class="content-main-text">
+                            <a>Meus cursos</a>
+
+                            <div>
+                                <a class="content-main-text-item" href="#">Todos cursos</a>
+                                <a class="content-main-text-item" href="#">Recentes</a>
+                                <a class="content-main-text-item" href="#">Mais populares</a>
+                            </div>
+                        </div>
+
+                        <div class="content-main-curso-atual">
+                            <a>
+                                <img class="content-main-curso-atual" src="Imagens/Curso atual Espanhol.png" alt="imagem do curso em andamento" href="#">
+                                <button type="button" class="button" id="button3">Continuar</button>
+                                <button id="buttonSeta"></button>
+                            </a>
+                        </div>
+
+                        <div class="content-main-card">
+                            <img src="Imagens/GO PREMIUM.png" class="card-img-top" alt="acesso a recursos premium">
+                            <div class="card-body">
+                                <button type="button" class="button" id="button4"></button>
+                                <a href="#" class="btn-primary">Go Premium</a>
+                            </div>
+                        </div>
+
+                        <div class="content-main">
+                            <img class="content-course-box" src="Imagens/STATSbox.png" alt="imagem dos cursos feitos e em andamento" href="#">
+                        </div>
+
+                        <div class="content-main-image">
+                            <img class="content-main-image" src="Imagens/Cursos.png" alt="imagem da bandeira alemã indicando o idioma" href="#">
+                            <button type="button" class="button">Ver curso</button>
+                            <button type="button" class="button" id="button2">Ver curso</button>
+                        </div>
+                    </div>
+                </main>
+            </div>
+        </div>
+    </div>
+        
         <footer>
             <div class="footer-main">
                 <a class="footer-left" href="#">
