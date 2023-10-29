@@ -95,6 +95,8 @@ A nossa tela de login proporciona uma experiência rápida e segura para acessar
 
 Página de Login
 
+![image](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-2-e1-proj-web-t10-we_need_2_talk/assets/146040771/70ba2329-0ae7-48a1-84b7-4d13f7cf1722)
+
 
 #### Requisito atendido
 
@@ -114,7 +116,8 @@ Página de Login
 
 #### Instruções de acesso
 
-[Adicione as orientações de acesso à funcionalidade]
+<li> O acesso a tela poderá ser feito através do link ****** </li>
+<li> Acesse os links encontrados na página para redirecionar a atividade desejada.</li>
 
 
 #### Responsável
