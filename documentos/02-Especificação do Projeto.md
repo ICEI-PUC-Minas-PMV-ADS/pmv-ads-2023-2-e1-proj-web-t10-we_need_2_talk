@@ -126,7 +126,7 @@
 | RF-03               | Lições Estruturadas: Oferecer lições organizadas por níveis de dificuldade e tópicos, permitindo que os usuários escolham lições relevantes para suas necessidades. Pontuação em quizzes e exercícios, destacando áreas fortes e sugerindo melhorias                       | Baixa                              |
 | RF-04               | Prática de Conversação: Incluir atividades interativas de prática de conversação sessões de áudio, para melhorar as habilidades de comunicação oral dos usuários, conversas de assuntos em comum e personalizadas                       | Alta                              |
 | RF-05               | Acompanhamento de Progresso: Fornecer um painel que exiba o progresso do usuário, detalhando as lições concluídas, considerando insights de áreas que precisam de mais atenção.                        | Média                              |
-| RF-06               | Feedback Personalizado: Oferecer feedback personalizado com base no desempenho do usuário                        |Média                               |
+| RF-06               | Feedback Personalizado: Oferecer feedback personalizado para que os usuários possam avaliar o website.                        |Média                               |
 | RF-07               |Comunidade de Aprendizagem: Implementar fóruns de discussão, grupos de estudo e chat em tempo real para permitir que os usuários interajam, compartilhem dicas e pratiquem com outros aprendizes.                        | Alta                              |
 
 **Prioridade: Alta / Média / Baixa. 
