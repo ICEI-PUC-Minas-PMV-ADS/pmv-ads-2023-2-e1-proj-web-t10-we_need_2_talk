@@ -137,6 +137,7 @@ Permite o usuário a fazer uma avaliação e uma crítica ao website.
 
 Fornece dicas e orientações para praticar o idioma selecionado.
 
-![image](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-2-e1-proj-web-t10-we_need_2_talk/assets/144743493/4b2e2f9a-df12-4ba4-814f-b00e1b556e50)
+![image](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-2-e1-proj-web-t10-we_need_2_talk/assets/144743493/5bd73f7d-14ae-444f-8805-39c0eb0842db)
+
 
 Figura 16 - Tela de Práticas de Conversação.
