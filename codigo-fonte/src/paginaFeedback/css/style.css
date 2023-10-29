@@ -4,6 +4,7 @@
     padding: 0px;
     margin: 0px; 
     box-sizing: border-box;
+    font-family: 'Roboto', sans-serif;
 }
 
 body {
@@ -12,12 +13,12 @@ body {
     display: flex;
     flex-direction: column;
     justify-content: space-between;
+    box-sizing: border-box;
 }
 
 header {
-    font-family: 'Roboto', sans-serif;
-    font-family: 'Saira', sans-serif;
-    background-color: orangered;
+    background-color: #D99F7E ;
+    
     display: flex;
     justify-content: space-between;
     color: white;
@@ -27,7 +28,7 @@ header {
 main {
     max-height: 100%;
     height: 100%;
-    background-color: gray;
+    background-color: #EEEAEA;
     padding: 0 100px;
 }
 
@@ -50,7 +51,7 @@ form {
     margin-bottom: 20px;
     max-width: 500px;
     width: 100%; 
-    font-size: 20px;
+    
 }
 
 .level {
@@ -75,21 +76,22 @@ label {
 }
 
 textarea {
-    background-color: rgb(240, 135, 97);
+    background-color: #D99F7E ;
     color: white;
     border: none; 
-    /* espacamento */
+    
 }
 
 textarea::placeholder {
     color: white;
+    font-size: 20px;
 }
 
 .enviar {
     margin: auto 0;
     max-width: 100px;
     width: 100%;
-    background-color: purple;
+    background-color: #530E73;
     color: white;
     border: none;
     border-radius: 5px;
@@ -102,7 +104,7 @@ footer {
     display: flex;
     justify-content: space-between;
     align-items: center;
-    background-color: rosybrown;
+    background-color: #A64153B5;
     padding: 5px 30px;
     color: white;
 }

@@ -55,6 +55,6 @@ function level(level) {
 
 let Enviar = document.getElementById('Enviar');
 
-Enviar.onclick() {
+Enviar.onclick(); {
     alert("Enviado com sucesso!");
 }
