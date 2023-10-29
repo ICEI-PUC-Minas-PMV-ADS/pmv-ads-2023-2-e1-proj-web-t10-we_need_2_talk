@@ -121,10 +121,7 @@ Abra um navegador de Internet e informe a seguinte URL: [https://icei-puc-minas-
 
 
 ### Título da funcionalidade
-
-Feed.html
-styel.css
-main.js
+Feedback
 
 ![image](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-2-e1-proj-web-t10-we_need_2_talk/assets/146040771/6205e490-8dc6-4aeb-ab87-38b0266c15a0)
 
@@ -134,18 +131,19 @@ main.js
 RF-06	Feedback Personalizado: Oferecer feedback personalizado para que os usuários possam avaliar o website.
 
 ### Artefatos da funcionalidade
-Feedback
+Feed.html
+style.css
+main.js
 
 ### Estrutura de Dados
 
+https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-2-e1-proj-web-t10-we_need_2_talk/blob/main/codigo-fonte/src/paginaFeedback/html/Feed.html
 
-https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-2-e1-proj-web-t10-we_need_2_talk/tree/main/codigo-fonte/src/paginaFeedback
 
 ### Instruções de acesso
 
 
-1. Abra um navegador de Internet e informe a seguinte URL:https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-2-e1-proj-web-t10-we_need_2_talk/tree/main/codigo-fonte/src/paginaFeedback
-2. Logue no site.
+1. Abra um navegador de Internet e informe a seguinte https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-2-e1-proj-web-t10-we_need_2_talk/blob/main/codigo-fonte/src/paginaFeedback/html/Feed.html
 3. Faça uma avaliação sobre como foi sua experiência  no site.
 4. Faça uma crítica construtiva ou elogio.
 5. Clique em enviar.
