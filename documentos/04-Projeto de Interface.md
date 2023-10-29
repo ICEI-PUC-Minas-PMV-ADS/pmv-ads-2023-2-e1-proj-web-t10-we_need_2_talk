@@ -124,3 +124,11 @@ Permite que o usuário possa sanar com clareza suas duvidas.
 ![image](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-2-e1-proj-web-t10-we_need_2_talk/assets/144388125/9323697f-54a6-4de8-9f42-3ad6581b6230)
 
 Figura 14 - Tela de Ajuda
+
+
+Figura 15 - Tela de Feedback
+
+Permite o usuário a fazer uma avaliação e uma crítica ao website.
+
+
+![image](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-2-e1-proj-web-t10-we_need_2_talk/assets/146040771/ead2b6b8-b1a8-4890-9273-d85be5c50793)
