@@ -117,8 +117,42 @@ RF-05	Acompanhamento de Progresso: Fornecer um painel que exiba o progresso do u
 #### Instruções de acesso
 
 Abra um navegador de Internet e informe a seguinte URL: [https://icei-puc-minas-pmv-ads.github.io/pmv-ads-2022-1-e1-proj-web-t3-vida-de-estudante/src/paginaHome/index.htm](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-2-e1-proj-web-t10-we_need_2_talk/blob/main/codigo-fonte/src/paginaDesempenho/other_Novo_Desempenho.html)https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-2-e1-proj-web-t10-we_need_2_talk/blob/main/codigo-fonte/src/paginaDesempenho/other_Novo_Desempenho.html
-
 <hr>
+
+
+### Título da funcionalidade
+
+Feed.html
+styel.css
+main.js
+
+![image](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-2-e1-proj-web-t10-we_need_2_talk/assets/146040771/6205e490-8dc6-4aeb-ab87-38b0266c15a0)
+
+
+
+### Requisito atendido
+RF-06	Feedback Personalizado: Oferecer feedback personalizado para que os usuários possam avaliar o website.
+
+### Artefatos da funcionalidade
+Feedback
+
+### Estrutura de Dados
+
+
+https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-2-e1-proj-web-t10-we_need_2_talk/tree/main/codigo-fonte/src/paginaFeedback
+
+### Instruções de acesso
+
+
+1. Abra um navegador de Internet e informe a seguinte URL:https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-2-e1-proj-web-t10-we_need_2_talk/tree/main/codigo-fonte/src/paginaFeedback
+2. Logue no site.
+3. Faça uma avaliação sobre como foi sua experiência  no site.
+4. Faça uma crítica construtiva ou elogio.
+5. Clique em enviar.
+
+### Responsável
+
+Vitor de Paula Andrade
 
 
 
