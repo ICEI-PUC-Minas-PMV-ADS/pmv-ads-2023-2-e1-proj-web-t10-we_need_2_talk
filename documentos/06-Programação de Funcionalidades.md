@@ -83,6 +83,36 @@ Configuração de Usuário
 #### Responsável
 
 João Victor Diniz Piazza
+<hr>
+
+### Tela de Práticas de conversação (RF-04)
+
+Responsável: Ariel Ortega Acerbi
+
+### Instruções de acesso
+
+<li> O acesso a tela poderá ser feito através do link ****** </li>
+<li> Acesse os links encontrados na pagina para redirecionar a atividade desejada.</li>
+
+### Requisito atendido
+
+RF-04 Prática de Conversação: Incluir atividades interativas de prática de conversação sessões de áudio, para melhorar as habilidades de comunicação oral dos usuários, conversas de assuntos em comum e personalizadas.
+
+
+Exemplo da tela de práticas de conversação.
+
+
+![image](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-2-e1-proj-web-t10-we_need_2_talk/assets/144743493/51bd2d53-acde-4b66-8b5f-86ca8ca179cf)
+
+### Artefatos da funcionalidade
+
+<li>praticasdeConversação.html</li>
+<li>praticasConver.css</li>
+
+### Estrutura de dados
+
+<li>**********</li>
+<hr>
 
 ### Tela de desempenho (RF-05)
 
@@ -91,7 +121,6 @@ Responsável: Emília Raphael dos Santos
 O acesso a tela de desempenho do usuário poderá ser feito através da opção de menu “Exercícios” e depois "Testes/Estatísticas". As estruturas de dados foram baseadas em HTML e CSS.
 
 Exemplo da tela de desempenho: 
-
 
 ![image](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-2-e1-proj-web-t10-we_need_2_talk/assets/144388125/e33032e9-a9f1-4e96-a52c-09c6c379a94a)
 
