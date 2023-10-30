@@ -129,6 +129,8 @@
 | RF-06               | Feedback Personalizado: Oferecer feedback personalizado para que os usuários possam avaliar o website.                        |Média                               |
 | RF-07               |Comunidade de Aprendizagem: Implementar fóruns de discussão, grupos de estudo e chat em tempo real para permitir que os usuários interajam, compartilhem dicas e pratiquem com outros aprendizes.                        | Alta                              |
 | RF-08               |  Permite que o usuário faça login no sistema, caso já possua uma conta. Caso contrário, basta criar uma nova conta e acessar  | Alta                               |
+
+
 **Prioridade: Alta / Média / Baixa. 
 
 ### Requisitos não Funcionais
