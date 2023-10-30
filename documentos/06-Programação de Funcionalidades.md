@@ -133,8 +133,8 @@ Responsável: Ariel Ortega Acerbi
 
 ### Instruções de acesso
 
-<li> O acesso a tela poderá ser feito através do link ****** </li>
-<li> Acesse os links encontrados na pagina para redirecionar a atividade desejada.</li>
+<li> O acesso a tela poderá ser feito através do link https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-2-e1-proj-web-t10-we_need_2_talk/blob/main/codigo-fonte/src/praticasdeConversa%C3%A7%C3%A3o/praticasdeConversa%C3%A7%C3%A3o.html </li>
+<li> Selecione o link desejado para realizar atividades, encontrar grupos, assistir videos, etc.</li>
 
 ### Requisito atendido
 
@@ -153,7 +153,7 @@ Exemplo da tela de práticas de conversação.
 
 ### Estrutura de dados
 
-<li>**********</li>
+<li>https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-2-e1-proj-web-t10-we_need_2_talk/tree/main/codigo-fonte/src/praticasdeConversa%C3%A7%C3%A3o</li>
 <hr>
 
 ### Tela de desempenho (RF-05)
