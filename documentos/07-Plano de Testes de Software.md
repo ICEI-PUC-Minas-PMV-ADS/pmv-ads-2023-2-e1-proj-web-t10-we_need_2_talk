@@ -69,6 +69,41 @@ Os testes funcionais a serem realizados na aplicação são descritos a seguir.
   <td>XXXXXXXXXXXXXXXXX</td>
  </tr>
 </table>
+<table>
+ <tr>
+  <th>Caso de teste</th>
+  <th>Requisitos associados</th>
+  <th>Objetivo do teste</th>
+  <th>Passos</th>
+  <th>Critérios de êxito</th>
+  <th>Responsável</th>
+ </tr>
+ <tr>
+  <td>CT-03: Verificar o funcionamento da página de Feedback</td>
+  <td>
+   <ul>
+    <li>RF-06:	Feedback Personalizado: Oferecer feedback personalizado para que os usuários possam avaliar o website.</li>
+   
+   </ul>
+  </td>
+  <td><ul><li>Verificar se os links da página Home estão encaminhando para as respectivas páginas corretamente.</li>
+  <li>Verificar se aparece a confirmação para o usuário de que sua avaliação sobre o website foi entregue.</li>
+  
+  </ul></td>
+  
+  <td>
+   <ol>
+    <li>Acessar o navegador.</li>
+    <li>Informar o endereço do site.</li>
+    <li>Visualizar a página Home.</li>
+    <li>Clicar no ícone de engrenagem.</li>
+    <li>Clicar em Feedback.</li>
+   </ol>
+   </td>
+  <td>Todos os links da página Home devem encaminhar os usuários para as páginas descritas.</td>
+  <td>XXXXXXXXXXXXXXXXX</td>
+ </tr>
+</table>
 
 [Utilize a estrutura abaixo para cada caso de teste]
 
