@@ -3,6 +3,7 @@
 [Apresente os cenários de testes a serem utilizados na realização dos testes da aplicação. Escolha cenários de testes que demonstrem os requisitos sendo atendidos. ]
 
 Os testes funcionais a serem realizados na aplicação são descritos a seguir. 
+
 <table>
  <tr>
   <th>Caso de teste</th>
@@ -35,6 +36,39 @@ Os testes funcionais a serem realizados na aplicação são descritos a seguir.
  </tr>
 </table>
 
+<table>
+ <tr>
+  <th>Caso de teste</th>
+  <th>Requisitos associados</th>
+  <th>Objetivo do teste</th>
+  <th>Passos</th>
+  <th>Critérios de êxito</th>
+  <th>Responsável</th>
+ </tr>
+ <tr>
+  <td>CT-02: Verificar a página Meu Desempenho</td>
+  <td>
+   <ul>
+    <li>RF-05:	O site deve permitir que o usuário verifique o progresso no(s) curso(s), detalhando as lições concluídas e estatísticas de desempenho individual.</li>
+   </ul>
+  </td>
+  <td>Verificar se os links do menu lateral e botões no núcleo central estão encaminhando para o respectivos itens corretamente</td>
+  <td>
+   <ol>
+    <li>Acessar o navegador.</li>
+    <li>Informar o endereço do site.</li>
+    <li>Visualizar a página Home.</li>
+    <li>Clicar em Exercícios.</li>
+    <li>Na lista suspensa clicar em Testes/Estatísticas.</li>
+    <li>Na lista suspensa clicar em Meu Desempenho.</li>
+    <li>Visualizar as informações referentes desempenho individual do usuário.</li>
+    <li>Clicar no menu lateral (Minhas estatísticas, Minhas questões, Meus cadernos, Meus cursos, Meus interesses, Minha assinatura, Minha rede) e nos botões (Ver curso, Go Premium e Continuar). .</li>  
+   </ol>
+   </td>
+  <td>Todos os links da página Meu Desempenho devem encaminhar os usuários para os elementos descritos.</td>
+  <td>XXXXXXXXXXXXXXXXX</td>
+ </tr>
+</table>
 
 [Utilize a estrutura abaixo para cada caso de teste]
 
