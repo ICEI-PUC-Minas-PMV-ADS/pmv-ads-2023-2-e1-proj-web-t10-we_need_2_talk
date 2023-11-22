@@ -38,7 +38,7 @@ A plataforma será bastante flexível e intuitiva, a fim de promover o ensino e 
 
 # Hospedagem
 
-* [Insira o endereço eletrônico público de acesso ao conteúdo publicado.](https://icei-puc-minas-pmv-ads.github.io/pmv-ads-2023-2-e1-proj-web-t10-we_need_2_talk/codigo-fonte/src/paginaLogin/index.html) 
+* [We Need To Talk.](https://icei-puc-minas-pmv-ads.github.io/pmv-ads-2023-2-e1-proj-web-t10-we_need_2_talk/codigo-fonte/src/paginaLogin/index.html) 
 
 # Código-Fonte
 
