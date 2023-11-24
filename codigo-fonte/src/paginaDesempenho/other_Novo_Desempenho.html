@@ -8,7 +8,7 @@
     <meta name="author"
         content="Ariel Ortega Acerbi, Cassiano Torneiro Baptista, Emília Raphael dos Santos, João Victor Diniz Piazza, Vitor de Paula Andrade">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-   
+    <script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
     <link rel="stylesheet" href="guia_de_estilo_base.css"/>
 </head>
 
@@ -34,12 +34,10 @@
         </header>
     
     <div class="container">
-        <div class="row">
-            <div class="col-md-6 col-md-2">
+
                 <section >
-                    <div class="sidebar"> <br><br>
-                       
-                        <br><br>
+                    <div class="sidebar"><br> 
+                       <br><br>
                         <a class="sidebar-text-user" href="#">
                             <img id="sidebar-icon-user" src="Imagens/usuario.png" alt="icone representando o avatar do usuário">
                             <span class="sidebar-text-user">Maria Alice Souza</span>
@@ -96,12 +94,9 @@
                         </ul>
                     </div>
                 </section>  
-            </div>
 
-            <div class="col-md-6 col-md-2">
                 <main>
-                    <div class="content-main">
-                        <br><br>
+                    <div class="content">
                         <img class="content-profile-image" src="Imagens/Perfil com filtro.png" alt="imagem ampliada do perfil do usuario">
 
                         <div class="content-main-notification">
@@ -111,7 +106,7 @@
                                 <a href="#" class="btn-primary"></a>
                             </div>
                         </div>
-
+                        <canvas id="myChart"></canvas>
                         <div class="dropdown">
                             <div class="dropdown-menu">
                                 
@@ -128,7 +123,7 @@
                             <div>
                                 <a class="content-main-text-item-primo-dois" href="#">Horas de aprendizado</a>
                                 <a class="content-main-text-item-primo-tres" href="#">Meus cursos</a>
-                                <img class="content-main-estatistica" src="Imagens/YOUR STATISTICS SECTION.png" alt="imagem com as estatísticas de estudo" href="#">
+                                <img class="content-main-estatistica" src="#" alt="imagem com as estatísticas de estudo" href="#">
 
                             </div>
                         </div>
@@ -170,8 +165,6 @@
                         </div>
                     </div>
                 </main>
-            </div>
-        </div>
     </div>
         
         <footer>
@@ -180,16 +173,14 @@
                     Ajuda
                 </a>
                 
-                <a class="footer-right" href="../../paginaHome/home.html">
+                <a class="footer-right" href="#">
                     <h3>Logout</h3>
                     <img class="img.footer-right" src="Imagens/saída.png" alt="icone representando a saída da página">
                 </a>                   
             </div>
         </footer>
     </div>
-</body>
-
-</html>
+    <script src="./script.js"></script>
 </body>
 
 </html>
