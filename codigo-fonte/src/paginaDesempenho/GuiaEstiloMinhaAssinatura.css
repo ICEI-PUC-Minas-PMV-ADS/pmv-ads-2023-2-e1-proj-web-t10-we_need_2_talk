@@ -165,7 +165,7 @@
       
         width:100%;
         float:left;
-        margin-top:100px;    
+        margin-top:60px;   
       
       }
       
@@ -266,13 +266,12 @@ select{
 
     .sidebar {
         height: 100%;
-        position: fixed;
-        width: 752px;
+        width: 22cm;
         background:#fff;
         justify-content: space-between;
         flex-direction: row;
         align-items: center;
-        margin-top:-40px;
+        margin-top:1px;   
         margin-left:9rem;
         padding-right: 16rem;
     }
@@ -305,12 +304,6 @@ select{
         position:relative;
         padding-left: 0;
     }
-
-    main {
-        height: 21.8cm;
-        grid-area: main;
-    }
-
     
     .card-img-top {
         width: 400px;
@@ -334,48 +327,14 @@ select{
         margin:auto;
     }
 
-    .content-profile-image {
-        width: 49.313rem;
-        height: 660px;
-        display: block;
-        position: fixed;
-        top: 4.4cm;
-        left: 9.9cm;
-        float: right;
+    img.content-profile-image {
+        margin-right: 210px;
+        float:inline-end;
+        margin-top: -19.5cm;
+        width: 850px;
+        margin-bottom: 0;
+ 
     } 
-
-    .content-main-image { 
-        width: 500px;
-        font-weight: bold;
-        box-sizing: border-box;
-        float: right;
-        position:fixed;
-        left: 10.6cm;
-        top: 16.5cm;
-        margin:auto;
-    } 
-
-    .content-main-curso-atual {
-        width: 235px;
-        font-weight: bold;
-        box-sizing: border-box;
-        float: right;
-        position:fixed;
-        left: 24cm;
-        top: 16.8cm;
-        margin:auto;
-    }
-
-    .content-main-card {
-        width: 200px;
-        font-weight: bold;
-        box-sizing: border-box;
-        float: right;
-        position:fixed;
-        left: 19.6cm;
-        top: 13cm;
-        margin:auto;
-    }
 
     .content-interest {
       height: 2.5cm;
@@ -386,15 +345,15 @@ select{
         width: 3cm;
         position: fixed;
         display: relative;
-        left: 11cm;
-        padding-top: 2.4cm;
+        left: 13cm;
+        padding-top: 1.5cm;
     }
 
     .content-text {
         float: right;
         position: fixed;
-        left: 11cm;
-        top: 12cm;
+        left: 12cm;
+        top: 7cm;
         font-size: 25px;
         color: rgb(85, 78, 78);
     }
@@ -404,7 +363,7 @@ select{
       top: 5.5cm;
       display: center;
       left: 10.5cm;
-      margin-top: 2cm;
+      margin-top: -2cm;
       font-weight: 700;
       font-size: 3cm;
       width: 13cm;
@@ -418,7 +377,7 @@ select{
     h3 {
         color: #fff;
         justify-content: space-between;
-        padding-left: 30px;
+        padding-left: 70px;
         padding-right: 10px;
     }
 
@@ -429,8 +388,12 @@ select{
         background: rgb(217, 159, 126);
     }
 
+    h5 {
+        padding-left: 45px;
+    }
+
     ul {
-        width: 25vh;
+        width: 35vh;
         list-style: none;
         padding:0;  
     }
