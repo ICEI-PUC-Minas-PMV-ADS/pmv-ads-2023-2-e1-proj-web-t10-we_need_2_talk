@@ -37,11 +37,9 @@
         z-index:1;
         float:left; 
         height: 60px;
-      
       }
-      
+
       .header ul {
-        
         margin: 0;
         padding: 0;
         list-style: none;
@@ -161,19 +159,18 @@
         top: 0;
       }
       
-      .container {
-      
+      .container {  
+        
         width:100%;
         float:left;
-        margin-top:100px;    
+        margin-top:60px;    
       
       }
       
       .content { 
-      
         align-items: center;
         width:92%; 
-        margin:0 4%;  
+        margin:0 4%;
        
       }
       
@@ -266,13 +263,12 @@ select{
 
     .sidebar {
         height: 100%;
-        position: fixed;
-        width: 752px;
+        width: 22cm;
         background:#fff;
         justify-content: space-between;
         flex-direction: row;
         align-items: center;
-        margin-top:-40px;
+        margin-top:1px;   
         margin-left:9rem;
         padding-right: 16rem;
     }
@@ -306,23 +302,7 @@ select{
         padding-left: 0;
     }
 
-    main {
-        height: 21.8cm;
-        grid-area: main;
-    }
 
-    .content-main {
-        box-sizing: border-box;
-        width: 24cm;
-        height: fit-content;
-        float: right;
-        position: fixed;
-        display: inline;
-        margin:0;
-        left: 10cm;
-        font-weight: bold;
-        color: rgb(85, 78, 78);
-    }
     
     .card-img-top {
         width: 400px;
@@ -362,14 +342,14 @@ select{
         top: 2cm;
     }
 
-    .content-profile-image {
-        width: 49.313rem;
-        height: 660px;
-        display: block;
-        position: fixed;
-        top: 4.4cm;
-        left: 9.9cm;
-        float: right;
+
+    img.content-profile-image {
+        margin-right: 210px;
+        float:inline-end;
+        margin-top: -19.5cm;
+        width: 850px;
+        margin-bottom: 0;
+ 
     } 
 
     .content-main-text {
@@ -413,19 +393,19 @@ select{
         width: 150px;
     }
 
-    .content-main-text-item-primo-dois {
+    .content-main-text-item-primo-dois {   
         position: fixed;
-        left: 45vh;
-        top: 25vh;
+        left: 75vh;
+        top: 39vh;
         font-weight: 200;
         font-size: 14px;
         width: 150px;
     }
 
-    .content-main-text-item-primo-tres {
+    .content-main-text-item-primo-tres {    
         position: fixed;
-        left: 65vh;
-        top: 25vh;
+        left: 105vh;
+        top: 39vh;
         font-weight: 200;
         font-size: 14px;
         width: 150px;
@@ -571,7 +551,7 @@ select{
 }
 
     ul {
-        width: 25vh;
+        width: 35vh;
         list-style: none;
         padding:0;  
     }
@@ -629,6 +609,13 @@ select{
         width: 50px;
         align-items: end;
     }
+    canvas {
+        margin-top:-20cm;
+        margin-right: 10cm;
+        float:right;
+        max-width: 600px;
+    }
+
     
     
 
