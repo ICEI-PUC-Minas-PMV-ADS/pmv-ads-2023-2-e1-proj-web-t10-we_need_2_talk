@@ -405,6 +405,7 @@ select{
     .content-main-text-item-primo {
         position: fixed;
         display: flex;
+        top: 5cm;
         left: 10.6cm;
         bottom:18.7cm;
         font-weight: 700;
@@ -413,9 +414,18 @@ select{
     }
 
     .content-main-text-item-primo-dois {
-        position: relative;
-        left: 0;
-        bottom:42vh;
+        position: fixed;
+        left: 45vh;
+        top: 25vh;
+        font-weight: 200;
+        font-size: 14px;
+        width: 150px;
+    }
+
+    .content-main-text-item-primo-tres {
+        position: fixed;
+        left: 65vh;
+        top: 25vh;
         font-weight: 200;
         font-size: 14px;
         width: 150px;
