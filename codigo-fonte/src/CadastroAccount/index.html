@@ -1,0 +1,65 @@
+<!DOCTYPE html>
+<html lang="Pt-Br">
+<head>
+    <link rel="stylesheet" href="style.css">
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Cadastro We need 2talk</title>
+</head>
+<body>
+       <main>
+        <div>
+            <h1 id="titulo">Adicione seus dados!</h1>
+        </div>
+        <form>
+            <fieldset class="campo">
+                <div>
+                    <label for="nome">Nome</label>
+                    <input type="text" name="nome" id="nome" required>
+                </div>
+
+                <div class="campo">
+                    <label for="sobrenome">Sobrenome</label>
+                    <input type="text" name="sobrenome" id="sobrenome" required>
+                </div>
+            </fieldset>    
+            <div class="campo">
+                <label for="email">Email</label>
+                    <input type="email" name="email" id="email" required>
+            </div>
+                
+            <div class="campo">
+                <label for="sexo">Sexo:</label>
+                <label>
+                    <input type="radio" name="sexo" value="Feminino" >Feminino
+                </label>
+                <label>
+                    <input type="radio" name="sexo" value="Masculino">Masculino
+                </label>
+                <label>
+                    <input type="radio" name="sexo" value="Naoespecifaco">Não especificado
+                </label>
+            </div>
+        
+            <div class="campo">
+                <label for="senha">Senha</label>
+                <label>
+                    <input type="password" name="senha" id="senha">
+                </label>
+            </div>
+            <div class="campo">
+                <label for="confirmarsenha">Confirmar senha</label>
+                <input type="password" name="senha" id="senha">
+
+            </div>
+        
+        
+            <button class="botao" type="submit">Registrar-se</button>
+        
+        </form>         
+
+    
+        
+    </main>
+</body>
+</html>
