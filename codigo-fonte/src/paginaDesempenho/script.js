@@ -3,7 +3,7 @@ document.addEventListener("DOMContentLoaded", function () {
    
     // Defina seus dados de horários de aprendizado aqui
     const diasSemana = ['Segunda', 'Terça', 'Quarta', 'Quinta', 'Sexta', 'Sábado', 'Domingo'];
-    const horasEstudo = [1, 3, 1, 9, 2.6, 4, 1]; // Horas de estudo por dia
+    const horasEstudo = [0.5, 2, 3.5, 0.5, 7.5, 0, 0]; // Horas de estudo por dia
    
     const myChart = new Chart(ctx, {
       type: 'line',
