@@ -66,7 +66,7 @@ Os testes funcionais a serem realizados na aplicação são descritos a seguir.
    </ol>
    </td>
   <td>Todos os links da página Meu Desempenho devem encaminhar os usuários para os elementos descritos.</td>
-  <td>XXXXXXXXXXXXXXXXX</td>
+  <td>Vitor de Paula Andrade</td>
  </tr>
 </table>
 <table>
@@ -101,7 +101,7 @@ Os testes funcionais a serem realizados na aplicação são descritos a seguir.
    </ol>
    </td>
   <td>Todos os links da página Home devem encaminhar os usuários para as páginas descritas.</td>
-  <td>XXXXXXXXXXXXXXXXX</td>
+  <td>Emília Raphael dos Santos</td>
  </tr>
 </table>
 
