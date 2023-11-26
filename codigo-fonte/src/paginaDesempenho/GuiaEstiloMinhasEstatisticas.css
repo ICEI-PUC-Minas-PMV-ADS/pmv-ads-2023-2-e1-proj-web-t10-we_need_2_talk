@@ -647,16 +647,9 @@ select{
         align-items: end;
     }
     canvas {
-        margin-top:-18.6cm;
-        margin-right: 7.7cm;
-        float:right;
-        max-width: 800px;
-        max-height: 300px;
-    }
-    canvas {
         margin-top:-16cm;
         margin-right: 7.7cm;
         float:right;
         max-width: 800px;
-        max-height: 400px;
+        max-height: 300px;
     }
