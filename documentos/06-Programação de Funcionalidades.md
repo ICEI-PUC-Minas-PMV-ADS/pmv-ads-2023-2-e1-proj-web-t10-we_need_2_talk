@@ -193,13 +193,15 @@ RF-05	Acompanhamento de Progresso: Fornecer um painel que exiba o progresso do u
 
 ● Acessar em: 
 
-● https://icei-puc-minas-pmv-ads.github.io/pmv-ads-2023-2-e1-proj-web-t10-we_need_2_talk/codigo-fonte/src/paginaDesempenho/other_Novo_Desempenho.html
+● [Meu Desempenho](https://icei-puc-minas-pmv-ads.github.io/pmv-ads-2023-2-e1-proj-web-t10-we_need_2_talk/codigo-fonte/src/paginaDesempenho/other_Novo_Desempenho.html)
 
 
 
 #### Instruções de acesso
 
-Abra um navegador de Internet e informe a seguinte URL: [https://icei-puc-minas-pmv-ads.github.io/pmv-ads-2022-1-e1-proj-web-t3-vida-de-estudante/src/paginaHome/index.htm](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-2-e1-proj-web-t10-we_need_2_talk/blob/main/codigo-fonte/src/paginaDesempenho/other_Novo_Desempenho.html)https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-2-e1-proj-web-t10-we_need_2_talk/blob/main/codigo-fonte/src/paginaDesempenho/other_Novo_Desempenho.html
+Abra um navegador de Internet e informe a seguinte URL: https://icei-puc-minas-pmv-ads.github.io/pmv-ads-2023-2-e1-proj-web-t10-we_need_2_talk/codigo-fonte/src/paginaDesempenho/other_Novo_Desempenho.html
+
+Na página há um menu lateral e diversos botões na parte central que o usuário pode acessar.
 <hr>
 
 
