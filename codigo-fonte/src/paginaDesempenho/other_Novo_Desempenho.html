@@ -8,7 +8,7 @@
     <meta name="author"
         content="Ariel Ortega Acerbi, Cassiano Torneiro Baptista, Emília Raphael dos Santos, João Victor Diniz Piazza, Vitor de Paula Andrade">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <link rel="stylesheet" href="header.css"/>
+    <script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
     <link rel="stylesheet" href="guia_de_estilo_base.css"/>
 </head>
 
@@ -17,78 +17,76 @@
 
             <div class="content">
                 <input class="mobile-btn" type="checkbox" id="mobile-btn"/>
-              <label class="mobile-icon" for="mobile-btn"><span class="hamburguer"></span><h1>Meu Desempenho</h1></label>
-                
-              <a class="logo" href="..//paginaConfiguracao/configuracao.html">
+                <label class="mobile-icon" for="mobile-btn"><span class="hamburguer"></span><h1>Meu Desempenho</h1></label>
+              
+              <a class="logo" href="..//paginaConfiguracao/configuracao.html"> 
                 <img src="Imagens/Configuracao.png" alt="Configuração">
 
               <ul class="nav">
           
-                <li><a href="..//paginaHome/home.html" title="Home">Aulas</a></li>
-                <li><a href="..//paginaHome/home.html" title="Sobre">Exercícios</a></li>
-                <li><a href="..//paginaHome/home.html" title="Artigos">Comunidade</a></li>
-                <li><a href="..//paginaHome/home.html" title="Contato">Medalhas</a></li>
+                <li><a href="#" title="Home">Aulas</a></li>
+                <li><a href="#" title="Sobre">Exercícios</a></li>
+                <li><a href="#" title="Artigos">Comunidade</a></li>
+                <li><a href="#" title="Contato">Medalhas</a></li>
               
               </ul>
             </div>
         </header>
     
     <div class="container">
-        <div class="row">
-            <div class="col-md-6 col-md-2">
+
                 <section >
-                    <div class="sidebar"> <br><br>
-                       
-                        <br><br>
+                    <div class="sidebar"><br> 
+                       <br><br>
                         <a class="sidebar-text-user" href="#">
                             <img id="sidebar-icon-user" src="Imagens/usuario.png" alt="icone representando o avatar do usuário">
                             <span class="sidebar-text-user">Maria Alice Souza</span>
                         </a>
                         <ul>
                             <li>
-                                <a href="#">
+                                <a href="MinhasEstatisticas.html">
                                     <span class="sidebar-text">Minhas estatísticas</span>
                                     <img class="sidebar-icon" src="Imagens/Estatística.png" alt="ícone representando as estatíticas">
                                 </a>
                             </li><br><br>
 
                             <li>
-                                <a href="#">
+                                <a href="MinhasQuestoes.html">
                                     <span class="sidebar-text">Minhas questões</span>
                                     <img class="sidebar-icon" src="Imagens/Minhas questoes.png" alt="ícone representando as questões feitas">
                                 </a>
                             </li><br><br>
 
                             <li>
-                                <a href="#">
+                                <a href="MeusCadernos.html">
                                     <span class="sidebar-text">Meus cadernos</span>
                                     <img class="sidebar-icon" src="Imagens/Meus cadernos.png" alt="ícone representando os cadernos salvos">
                                 </a>
                             </li><br><br>
 
                             <li>
-                                <a href="#">
+                                <a href="MeusCursos.html">
                                     <span class="sidebar-text">Meus cursos</span>
                                     <img class="sidebar-icon" src="Imagens/Meus cursos.png" alt="ícone representando os cursos do usuário">
                                         </a>
                             </li><br><br>
 
                             <li>
-                                <a href="#">
+                                <a href="MeusInteresses.html">
                                     <span class="sidebar-text">Meus interesses</span>
                                     <img class="sidebar-icon" src="Imagens/meus interesses.png" alt="ícone representando as áreas de interesse do usuário">
                                 </a>
                             </li><br><br>
 
                             <li>
-                                <a href="#">
+                                <a href="MinhaAssinatura.html">
                                     <span class="sidebar-text">Minha assinatura</span>
                                     <img class="sidebar-icon" src="Imagens/Minha assinatura.png" alt="ícone representando a assinatura do plano">
                                 </a>
                             </li><br><br>
 
                             <li>
-                                <a href="#">
+                                <a href="MinhaRede.html">
                                     <span class="sidebar-text">Minha rede</span>
                                     <img class="sidebar-icon" src="Imagens/Minha rede.png" alt="ícone representando a rede de contato do usuário">
                                 </a>
@@ -96,83 +94,68 @@
                         </ul>
                     </div>
                 </section>  
-            </div>
 
-            <div class="col-md-6 col-md-2">
                 <main>
-                    <div class="content-main">
-                        <br><br>
+                    <div class="content">
                         <img class="content-profile-image" src="Imagens/Perfil com filtro.png" alt="imagem ampliada do perfil do usuario">
-
-                        <div class="content-main-notification">
-                            <img class="img-noti" src="Imagens/Notification.png" alt="acesso para as notificações">
-                            <div class="card-body">
-                                <button type="button" class="button" id="button5"></button>
-                                <a href="#" class="btn-primary"></a>
-                            </div>
                         </div>
-
-                        <div class="dropdown">
-                            <div class="dropdown-menu">
-                                
-                            <select name="enumSelect" >
-                                <option value="Semanal"><a class="dropdown-item" href="#">Semanal</a></option>
-                                <option value="Mensal"><a class="dropdown-item" href="#">Mensal</a></option>
-                                <option value="anual"><a class="dropdown-item" href="#">Anual</a></option>
-                            </select>
-                            </div>
-                        </div>
+                        <canvas id="myChart"></canvas>
 
                         <div class="content-main-text">
                             <a class="content-main-text-item-primo">Estatísticas</a><br>
-                            <div>
-                                <a class="content-main-text-item-primo-dois" href="#">Horas de aprendizado</a>
-                                <a class="content-main-text-item-primo-dois" href="#">Meus cursos</a>
-                                <img class="content-main-estatistica" src="Imagens/YOUR STATISTICS SECTION.png" alt="imagem com as estatísticas de estudo" href="#">
-
-                            </div>
                         </div>
 
                         <div class="content-main-text">
                             <a>Meus cursos</a>
 
                             <div>
-                                <a class="content-main-text-item" href="#">Todos cursos</a>
-                                <a class="content-main-text-item" href="#">Recentes</a>
-                                <a class="content-main-text-item" href="#">Mais populares</a>
+                                <a class="content-main-text-item" href="MeusCursos.html">Todos cursos</a>
+                                <a class="content-main-text-item" href="CursosEmAndamento.html">Recentes</a>
                             </div>
-                        </div>
-
-                        <div class="content-main-curso-atual">
-                            <a>
-                                <img class="content-main-curso-atual" src="Imagens/Curso atual Espanhol.png" alt="imagem do curso em andamento" href="#">
-                                <button type="button" class="button" id="button3">Continuar</button>
-                                <button id="buttonSeta"></button>
-                            </a>
                         </div>
 
                         <div class="content-main-card">
                             <img src="Imagens/GO PREMIUM.png" class="card-img-top" alt="acesso a recursos premium">
                             <div class="card-body">
                                 <button type="button" class="button" id="button4"></button>
-                                <a href="#" class="btn-primary">Go Premium</a>
+                                <a href="MinhaAssinatura.html" class="btn-primary">Go Premium</a>
                             </div>
                         </div>
 
-                        <div class="content-main">
-                            <img class="content-course-box" src="Imagens/STATS BOXES.png" alt="imagem dos cursos feitos e em andamento" href="#">
+
+                        <div class="content-main-card">
+                            <div class="card-body">
+                                <button type="button" class="button" id="button5"></button>
+                                <a href="CursosCompletados.html" class="btn-primary2">2 Cursos Completados</a>
+                            </div>
+                        </div>
+                        <div class="content-main-card">
+                            <div class="card-body">
+                                <button type="button" class="button" id="button6"></button>
+                                <a href="CursosEmAndamento.html" class="btn-primary3">3 Cursos em andamento</a>
+                            </div>
                         </div>
 
-                        <div class="content-main-image">
-                            <img class="content-main-image" src="Imagens/Cursos.png" alt="imagem da bandeira alemã indicando o idioma" href="#">
-                            <button type="button" class="button">Ver curso</button>
-                            <button type="button" class="button" id="button2">Ver curso</button>
+                        <div class="content-main-card">
+                            <div class="card-body">
+                                <button type="button" class="button" id="button7"></button>
+                                <a href="MeuAlemao.html" class="btn-primary7">Ver curso</a>
+                                <button type="button" class="button" id="button8"></button>
+                                <a href="MeuItaliano.html" class="btn-primary8">Ver curso</a>
+                                <img class="content-main-cursos" src="Imagens/Group 70.png" alt="imagem da bandeira alemã indicando o idioma">
+                            </div>
                         </div>
+
+                        <div class="content-main-card">
+                            <div class="card-body">
+                                <img class="content-main-curso-atual" src="Imagens/Espanholcurso.png" alt="imagem da bandeira alemã indicando o idioma">
+                                <button type="button" class="button" id="button3"></button>
+                                <a href="MeuEspanhol.html" class="btn-primary9">Ver curso</a>
+                            </div>
+                        </div>
+
                     </div>
                 </main>
-            </div>
-        </div>
-    </div>
         
         <footer>
             <div class="footer-main">
@@ -187,6 +170,7 @@
             </div>
         </footer>
     </div>
+    <script src="./script.js"></script>
 </body>
 
 </html>

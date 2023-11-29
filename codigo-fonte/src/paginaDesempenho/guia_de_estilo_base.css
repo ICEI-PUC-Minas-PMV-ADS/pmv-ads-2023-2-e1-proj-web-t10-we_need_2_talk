@@ -37,11 +37,9 @@
         z-index:1;
         float:left; 
         height: 60px;
-      
       }
-      
+
       .header ul {
-        
         margin: 0;
         padding: 0;
         list-style: none;
@@ -161,19 +159,18 @@
         top: 0;
       }
       
-      .container {
-      
+      .container {  
+        
         width:100%;
         float:left;
-        margin-top:100px;    
+        margin-top:60px;    
       
       }
       
       .content { 
-      
         align-items: center;
         width:92%; 
-        margin:0 4%;  
+        margin:0 4%;
        
       }
       
@@ -266,13 +263,12 @@ select{
 
     .sidebar {
         height: 100%;
-        position: fixed;
-        width: 752px;
+        width: 22cm;
         background:#fff;
         justify-content: space-between;
         flex-direction: row;
         align-items: center;
-        margin-top:-40px;
+        margin-top:1px;   
         margin-left:9rem;
         padding-right: 16rem;
     }
@@ -306,23 +302,7 @@ select{
         padding-left: 0;
     }
 
-    main {
-        height: 21.8cm;
-        grid-area: main;
-    }
 
-    .content-main {
-        box-sizing: border-box;
-        width: 24cm;
-        height: fit-content;
-        float: right;
-        position: fixed;
-        display: inline;
-        margin:0;
-        left: 10cm;
-        font-weight: bold;
-        color: rgb(85, 78, 78);
-    }
     
     .card-img-top {
         width: 400px;
@@ -362,14 +342,14 @@ select{
         top: 2cm;
     }
 
-    .content-profile-image {
-        width: 49.313rem;
-        height: 660px;
-        display: block;
-        position: fixed;
-        top: 4.4cm;
-        left: 9.9cm;
-        float: right;
+
+    img.content-profile-image {
+        margin-right: 210px;
+        float:inline-end;
+        margin-top: -19.5cm;
+        width: 850px;
+        margin-bottom: 0;
+ 
     } 
 
     .content-main-text {
@@ -379,8 +359,8 @@ select{
         font-weight:bold;
         margin-bottom: 0;
         position:fixed;
-        top: 15.4cm;
-        left: 10.6cm;
+        top: 12.5cm;
+        left: 11.6cm;
         padding-bottom: 2px;
         text-align: left;
         display: flex;
@@ -404,18 +384,27 @@ select{
 
     .content-main-text-item-primo {
         position: fixed;
-        display: flex;
-        left: 10.6cm;
+        top: 2cm;
+        left: 11.5cm;
         bottom:18.7cm;
         font-weight: 700;
         font-size: 14px;
         width: 150px;
     }
 
-    .content-main-text-item-primo-dois {
-        position: relative;
-        left: 0;
-        bottom:42vh;
+    .content-main-text-item-primo-dois {   
+        position: fixed;
+        left: 75vh;
+        top: 39vh;
+        font-weight: 200;
+        font-size: 14px;
+        width: 150px;
+    }
+
+    .content-main-text-item-primo-tres {    
+        position: fixed;
+        left: 105vh;
+        top: 39vh;
         font-weight: 200;
         font-size: 14px;
         width: 150px;
@@ -464,7 +453,7 @@ select{
         float: right;
         position:fixed;
         left: 24cm;
-        top: 16.8cm;
+        top: 13.5cm;
         margin:auto;
     }
 
@@ -474,8 +463,8 @@ select{
         box-sizing: border-box;
         float: right;
         position:fixed;
-        left: 19.6cm;
-        top: 13cm;
+        left: 21.5cm;
+        top: 10.6cm;
         margin:auto;
     }
 
@@ -492,10 +481,57 @@ select{
 
     .btn-primary {
         position: fixed;
-        top: 14.55cm;
-        left: 27.3cm;
+        top: 12.2cm;
+        left: 28.6cm;
         color:#fff;
         font-size: 12px;
+    }
+
+    .btn-primary2 {
+        position: fixed;
+        top: 10.9cm;
+        left: 12.5cm;
+        color:#4d4848;
+        font-size: 16px;
+        width: 150px;
+        align-content: center;
+    }
+
+    .btn-primary3 {
+        position: fixed;
+        top: 10.9cm;
+        left: 17.5cm;
+        color:#4d4848;
+        font-size: 16px;
+        width: 150px;
+        align-content: center;
+    }
+    .btn-primary7 {
+        position: fixed;
+        top: 14.3cm;
+        left: 17.6cm;
+        color: #fff;
+        font-size: 13px;
+        width: 150px;
+        align-content: center;
+    }
+    .btn-primary8 {
+        position: fixed;
+        top: 16.5cm;
+        left: 17.6cm;
+        color: #fff;
+        font-size: 13px;
+        width: 150px;
+        align-content: center;
+    }
+    .btn-primary9 {
+        position: fixed;
+        top: 16.3cm;
+        left: 26.45cm;
+        color: #fff;
+        font-size: 14px;
+        width: 150px;
+        align-content: center;
     }
 
     .content-main-text {
@@ -511,6 +547,11 @@ select{
     .content-main-text div {
         display: flex;
         flex-direction: row;
+    }
+
+    .content-main-cursos {
+        margin-left: -10cm;
+        margin-top: 3cm;
     }
 
 .button {
@@ -540,28 +581,53 @@ select{
  }
 
 #button3 {
-    width: 6rem;
+    width: 9rem;
     position: fixed;
-    top: 18.5cm;
-    left: 27.4cm;
+    top: 16cm;
+    left: 25.4cm;
 }
 
 #button4 {
     position: fixed;
-    top: 14.3cm;
-    left: 26.7cm;
+    top: 11.9cm;
+    left: 28cm;
     height: 34px;
 }
 
 #button5 {
     position: fixed;
-    top: 14.3cm;
-    left: 26.7cm;
+    top: 10.6cm;
+    left: 11.9cm;
+    height: 64px;
+    width: 150px;
+    background-color: rgba(245, 245, 237, 0.521);
+    border-color: rgba(245, 245, 237, 0.521);
+}
+#button6 {
+    position: fixed;
+    top: 10.6cm;
+    left: 16.8cm;
+    height: 64px;
+    width: 150px;
+    background-color: rgba(245, 245, 237, 0.521);
+    border-color: rgba(245, 245, 237, 0.521);
+}
+#button7 {
+    position: fixed;
+    top: 14.1cm;
+    left: 16.8cm;
+    height: 34px;
+}
+#button8 {
+    position: fixed;
+    top: 16.3cm;
+    left: 16.8cm;
     height: 34px;
 }
 
+
     ul {
-        width: 25vh;
+        width: 35vh;
         list-style: none;
         padding:0;  
     }
@@ -619,6 +685,16 @@ select{
         width: 50px;
         align-items: end;
     }
+    canvas {
+        margin-top:-18.6cm;
+        margin-right: 7.7cm;
+        float:right;
+        max-width: 800px;
+        max-height: 300px;
+    }
+
+
+
     
     
 
