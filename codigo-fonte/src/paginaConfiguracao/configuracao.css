@@ -9,10 +9,14 @@ body {
 #nav {
     background-color: #D99F7E;
 }
+
+/* Titulos das tabelas */
 h5{
     text-align: center;
+    margin-top: 10px;
 }
 
+/* icone que volta a página menu */
 #setaMenu {
     margin-top: 7px;
     width: 7%;
@@ -22,6 +26,7 @@ h5{
     filter: drop-shadow(0px 4px 4px rgba(0, 0, 0, 0.25));
 }
 
+/* Titulo principal da página, localizada no header */
 .textNav {
     font-size: 22px;
     font-family: spartan, Helvetica, sans-serif;
@@ -30,21 +35,30 @@ h5{
     padding: 1px;
 }
 
+/* Caixas da tabela 1 */
 .inputTable1 {
     margin-left: 20px;
     width: 280px;
 }
 
+/* Caixas da tabela 2 ( alinha-las a tabela 1) */
 .inputTable2 {
     width: 280px;
 }
 
+/* Campo da Biografia */
 .iBibliografia {
     margin-left: 20px;
     width: 280px;
     height: 89px;
 }
 
+.link-opacity-25-hover {
+    font-family: spartan, Helvetica, sans-serif;
+    font-size: 10px;
+}
+
+/* lista de idiomas */
 .listaIdiomas {
     float: right;
     text-align: right;
@@ -55,11 +69,13 @@ h5{
     margin-top: 5px;
 }
 
+/* Imagens das bandeiras dos paises */
 #imgPais {
     width: 5%;
     padding-left: 5px;
 }
 
+/* Botão de salvar */
 #salvar {
     background-color: #530E73;
     color: #fff;
@@ -69,6 +85,7 @@ h5{
     margin-bottom: 7px;
 }
 
+/* Rodapé */
 footer {
     background-color: #A64153;
     color: #fff;
@@ -110,6 +127,7 @@ footer {
     td{
         padding: 0;
     }
+}
 
     /* a {
         display: block;
@@ -117,4 +135,3 @@ footer {
         float: left;
         box-sizing: border-box;
     } */
-}

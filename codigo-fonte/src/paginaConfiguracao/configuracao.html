@@ -1,201 +1,495 @@
 <!DOCTYPE html>
 <html lang="pt-br">
-
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
-    <link rel="stylesheet" href="configuracao.css">
+  <head>
+    <meta charset="UTF-8" />
+    <meta
+      name="viewport"
+      content="width=device-width, initial-scale=1, maximum-scale=1"
+    />
+    <link rel="stylesheet" href="configuracao.css" />
+    <script defer src>
+      "./configuracao.js";
+    </script>
     <title>Configuração</title>
+    <script defer src="configuracao.js"></script>
+    <link
+      href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.2/dist/css/bootstrap.min.css"
+      rel="stylesheet"
+      integrity="sha384-T3c6CoIi6uLrA9TneNEoa7RxnatzjcDSCmG1MXxSR1GAsXEV/Dwwykc2MPK8M2HN"
+      crossorigin="anonymous"
+    />
+    <script
+      src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.2/dist/js/bootstrap.bundle.min.js"
+      integrity="sha384-C6RzsynM9kWDrMNeT87bh95OGNyZPhcTNXj1NW7RuBCsyN/o0jlpcV8Qyq46cDfL"
+      crossorigin="anonymous"
+    ></script>
 
-    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.2/dist/css/bootstrap.min.css" rel="stylesheet"
-        integrity="sha384-T3c6CoIi6uLrA9TneNEoa7RxnatzjcDSCmG1MXxSR1GAsXEV/Dwwykc2MPK8M2HN" crossorigin="anonymous">
-    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.2/dist/js/bootstrap.bundle.min.js"
-        integrity="sha384-C6RzsynM9kWDrMNeT87bh95OGNyZPhcTNXj1NW7RuBCsyN/o0jlpcV8Qyq46cDfL"
-        crossorigin="anonymous"></script>
-</head>
+    <!-- Mascaras Telefone -->
+    <script src="//ajax.googleapis.com/ajax/libs/jquery/1.11.1/jquery.min.js"></script>
+    <script src="//cdnjs.cloudflare.com/ajax/libs/jquery.maskedinput/1.4.1/jquery.maskedinput.min.js"></script>
+  </head>
 
-<body>
-
+  <body>
     <header class="container-fluid">
-        <div id="nav" class="row">
-            <div class="col-md-4"><a href="..//paginaHome/home.html"><img id="setaMenu" src="..//assets/Arrow 54.png" alt="Seta para voltar ao menu"></a></div>
-            <div class="col-md-4"><h3 class="textNav">Configuração de Usuário</h3></div>
-            <div class="col-md-4"></div>
-            
+      <div id="nav" class="row">
+        <div class="col-md-4">
+          <a href="..//paginaHome/home.html"
+            ><img
+              id="setaMenu"
+              src="..//assets/Arrow 54.png"
+              alt="Seta para voltar ao menu"
+          /></a>
         </div>
+        <div class="col-md-4">
+          <h3 class="textNav">Configuração de Usuário</h3>
+        </div>
+        <div class="col-md-4"></div>
+      </div>
     </header>
 
     <main class="container">
+      <form id="formulario1" method="post" autocomplete="on">
         <div class="row">
-            <div class="col-md-6">
-                <h5>Informações de Perfil</h5>
-                <table>
-                    <tr>
-                        <td><label for="iNomedeExibição">Nome de exibição</label></td>
-                        <td><input class="inputTable1" type="text" name="NomedeExibição" id="iNomedeExibição" required
-                                minlength="5" maxlength="15" placeholder="Nome de exibição" autocomplete="name"></td>
-                    </tr>
-                    <tr>
-                        <td><label for="iBibliografia">Biografia</label></td>
-                        <td><input class="iBibliografia" type="text" name="Bibliografia " id="iBibliografia " required
-                                maxlength="30" placeholder="Conte mais sobre você ..."></td>
-                    </tr>
-                    <tr>
-                        <td> <label for="iLinks">Links</label></td>
-                        <td><input class="inputTable1" type="text" name="Links" id="iLinks" placeholder=" Links"></td>
-                    </tr>
-                    <tr>
-                        <td> <label for="iMetas">Metas</label></td>
-                        <td><input class="inputTable1" type="text" name="Metas" id="iMetas"
-                                placeholder="Posição rankig ">
-                        </td>
-                    </tr>
-                </table>
-                <h5 style="margin-top: 10px;">Informações da Conta</h5>
-                <table>
-                    <tr>
-                        <td><label for="iNomedeUsuário">Nome de usuário*</label></td>
-                        <td><input class="inputTable2" type="text" name="NomedeUsuário" id="iNomedeUsuário" required
-                                minlength="10" maxlength="25" placeholder="Nome Completo" autocomplete="name"></td>
-                    </tr>
-                    <tr>
-                        <td><label for="iemail">Email*</label></td>
-                        <td> <input class="inputTable2" type="email" name=" email" id="iemail" required
-                                placeholder="exemplo@exemplo.com" autocomplete="email"></td>
-                    </tr>
-                    <tr>
-                        <td><label for="iNumerodeTelefone">Numero de telefone*</label></td>
-                        <td><input class="inputTable2" type="tel" name="NumerodeTelefone" id="iNumerodeTelefone"
-                                autocomplete="tel" pattern="\(\d{2}\)^[0-9]{4,5}-{0-9}-{4,5}$" required min="8" max="12"
-                                placeholder=" DDD + número" autocomplete="cc-number"></td>
-                    </tr>
-                    <tr>
-                        <td> <label for="iSenhaAtual">Senha atual*</label></td>
-                        <td><input class="inputTable2" type="password" name="SenhaAtual" id="iSenhaAtual" required
-                                minlength="8" maxlength="25" placeholder="Digite Senha Atual"
-                                autocomplete="current-password"></td>
-                    </tr>
-                    <tr>
-                        <td><label for="iNovaSenha">Nova senha*</label></td>
-                        <td> <input class="inputTable2" type="password" name="NovaSenha" id="iNovaSenha" required
-                                minlength="8" maxlength="25" placeholder="Digite Nova Senha"
-                                autocomplete="new-password"></td>
-                    </tr>
-                    <tr>
-                        <td><label for="iConfirmaSenha">Confirma senha*</label></td>
-                        <td><input class="inputTable2" type="password" name="ConfirmaSenha" id="iConfirmaSenha"
-                                required minlength="8" maxlength="25" placeholder="Confirme Nova Senha"
-                                autocomplete="new-password"></td>
-                    </tr>
-                    <tr>
-                        <td><label for="iIdiomadaInterface">Idioma da Interface</label></td>
-                        <td><select class="inputTable2" name="iIdiomadaInterface" id="iIdiomadaInterface">
-                                <option value="" select>Escolha seu idioma</option>
-                                <option>Alemão</option>
-                                <option>Espanhol</option>
-                                <option>Frances</option>
-                                <option>Inglês</option>
-                                <option>Portugues</option>
-                            </select></td>
-                    </tr>
-                </table>
-            </div>
-            <div class="col-md-6">
-                <h5 class="SelecioneIdiomas">Idiomas</h5>
-                <p class="pselecione">
-                    Selecione os idiomas que você fala para encontrar amigos e trocar conhecimentos.
-                </p>
+          <div class="col-md-6">
+            <h5>Informações de Perfil</h5>
+            <table>
+              <tr>
+                <td><label for="iNomedeExibição">Nome de exibição</label></td>
+                <td>
+                  <input
+                    class="inputTable1"
+                    type="text"
+                    name="NomedeExibição"
+                    id="iNomedeExibição"
+                    required
+                    minlength="5"
+                    maxlength="15"
+                    placeholder="Nome de exibição"
+                    autocomplete="name"
+                  />
+                </td>
+              </tr>
+              <tr>
+                <td><label for="iBibliografia">Biografia</label></td>
+                <td>
+                  <input
+                    class="iBibliografia"
+                    type="text"
+                    name="Bibliografia"
+                    id="iBibliografia"
+                    required
+                    maxlength="30"
+                    placeholder="Conte mais sobre você ..."
+                  />
+                </td>
+              </tr>
+              <tr>
+                <td><label for="iLinks">Links</label></td>
+                <td>
+                  <input
+                    class="inputTable1"
+                    type="text"
+                    name="Links"
+                    id="iLinks"
+                    placeholder=" Links"
+                  />
+                </td>
+              </tr>
+              <tr>
+                <td><label for="iMetas">Metas</label></td>
+                <td>
+                  <input
+                    class="inputTable1"
+                    type="text"
+                    name="Metas"
+                    id="iMetas"
+                    placeholder="Posição rankig "
+                  />
+                </td>
+              </tr>
+            </table>
+            <h5>Informações da Conta</h5>
+            <table>
+              <tr>
+                <td><label for="iNomedeUsuário">Nome de usuário*</label></td>
+                <td>
+                  <input
+                    class="inputTable2"
+                    type="text"
+                    name="NomedeUsuário"
+                    id="iNomedeUsuário"
+                    required
+                    minlength="10"
+                    maxlength="25"
+                    placeholder="Nome Completo"
+                    autocomplete="name"
+                  />
+                </td>
+              </tr>
+              <tr>
+                <td><label for="iemail">Email*</label></td>
+                <td>
+                  <input
+                    class="inputTable2"
+                    type="email"
+                    name=" email"
+                    id="iemail"
+                    required
+                    placeholder="exemplo@exemplo.com"
+                    autocomplete="email"
+                  />
+                </td>
+              </tr>
+              <tr>
+                <td>
+                  <label for="iNumerodeTelefone">Numero de telefone*</label>
+                </td>
+                <td>
+                  <input
+                    class="inputTable2"
+                    type="tel"
+                    name="NumerodeTelefone"
+                    id="iNumerodeTelefone"
+                    autocomplete="tel"
+                    placeholder="(00) 0000-0000" 
+                    maxlength="14"
+                  />
+                </td>
+              </tr>
+              <tr>
+                <td><label for="iSenhaAtual">Senha atual*</label></td>
+                <td>
+                  <input
+                    class="inputTable2"
+                    type="password"
+                    name="SenhaAtual"
+                    id="iSenhaAtual"
+                    required
+                    minlength="8"
+                    maxlength="25"
+                    placeholder="Digite Senha Atual"
+                    autocomplete="current-password"
+                  />
+                </td>
+              </tr>
+              <tr>
+                <td><label for="iNovaSenha">Nova senha*</label></td>
+                <td>
+                  <input
+                    class="inputTable2"
+                    type="password"
+                    name="NovaSenha"
+                    id="iNovaSenha"
+                    required
+                    minlength="8"
+                    maxlength="25"
+                    placeholder="Digite Nova Senha"
+                    autocomplete="new-password"
+                  />
+                </td>
+              </tr>
+              <tr>
+                <td><label for="iConfirmaSenha">Confirma senha*</label></td>
+                <td>
+                  <input
+                    class="inputTable2"
+                    type="password"
+                    name="ConfirmaSenha"
+                    id="iConfirmaSenha"
+                    required
+                    minlength="8"
+                    maxlength="25"
+                    placeholder="Confirme Nova Senha"
+                    autocomplete="new-password"
+                  />
+                </td>
+              </tr>
+              <tr>
+                <td>
+                  <label for="iIdiomadaInterface">Idioma da Interface</label>
+                </td>
+                <td>
+                  <select
+                    class="inputTable2"
+                    name="iIdiomadaInterface"
+                    id="iIdiomadaInterface"
+                  >
+                    <option value="" select>Escolha seu idioma</option>
+                    <option value="Alemão">Alemão</option>
+                    <option value="Espanhol">Espanhol</option>
+                    <option value="Frances">Frances</option>
+                    <option value="Inglês">Inglês</option>
+                    <option value="Portugues">Portugues</option>
+                  </select>
+                </td>
+              </tr>
+            </table>
+          </div>
+      </form>
 
+          <div class="col-md-6">
+            <h5 class="SelecioneIdiomas">Idiomas</h5>
+            <p class="pselecione">
+              Selecione os idiomas que você fala para encontrar amigos e trocar
+              conhecimentos.
+            </p>
+
+            <form id="formIdiomas">
                 <div class="form-check form-switch">
-                    <img id="imgPais" src="..//assets/alemanhã.png" alt="Idioma alemão">
-                    <input class="form-check-input" type="checkbox" role="switch" id="flexSwitchCheckDefault">
-                    <label class="form-check-label" for="flexSwitchCheckDefault">Alemão</label>
+                  <img
+                    id="imgPais"
+                    src="..//assets/alemanhã.png"
+                    alt="Idioma alemão"
+                  />
+                  <input
+                    class="form-check-input"
+                    type="checkbox"
+                    role="switch"
+                    id="flexSwitchCheckDefault"
+                    value="Alemão"
+                  />
+                  <label class="form-check-label" for="flexSwitchCheckDefault"
+                    >Alemão</label
+                  >
                 </div>
                 <div class="form-check form-switch">
-                    <img id="imgPais" src="..//assets/arabia.png" alt="Idioma alemão">
-                    <input class="form-check-input" type="checkbox" role="switch" id="flexSwitchCheckDefault">
-                    <label class="form-check-label" for="flexSwitchCheckDefault">Arabe</label>
+                  <img
+                    id="imgPais"
+                    src="..//assets/arabia.png"
+                    alt="Idioma alemão"
+                  />
+                  <input
+                    class="form-check-input"
+                    type="checkbox"
+                    role="switch"
+                    id="flexSwitchCheckDefault"
+                    value="Arabe"
+                  />
+                  <label class="form-check-label" for="flexSwitchCheckDefault"
+                    >Arabe</label
+                  >
                 </div>
                 <div class="form-check form-switch">
-                    <img id="imgPais" src="..//assets/china (2).png" alt="Idioma alemão">
-                    <input class="form-check-input" type="checkbox" role="switch" id="flexSwitchCheckDefault">
-                    <label class="form-check-label" for="flexSwitchCheckDefault">Chinês</label>
+                  <img
+                    id="imgPais"
+                    src="..//assets/china (2).png"
+                    alt="Idioma alemão"
+                  />
+                  <input
+                    class="form-check-input"
+                    type="checkbox"
+                    role="switch"
+                    id="flexSwitchCheckDefault"
+                    value="Chinês"
+                  />
+                  <label class="form-check-label" for="flexSwitchCheckDefault"
+                    >Chinês</label
+                  >
                 </div>
                 <div class="form-check form-switch">
-                    <img id="imgPais" src="..//assets/coreia.png" alt="Idioma alemão">
-                    <input class="form-check-input" type="checkbox" role="switch" id="flexSwitchCheckDefault">
-                    <label class="form-check-label" for="flexSwitchCheckDefault">Coreano</label>
+                  <img
+                    id="imgPais"
+                    src="..//assets/coreia.png"
+                    alt="Idioma alemão"
+                  />
+                  <input
+                    class="form-check-input"
+                    type="checkbox"
+                    role="switch"
+                    id="flexSwitchCheckDefault"
+                    value="Coreano"
+                  />
+                  <label class="form-check-label" for="flexSwitchCheckDefault"
+                    >Coreano</label
+                  >
                 </div>
                 <div class="form-check form-switch">
-                    <img id="imgPais" src="..//assets/espanha.png" alt="Idioma alemão">
-                    <input class="form-check-input" type="checkbox" role="switch" id="flexSwitchCheckDefault">
-                    <label class="form-check-label" for="flexSwitchCheckDefault">Espanhol</label>
+                  <img
+                    id="imgPais"
+                    src="..//assets/espanha.png"
+                    alt="Idioma alemão"
+                  />
+                  <input
+                    class="form-check-input"
+                    type="checkbox"
+                    role="switch"
+                    id="flexSwitchCheckDefault"
+                    value="Espanhol"
+                  />
+                  <label class="form-check-label" for="flexSwitchCheckDefault"
+                    >Espanhol</label
+                  >
                 </div>
                 <div class="form-check form-switch">
-                    <img id="imgPais" src="..//assets/estados unidos.png" alt="Idioma alemão">
-                    <input class="form-check-input" type="checkbox" role="switch" id="flexSwitchCheckDefault">
-                    <label class="form-check-label" for="flexSwitchCheckDefault">Inglês</label>
+                  <img
+                    id="imgPais"
+                    src="..//assets/estados unidos.png"
+                    alt="Idioma alemão"
+                  />
+                  <input
+                    class="form-check-input"
+                    type="checkbox"
+                    role="switch"
+                    id="flexSwitchCheckDefault"
+                    value="Inglês"
+                  />
+                  <label class="form-check-label" for="flexSwitchCheckDefault"
+                    >Inglês</label
+                  >
                 </div>
                 <div class="form-check form-switch">
-                    <img id="imgPais" src="..//assets/frança.png" alt="Idioma alemão">
-                    <input class="form-check-input" type="checkbox" role="switch" id="flexSwitchCheckDefault">
-                    <label class="form-check-label" for="flexSwitchCheckDefault">Frances</label>
+                  <img
+                    id="imgPais"
+                    src="..//assets/frança.png"
+                    alt="Idioma alemão"
+                  />
+                  <input
+                    class="form-check-input"
+                    type="checkbox"
+                    role="switch"
+                    id="flexSwitchCheckDefault"
+                    value="Frances"
+                  />
+                  <label class="form-check-label" for="flexSwitchCheckDefault"
+                    >Frances</label
+                  >
                 </div>
                 <div class="form-check form-switch">
-                    <img id="imgPais" src="..//assets/holanda.png" alt="Idioma alemão">
-                    <input class="form-check-input" type="checkbox" role="switch" id="flexSwitchCheckDefault">
-                    <label class="form-check-label" for="flexSwitchCheckDefault">Holandes</label>
+                  <img
+                    id="imgPais"
+                    src="..//assets/holanda.png"
+                    alt="Idioma alemão"
+                  />
+                  <input
+                    class="form-check-input"
+                    type="checkbox"
+                    role="switch"
+                    id="flexSwitchCheckDefault"
+                    value="holanda"
+                  />
+                  <label class="form-check-label" for="flexSwitchCheckDefault"
+                    >Holandes</label
+                  >
                 </div>
                 <div class="form-check form-switch">
-                    <img id="imgPais" src="..//assets/italia.png" alt="Idioma alemão">
-                    <input class="form-check-input" type="checkbox" role="switch" id="flexSwitchCheckDefault">
-                    <label class="form-check-label" for="flexSwitchCheckDefault">Italiano</label>
+                  <img
+                    id="imgPais"
+                    src="..//assets/italia.png"
+                    alt="Idioma alemão"
+                  />
+                  <input
+                    class="form-check-input"
+                    type="checkbox"
+                    role="switch"
+                    value="Italiano"
+                    id="flexSwitchCheckDefault"
+                  />
+                  <label class="form-check-label" for="flexSwitchCheckDefault"
+                    >Italiano</label
+                  >
                 </div>
                 <div class="form-check form-switch">
-                    <img id="imgPais" src="..//assets/japão.png" alt="Idioma alemão">
-                    <input class="form-check-input" type="checkbox" role="switch" id="flexSwitchCheckDefault">
-                    <label class="form-check-label" for="flexSwitchCheckDefault">japones</label>
+                  <img
+                    id="imgPais"
+                    src="..//assets/japão.png"
+                    alt="Idioma alemão"
+                  />
+                  <input
+                    class="form-check-input"
+                    type="checkbox"
+                    role="switch"
+                    id="flexSwitchCheckDefault"
+                    value="japones"
+                  />
+                  <label class="form-check-label" for="flexSwitchCheckDefault"
+                    >japones</label
+                  >
                 </div>
                 <div class="form-check form-switch">
-                    <img id="imgPais" src="..//assets/barsil.png" alt="Idioma alemão">
-                    <input class="form-check-input" type="checkbox" role="switch" id="flexSwitchCheckDefault">
-                    <label class="form-check-label" for="flexSwitchCheckDefault">Português</label>
+                  <img
+                    id="imgPais"
+                    src="..//assets/barsil.png"
+                    alt="Idioma alemão"
+                  />
+                  <input
+                    class="form-check-input"
+                    type="checkbox"
+                    role="switch"
+                    id="flexSwitchCheckDefault"
+                    value="Portugues"
+                  />
+                  <label class="form-check-label" for="flexSwitchCheckDefault"
+                    >Português</label
+                  >
                 </div>
                 <div class="form-check form-switch">
-                    <img id="imgPais" src="..//assets/russia.png" alt="Idioma alemão">
-                    <input class="form-check-input" type="checkbox" role="switch" id="flexSwitchCheckDefault">
-                    <label class="form-check-label" for="flexSwitchCheckDefault">Russo</label>
+                  <img
+                    id="imgPais"
+                    src="..//assets/russia.png"
+                    alt="Idioma alemão"
+                  />
+                  <input
+                    class="form-check-input"
+                    type="checkbox"
+                    role="switch"
+                    id="flexSwitchCheckDefault"
+                    value="Russo"
+                  />
+                  <label class="form-check-label" for="flexSwitchCheckDefault"
+                    >Russo</label
+                  >
                 </div>
                 <div class="form-check form-switch">
-                    <img id="imgPais" src="..//assets/turquia.png" alt="Idioma alemão">
-                    <input class="form-check-input" type="checkbox" role="switch" id="flexSwitchCheckDefault">
-                    <label class="form-check-label" for="flexSwitchCheckDefault">Turco</label>
+                  <img
+                    id="imgPais"
+                    src="..//assets/turquia.png"
+                    alt="Idioma alemão"
+                  />
+                  <input
+                    class="form-check-input"
+                    type="checkbox"
+                    role="switch"
+                    id="flexSwitchCheckDefault"
+                    value="Turco"
+                  />
+                  <label class="form-check-label" for="flexSwitchCheckDefault"
+                    >Turco</label
+                  >
                 </div>
-            </div>
+                </div>
+                       
+            </form>
+          </div>
+      <div class="row">
+        <div class="col-md-4"></div>
+        <div class="col-md-4">
+          <button onclick="salvarAlteracoes()" id="salvar">Salvar Alterações</button>
         </div>
-        <div class="row">
-            <div class="col-md-4"></div>
-            <div class="col-md-4"><button id="salvar">Salvar Alterações</button></div>
-            <div class="col-md-4"></div>
-        </div>
+        <div class="col-md-4"></div>
+      </div>
     </main>
-    
-    <footer class="container-fluid">
-        <div class="row">
-            <div class="col-md-6">
-                <a class="footer-left" href="">Ajuda</a>
-            </div>   
-            <div class="col-md-6">
-                <a class="footer-right" href=""><img id="imgLogout" src="..//assets/Vector.png" alt="">Logout</a>
-            </div>     
-        </div>
-    </footer>
-</body>
-<script src="https://cdn.jsdelivr.net/npm/@popperjs/core@2.11.8/dist/umd/popper.min.js"
-    integrity="sha384-I7E8VVD/ismYTF4hNIPjVp/Zjvgyol6VFvRkX/vR+Vc4jQkC+hVqc2pM8ODewa9r"
-    crossorigin="anonymous"></script>
-<script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.2/dist/js/bootstrap.min.js"
-    integrity="sha384-BBtl+eGJRgqQAUMxJ7pMwbEyER4l1g+O15P+16Ep7Q9Q+zqX6gSbd85u4mG4QzX+"
-    crossorigin="anonymous"></script>
 
+    <footer class="container-fluid">
+      <div class="row">
+        <div class="col-md-6">
+          <a class="footer-left" href="">Ajuda</a>
+        </div>
+        <div class="col-md-6">
+          <a class="footer-right" href=""
+            ><img id="imgLogout" src="..//assets/Vector.png" alt="" />Logout</a
+          >
+        </div>
+      </div>
+    </footer>
+  </body>
+  <script
+    src="https://cdn.jsdelivr.net/npm/@popperjs/core@2.11.8/dist/umd/popper.min.js"
+    integrity="sha384-I7E8VVD/ismYTF4hNIPjVp/Zjvgyol6VFvRkX/vR+Vc4jQkC+hVqc2pM8ODewa9r"
+    crossorigin="anonymous"
+  ></script>
+  <script
+    src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.2/dist/js/bootstrap.min.js"
+    integrity="sha384-BBtl+eGJRgqQAUMxJ7pMwbEyER4l1g+O15P+16Ep7Q9Q+zqX6gSbd85u4mG4QzX+"
+    crossorigin="anonymous"
+  ></script>
 </html>
