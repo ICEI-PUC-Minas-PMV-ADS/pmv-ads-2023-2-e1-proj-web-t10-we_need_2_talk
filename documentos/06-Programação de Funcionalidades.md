@@ -17,9 +17,11 @@ Configuração de Usuário
 
 #### Artefatos da funcionalidade
 
-● configuracao.html
+● [configuracao.html](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-2-e1-proj-web-t10-we_need_2_talk/blob/main/codigo-fonte/src/paginaConfiguracao/configuracao.html)
 
-● configuracao.css
+● [configuracao.css](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-2-e1-proj-web-t10-we_need_2_talk/blob/main/codigo-fonte/src/paginaConfiguracao/configuracao.css)
+
+● [configuracao.js](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-2-e1-proj-web-t10-we_need_2_talk/blob/main/codigo-fonte/src/paginaConfiguracao/configuracao.js)
 
 
 #### Estrutura de Dados
@@ -29,7 +31,7 @@ Configuração de Usuário
 
 #### Instruções de acesso
 
-  1. Abra um navegador de Internet e informe a seguinte URL:  https://icei-puc-minas-pmv-ads.github.io/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-2-e1-proj-web-t10-we_need_2_talk/blob/main/codigo-fonte/src/paginaConfiguracao/configuracao.html (Tentei mas não conseguir ter acesso ao codigo)
+  1. Abra um navegador de Internet e informe a seguinte URL: https://icei-puc-minas-pmv-ads.github.io/pmv-ads-2023-2-e1-proj-web-t10-we_need_2_talk/codigo-fonte/src/paginaConfiguracao/configuracao.html
   2. Preencha as lacunas com seus dados (que serão exibidos e os que serão armazenados).
   3. Selecione seu idioma de uso para a interface.
   4. Selecione os idiomas que deseja aprender.
