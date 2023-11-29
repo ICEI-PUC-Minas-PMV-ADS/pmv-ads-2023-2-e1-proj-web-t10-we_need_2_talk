@@ -1,0 +1,221 @@
+body {
+    background-color: white;
+    background-image: url(../assets/fundoTela.png);
+    background-size: 100% auto;
+    /* Ajusta a largura e mantém a proporção original */
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-position: center;
+    /* Ajusta a posição da imagem */
+}
+
+
+html,
+body {
+    height: 100%;
+}
+
+
+.header-container {
+    background-color: #D99F7E;
+    max-width: 100%;
+}
+
+.voltamenu {
+    padding: 0 5px;
+}
+
+.cardlist {
+    display: flex;
+    flex-direction: row;
+    height: 260px;
+}
+
+.principal {
+    margin-bottom: 10px;
+    font-weight: bold;
+}
+
+.secundario {
+    color: #4d4d4d;
+    font-weight: lighter;
+
+}
+
+
+.cardlist li {
+    flex: 1 1 0;
+    height: 100%;
+    display: flex;
+    flex-direction: column;
+    background-color: white;
+    padding: 10px;
+    border-radius: 10px;
+    box-shadow: 2px 2px 2px rgba(0, 0, 0, 0.5);
+}
+
+
+.header_nav {
+
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    margin: 0 auto;
+    position: relative;
+}
+
+
+.header__nav-text {
+
+    color: #fff;
+    text-align: center;
+    font-family: spartan;
+    font-size: 36px;
+    position: absolute;
+    bottom: 0;
+    left: 50%;
+    transform: translateX(-50%);
+    padding-bottom: 5px;
+}
+
+
+.presentation {
+    text-align: center;
+    font-weight: 400;
+    font-size: 38px;
+    color: black;
+
+}
+
+
+
+.rightsideC ul {
+    color: black;
+    font-size: 17px;
+    font-weight: bold;
+    display: flex;
+    flex-direction: row;
+    justify-content: flex-start;
+    align-items: center;
+    width: 100%;
+    column-gap: 50px;
+    padding-right: 10px;
+    padding-left: 10px;
+}
+
+ul li {
+    display: flex;
+    flex-direction: row;
+    justify-content: flex-start;
+}
+
+.praticas {
+    width: 100%;
+    text-align: center;
+}
+
+h1 {
+    align-items: center;
+    text-align: center;
+    color: #ffffff;
+    text-align: center;
+    font-family: Spartan;
+    font-size: 36px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: 150%;
+    letter-spacing: -0.684px;
+
+}
+
+
+h2 {
+    color: black;
+    font-size: 24px;
+    text-align: center;
+    justify-content: center;
+    align-items: center;
+    font-weight: bold;
+
+}
+
+
+h3 {
+    display: flex;
+    align-content: center;
+    justify-content: center;
+    font-size: 18px;
+    font-weight: bold;
+}
+
+h4 {
+    display: flex;
+    align-content: center;
+    justify-content: center;
+    font-size: 18px;
+    font-weight: bold;
+    font-style: italic;
+}
+
+.sessaoprincipal {
+    display: flex;
+    flex-direction: row;
+}
+
+.button-container {
+
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 32%;
+
+}
+
+button {
+    padding: 15px 20px;
+    background-color: #1a53ff;
+    color: white;
+    border-radius: 5px;
+    cursor: pointer;
+    box-shadow: 2px 2px 2px rgba(255, 255, 255, 1);
+}
+
+button:hover {
+    filter: brightness(1.1);
+}
+
+
+.video-container {
+    display: flex;
+    align-content: center;
+    justify-content: center;
+    width: 38%;
+
+}
+
+.footer {
+    background-color: #a64154b0;
+    display: flex;
+    justify-content: space-between;
+    align-items: flex-end;
+    position: fixed;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    padding: 10px;
+}
+
+.footer__link {
+    text-decoration: none;
+}
+
+.footer__link:hover {
+    color: #530E73;
+    font-weight: 700;
+}
+
+.footer__left,
+.footer__right {
+    font-size: 14px;
+}
