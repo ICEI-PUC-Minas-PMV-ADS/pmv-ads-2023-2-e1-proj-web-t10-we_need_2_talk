@@ -101,7 +101,8 @@ RF-04 Prática de Conversação: Incluir atividades interativas de prática de c
 Exemplo da tela de práticas de conversação.
 
 
-![image](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-2-e1-proj-web-t10-we_need_2_talk/assets/144743493/51bd2d53-acde-4b66-8b5f-86ca8ca179cf)
+![image](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-2-e1-proj-web-t10-we_need_2_talk/assets/144743493/dadc7787-bf30-466d-8dd4-96b329f5dc41)
+
 
 ### Artefatos da funcionalidade
 
