@@ -105,8 +105,9 @@ Exemplo da tela de práticas de conversação.
 
 ### Artefatos da funcionalidade
 
-<li>praticasdeConversação.html</li>
-<li>praticasConver.css</li>
+● [praticasdeConversação.html](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-2-e1-proj-web-t10-we_need_2_talk/blob/main/codigo-fonte/src/praticasdeConversa%C3%A7%C3%A3o/praticasdeConversa%C3%A7%C3%A3o.html)<br>
+● [praticasdeConvers.css](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-2-e1-proj-web-t10-we_need_2_talk/blob/main/codigo-fonte/src/praticasdeConversa%C3%A7%C3%A3o/praticasConver.css)<br>
+● [Jscript.js](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-2-e1-proj-web-t10-we_need_2_talk/blob/main/codigo-fonte/src/praticasdeConversa%C3%A7%C3%A3o/Jscript.js)<br>
 
 ### Estrutura de dados
 
