@@ -90,7 +90,7 @@ Responsável: Ariel Ortega Acerbi
 
 ### Instruções de acesso
 
-<li> O acesso a tela poderá ser feito através do link https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-2-e1-proj-web-t10-we_need_2_talk/blob/main/codigo-fonte/src/praticasdeConversa%C3%A7%C3%A3o/praticasdeConversa%C3%A7%C3%A3o.html </li>
+<li> O acesso a tela poderá ser feito através do link https://icei-puc-minas-pmv-ads.github.io//pmv-ads-2023-2-e1-proj-web-t10-we_need_2_talk/codigo-fonte/src/praticasdeConversa%C3%A7%C3%A3o/praticasdeConversa%C3%A7%C3%A3o.html </li>
 <li> Selecione o link desejado para realizar atividades, encontrar grupos, assistir videos, etc.</li>
 
 ### Requisito atendido
