@@ -342,35 +342,25 @@ select{
     }
 
     .content-interest-image {
-        width: 3cm;
-        position: fixed;
-        display: relative;
-        left: 13cm;
-        padding-top: 1.5cm;
+      float: right;
+      margin-right: 850px;
+      margin-top: -600px;
+      width: 145px;
     }
 
     .content-text {
         float: right;
-        position: fixed;
-        left: 12cm;
-        top: 7cm;
+        margin-right: 300px;
+        margin-top: -300px;
         font-size: 25px;
         color: rgb(85, 78, 78);
     }
 
     .content-interest-text {
-      position: fixed;
-      top: 5.5cm;
-      display: center;
-      left: 10.5cm;
-      margin-top: -2cm;
-      font-weight: 700;
-      font-size: 3cm;
-      width: 13cm;
-      height: 4cm;
-      padding-left: 6cm;
-      margin-right: 2cm;
-      font-size: 0.6cm;
+      float: right;
+      margin-right: 300px;
+      margin-top: -500px;
+      font-size: 25px;
       color: rgb(64, 54, 65);
     }
 
