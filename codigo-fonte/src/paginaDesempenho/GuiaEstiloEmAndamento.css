@@ -478,44 +478,51 @@ select{
         font-weight: 600;
         font-size: 12px;
     }
-
-    .btn-primary {
-        position: fixed;
-        top: 12.2cm;
-        left: 28.6cm;
-        color:#fff;
-        font-size: 12px;
+    .btn-primary1 {
+        margin-top: -589px;
+        margin-right: 400px;
+        float: right;
+        max-width: 800px;
+        max-height: 400px;
+        width: 250px;
+        height: 100px;
+        border-radius: 8px;
+        font-size: 22px;
+        text-align: center;
+        color: #fff;
+        background-color: rgba(134, 19, 11, 0.521);
+        border-color: rgba(134, 19, 11, 0.521);
     }
-
     .btn-primary2 {
-        position: fixed;
-        top: 6.6cm;
-        left: 15.5cm;
-        color:#fff;
-        font-size: 30px;
-        width: 150px;
-        align-content: center;
+        margin-top: -589px;
+        margin-right: 800px;
+        float: right;
+        max-width: 800px;
+        max-height: 400px;
+        width: 250px;
+        height: 100px;
+        border-radius: 8px;
+        font-size: 22px;
+        text-align: center;
+        color: #fff;
+        background-color: rgba(21, 78, 185, 0.521);
+        border-color: rgba(21, 78, 185, 0.521);
     }
-
     .btn-primary3 {
-        position: fixed;
-        top: 6.6cm;
-        left: 25.8cm;
-        color:#fff;
-        font-size: 30px;
-        width: 150px;
-        align-content: center;
+        margin-top: -389px;
+        margin-right: 600px;
+        float: right;
+        max-width: 800px;
+        max-height: 400px;
+        width: 250px;
+        height: 100px;
+        border-radius: 8px;
+        font-size: 22px;
+        text-align: center;
+        color: #fff;
+        background-color: rgba(241, 124, 14, 0.521);
+        border-color: rgba(241, 124, 14, 0.521);
     }
-    .btn-primary4 {
-        position: fixed;
-        top: 12.5cm;
-        left: 20.5cm;
-        color:#fff;
-        font-size: 30px;
-        width: 150px;
-        align-content: center;
-    }
-
 
     .content-main-text {
         display: flex;
@@ -537,54 +544,6 @@ select{
         margin-top: 3cm;
     }
 
-.button {
-    width: 120px;
-    height: 40px;
-    border-style: outset;
-    border-radius: 8px;
-    border-color: rgb(58, 8, 82);
-    background-color: rgb(83, 14, 115); 
-    border-spacing: 20px;
-    color: #fff;
-    font-family:'Roboto' , sans-serif;
-    font-weight: bold;
-    font-size: 12px;
-    float: right;
-    position: fixed;
-    top: 16.85cm;
-    left: 20.3cm;
-    display: block;
-    justify-content:space-evenly;
- }
-
-
-#button1 {
-    position: fixed;
-    top: 5cm;
-    left: 13.5cm;
-    height: 164px;
-    width: 250px;
-    background-color: rgba(134, 19, 11, 0.521);
-    border-color: rgba(134, 19, 11, 0.521);
-}
-#button2 {
-    position: fixed;
-    top: 5cm;
-    left: 24cm;
-    height: 164px;
-    width: 250px;
-    background-color: rgba(21, 78, 185, 0.521);
-    border-color: rgba(21, 78, 185, 0.521);
-}
-#button3 {
-    position: fixed;
-    top: 11cm;
-    left: 19cm;
-    height: 164px;
-    width: 250px;
-    background-color: rgba(241, 124, 14, 0.521);
-    border-color: rgba(241, 124, 14, 0.521);
-}
 
 
     ul {
