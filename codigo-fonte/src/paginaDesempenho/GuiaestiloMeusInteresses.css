@@ -259,7 +259,7 @@ select{
 
     .sidebar {
       height: 100%;
-      width: 22cm;
+      width: 831px;
       background:#fff;
       justify-content: space-between;
       flex-direction: row;
@@ -305,8 +305,8 @@ select{
     .img-noti {
         width: 23px;
         position: fixed;
-        top: 4.7cm;
-        left: 29.4cm;
+        top: 177px;
+        left: 1111px;
     }
 
     .content-course-box {
@@ -315,15 +315,15 @@ select{
         box-sizing: border-box;
         float: right;
         position:fixed;
-        left: 10.5cm;
-        top: 12.7cm;
+        left: 396px;
+        top: 480px;
         margin:auto;
     }
 
     img.content-profile-image {
       margin-right: 210px;
       float:inline-end;
-      margin-top: -19.5cm;
+      margin-top: -737px;
       width: 850px;
       margin-bottom: 0;
 
@@ -333,121 +333,121 @@ select{
     float:right;
     display: inline-block;
     align-items: center;
-    margin-top: -17cm;
+    margin-top: -642px;
   }
   .bandeira {
-    width: 3cm;
-    right: 13cm;
+    width: 113px;
+    right: 491px;
     position: relative;
   }
   .bandeira1 {
-    top: 2.9cm;
-    width: 3cm;
-    right: 13cm;
+    top: 109px;
+    width: 113px;
+    right: 491px;
     position: relative;
   }
   .bandeira2 {
-    top: 6cm;
-    width: 3cm;
-    right: 13cm;
+    top: 226px;
+    width: 113px;
+    right: 491px;
     position: relative;
   }
   .bandeira3 {
-    top: 9cm;
-    width: 3cm;
-    right: 13cm;
+    top: 340px;
+    width: 113px;
+    right: 491px;
     position: relative;
   }
   .bandeira4 {
-    top: 12cm;
-    width: 3cm;
-    right: 13cm;
+    top: 453px;
+    width: 113px;
+    right: 491px;
     position: relative;
   }
 
   .texto {
     position: relative;
-    top: -2cm;
+    top: -75;
     background-color: rgba(16, 98, 104, 0.527);
-    width: 12cm;
+    width: 453px;
     color: #fff;
     font-weight: bold;
     font-size: 20px;
-    height: 0.5cm;
-    padding-left: 1cm;
-    padding-top: 0.5cm;
-    padding-bottom: 0.5cm;
-    right:8cm;
-    top: -1.8cm;
-    border-spacing: 1cm;
+    height: 18px;
+    padding-left: 37px;
+    padding-top: 18px;
+    padding-bottom: 18px;
+    right:302px;
+    top: -68px;
+    border-spacing: 37px;
   }
   .texto1 {
     position: relative;
     top: ;
     background-color: rgba(16, 98, 104, 0.527);
-    width: 12cm;
+    width: 453px;
     color: #fff;
     font-weight: bold;
     font-size: 20px;
-    height: 0.5cm;
-    padding-left: 1cm;
-    padding-top: 0.5cm;
-    padding-bottom: 0.5cm;
-    right:8cm;
-    top: -1.8cm;
-    border-spacing: 1cm;
-    margin-top: 2.9cm;
+    height: 18px;
+    padding-left: 37px;
+    padding-top: 18px;
+    padding-bottom: 18px;
+    right:302px;
+    top: -302px;
+    border-spacing: 37px;
+    margin-top: 109px;
   }
   .texto2 {
     position: relative;
-    top: -2cm;
+    top: -75px;
     background-color: rgba(16, 98, 104, 0.527);
-    width: 12cm;
+    width: 453px;
     color: #fff;
     font-weight: bold;
     font-size: 20px;
-    height: 0.5cm;
-    padding-left: 1cm;
-    padding-top: 0.5cm;
-    padding-bottom: 0.5cm;
-    right:8cm;
-    top: -1.8cm;
-    border-spacing: 1cm;
-    margin-top: 5.9cm;
+    height: 18px;
+    padding-left: 37px;
+    padding-top: 18px;
+    padding-bottom: 18px;
+    right:302px;
+    top: -68px;
+    border-spacing: 37px;
+    margin-top: 222px;
   }
   .texto3 {
     position: relative;
-    top: -2cm;
+    top: -75px;
     background-color: rgba(16, 98, 104, 0.527);
-    width: 12cm;
+    width: 453px;
     color: #fff;
     font-weight: bold;
     font-size: 20px;
-    height: 0.5cm;
-    padding-left: 1cm;
-    padding-top: 0.5cm;
-    padding-bottom: 0.5cm;
-    right:8cm;
-    top: -1.8cm;
-    border-spacing: 1cm;
-    margin-top: 8.9cm;
+    height: 18px;
+    padding-left: 37px;
+    padding-top: 18px;
+    padding-bottom: 18px;
+    right:302px;
+    top: -68px;
+    border-spacing: 37px;
+    margin-top: 336px;
   }
   .texto4 {
     position: relative;
-    top: -2cm;
+    top: -75px;
     background-color: rgba(16, 98, 104, 0.527);
-    width: 12cm;
+    width: 453px;
     color: #fff;
     font-weight: bold;
     font-size: 20px;
-    height: 0.5cm;
-    padding-left: 1cm;
-    padding-top: 0.5cm;
-    padding-bottom: 0.5cm;
-    right:8cm;
-    top: -1.8cm;
-    border-spacing: 1cm;
-    margin-top: 11.9cm;
+    height: 18px;
+    padding-left: 37px;
+    padding-top: 18px;
+    padding-bottom: 18px;
+    right: 302px;
+    top: -68px;
+    border-spacing: 37px;
+    margin-top: 449px;
   }
 
   .texto a {
