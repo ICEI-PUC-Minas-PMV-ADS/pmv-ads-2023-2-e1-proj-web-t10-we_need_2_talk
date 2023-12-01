@@ -263,7 +263,7 @@ select{
 
     .sidebar {
         height: 100%;
-        width: 22cm;
+        width: 831px;
         background:#fff;
         justify-content: space-between;
         flex-direction: row;
@@ -311,8 +311,8 @@ select{
     .img-noti {
         width: 23px;
         position: fixed;
-        top: 4.7cm;
-        left: 29.4cm;
+        top: 177px;
+        left: 1111px;
     }
 
     .content-course-box {
@@ -321,8 +321,8 @@ select{
         box-sizing: border-box;
         float: right;
         position:fixed;
-        left: 10.5cm;
-        top: 12.7cm;
+        left: 396px;
+        top: 480px;
         margin:auto;
     }
 
@@ -339,14 +339,14 @@ select{
 
     .breadcrumb-item {
         position: relative;
-        top: 2cm;
+        top: 75px;
     }
 
 
     img.content-profile-image {
         margin-right: 210px;
         float:inline-end;
-        margin-top: -19.5cm;
+        margin-top: -737px;
         width: 850px;
         margin-bottom: 0;
  
@@ -359,8 +359,8 @@ select{
         font-weight:bold;
         margin-bottom: 0;
         position:fixed;
-        top: 12.5cm;
-        left: 11.6cm;
+        top: 472px;
+        left: 438px;
         padding-bottom: 2px;
         text-align: left;
         display: flex;
@@ -368,8 +368,8 @@ select{
     } 
 
     .content-main-text-item { 
-        width: 2.6cm;
-        height: 0.5cm;
+        width: 98px;
+        height: 18px;
         color: rgb(85, 78, 78);
         font-weight: normal;
         font-size: 12px;
@@ -384,9 +384,9 @@ select{
 
     .content-main-text-item-primo {
         position: fixed;
-        top: 2cm;
-        left: 11.5cm;
-        bottom:18.7cm;
+        top: 75px;
+        left: 434px;
+        bottom: 706px;
         font-weight: 700;
         font-size: 14px;
         width: 150px;
@@ -416,8 +416,8 @@ select{
         box-sizing: border-box;
         float: right;
         position:fixed;
-        left: 11cm;
-        top: 7.2cm;
+        left: 415px;
+        top: 272px;
         margin:auto;
     }
 
@@ -441,8 +441,8 @@ select{
         box-sizing: border-box;
         float: right;
         position:fixed;
-        left: 10.6cm;
-        top: 16.5cm;
+        left: 400px;
+        top: 623px;
         margin:auto;
     } 
 
@@ -452,8 +452,8 @@ select{
         box-sizing: border-box;
         float: right;
         position:fixed;
-        left: 24cm;
-        top: 13.5cm;
+        left: 907px;
+        top: 510px;
         margin:auto;
     }
 
@@ -463,15 +463,15 @@ select{
         box-sizing: border-box;
         float: right;
         position:fixed;
-        left: 21.5cm;
-        top: 10.6cm;
+        left: 812px;
+        top: 400px;
         margin:auto;
     }
 
     .dropdown {
         position:fixed;
-        left: 25.4cm;
-        top: 6.4cm;
+        left: 960px;
+        top: 241px;
     }
 
     .dropdown-item {
@@ -481,16 +481,16 @@ select{
 
     .btn-primary {
         position: fixed;
-        top: 12.2cm;
-        left: 28.6cm;
+        top: 461px;
+        left: 1080px;
         color:#fff;
         font-size: 12px;
     }
 
     .btn-primary2 {
         position: fixed;
-        top: 6.6cm;
-        left: 15.5cm;
+        top: 249px;
+        left: 585px;
         color:#fff;
         font-size: 30px;
         width: 150px;
@@ -499,8 +499,8 @@ select{
 
     .btn-primary3 {
         position: fixed;
-        top: 6.6cm;
-        left: 25.8cm;
+        top: 249px;
+        left: 975px;
         color:#fff;
         font-size: 30px;
         width: 150px;
@@ -508,8 +508,8 @@ select{
     }
     .btn-primary4 {
         position: fixed;
-        top: 12.5cm;
-        left: 20.5cm;
+        top: 472px;
+        left: 774px;
         color:#fff;
         font-size: 30px;
         width: 150px;
@@ -533,8 +533,8 @@ select{
     }
 
     .content-main-cursos {
-        margin-left: -10cm;
-        margin-top: 3cm;
+        margin-left: -377px;
+        margin-top: 113px;
     }
 
 .button {
@@ -551,8 +551,8 @@ select{
     font-size: 12px;
     float: right;
     position: fixed;
-    top: 16.85cm;
-    left: 20.3cm;
+    top: 636px;
+    left: 767px;
     display: block;
     justify-content:space-evenly;
  }
@@ -560,8 +560,8 @@ select{
 
 #button1 {
     position: fixed;
-    top: 5cm;
-    left: 13.5cm;
+    top: 188px;
+    left: 510px;
     height: 164px;
     width: 250px;
     background-color: rgba(134, 19, 11, 0.521);
@@ -569,8 +569,8 @@ select{
 }
 #button2 {
     position: fixed;
-    top: 5cm;
-    left: 24cm;
+    top: 188px;
+    left: 907px;
     height: 164px;
     width: 250px;
     background-color: rgba(21, 78, 185, 0.521);
@@ -578,8 +578,8 @@ select{
 }
 #button3 {
     position: fixed;
-    top: 11cm;
-    left: 19cm;
+    top: 415px;
+    left: 718px;
     height: 164px;
     width: 250px;
     background-color: rgba(241, 124, 14, 0.521);
@@ -647,8 +647,8 @@ select{
         align-items: end;
     }
     canvas {
-        margin-top:-16cm;
-        margin-right: 7.7cm;
+        margin-top:-604px;
+        margin-right: 291px;
         float:right;
         max-width: 800px;
         max-height: 300px;
