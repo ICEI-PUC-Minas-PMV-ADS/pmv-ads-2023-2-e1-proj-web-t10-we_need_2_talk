@@ -266,7 +266,7 @@ select{
 
     .sidebar {
       height: 100%;
-      width: 22cm;
+      width: 831px;
       background:#fff;
       justify-content: space-between;
       flex-direction: row;
@@ -312,8 +312,8 @@ select{
     .img-noti {
         width: 23px;
         position: fixed;
-        top: 4.7cm;
-        left: 29.4cm;
+        top: 177px;
+        left: 1111px;
     }
 
     .content-course-box {
@@ -322,15 +322,15 @@ select{
         box-sizing: border-box;
         float: right;
         position:fixed;
-        left: 10.5cm;
-        top: 12.7cm;
+        left: 396px;
+        top: 480px;
         margin:auto;
     }
 
     img.content-profile-image {
       margin-right: 210px;
       float:inline-end;
-      margin-top: -19.5cm;
+      margin-top: -737px;
       width: 850px;
       margin-bottom: 0;
 
@@ -350,16 +350,16 @@ select{
     }
 
     th {
-        width:2cm;
-        height: 1.2cm;
+        width:75px;
+        height: 45px;
         align-items: center;
         color: #e7e6e6;
         background-color:rgba(151, 100, 33, 0.788);
     }
 
     td {
-        width:3cm;
-        height: 1.5cm;
+        width:113px;
+        height: 56px;
         font-size: 15px;
         color:#504e4e;
         font-weight: bold;
@@ -374,8 +374,8 @@ select{
         box-sizing: border-box;
         float: right;
         position:fixed;
-        left: 10.6cm;
-        top: 16.5cm;
+        left: 400px;
+        top: 623px;
         margin:auto;
     } 
 
@@ -385,8 +385,8 @@ select{
         box-sizing: border-box;
         float: right;
         position:fixed;
-        left: 24cm;
-        top: 16.8cm;
+        left: 907px;
+        top: 634px;
         margin:auto;
     }
 
@@ -396,8 +396,8 @@ select{
         box-sizing: border-box;
         float: right;
         position:fixed;
-        left: 19.6cm;
-        top: 13cm;
+        left: 740px;
+        top: 491px;
         margin:auto;
     }
 
