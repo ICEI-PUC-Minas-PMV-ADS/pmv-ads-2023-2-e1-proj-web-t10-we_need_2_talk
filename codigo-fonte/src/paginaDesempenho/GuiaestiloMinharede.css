@@ -266,7 +266,7 @@ select{
 
     .sidebar {
         height: 100%;
-        width: 22cm;
+        width: 831px;
         background:#fff;
         justify-content: space-between;
         flex-direction: row;
@@ -313,8 +313,8 @@ select{
     .img-noti {
         width: 23px;
         position: fixed;
-        top: 4.7cm;
-        left: 29.4cm;
+        top: 177px;
+        left: 1111px;
     }
 
     .content-course-box {
@@ -323,15 +323,15 @@ select{
         box-sizing: border-box;
         float: right;
         position:fixed;
-        left: 10.5cm;
-        top: 12.7cm;
+        left: 396px;
+        top: 480px;
         margin:auto;
     }
 
     img.content-profile-image {
         margin-right: 210px;
         float:inline-end;
-        margin-top: -19.5cm;
+        margin-top: -737px;
         width: 850px;
         margin-bottom: 0;
  
@@ -341,8 +341,8 @@ select{
     .content-text {
         float: right;
         position: fixed;
-        left: 11cm;
-        top: 12cm;
+        left: 415px;
+        top: 453px;
         font-size: 25px;
         color: rgb(85, 78, 78);
     }
