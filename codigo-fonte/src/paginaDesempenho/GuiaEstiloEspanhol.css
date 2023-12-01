@@ -337,10 +337,15 @@ select{
   } 
 
     table {
-        position: fixed;
-        top: 3cm;
-        left: 12.7cm;
-        float: right;
+      margin-top: -689px;
+      margin-right: 250px;
+      float: right;
+      max-width: 900px;
+      max-height: 600px;
+      width: 750px;
+      height: 400px;
+      font-size: 18px;
+      text-align: center;
         
     }
  
