@@ -263,7 +263,7 @@ select{
 
     .sidebar {
         height: 100%;
-        width: 6cm;
+        width: 226px;
         background:#fff;
         justify-content: space-between;
         flex-direction: row;
@@ -311,8 +311,8 @@ select{
     .img-noti {
         width: 23px;
         position: fixed;
-        top: 4.7cm;
-        left: 29.4cm;
+        top: 177px;
+        left: 1111px;
     }
 
     .content-course-box {
@@ -321,8 +321,8 @@ select{
         box-sizing: border-box;
         float: right;
         position:fixed;
-        left: 10.5cm;
-        top: 12.7cm;
+        left: 396px;
+        top: 480px;
         margin:auto;
     }
 
@@ -339,14 +339,14 @@ select{
 
     .breadcrumb-item {
         position: relative;
-        top: 2cm;
+        top: 75px;
     }
 
 
     img.content-profile-image {
         margin-right: 210px;
         float:inline-end;
-        margin-top: -19.5cm;
+        margin-top: -737px;
         width: 850px;
         margin-bottom: 0;
  
@@ -359,8 +359,8 @@ select{
         font-weight:bold;
         margin-bottom: 0;
         position:fixed;
-        top: 12.5cm;
-        left: 11.6cm;
+        top: 472px;
+        left: 438px;
         padding-bottom: 2px;
         text-align: left;
         display: flex;
@@ -368,8 +368,8 @@ select{
     } 
 
     .content-main-text-item { 
-        width: 2.6cm;
-        height: 0.5cm;
+        width: 98px;
+        height: 18px;
         color: rgb(85, 78, 78);
         font-weight: normal;
         font-size: 12px;
@@ -384,8 +384,8 @@ select{
 
     .dropdown {
         position:fixed;
-        left: 25.4cm;
-        top: 6.4cm;
+        left: 960px;
+        top: 241px;
     }
 
     .dropdown-item {
@@ -456,8 +456,8 @@ select{
 
     .content-main-card {
         height: 40vh;
-        margin-right: 8cm;
-        margin-top: -14cm;
+        margin-right: 302px;
+        margin-top: -529px;
         float: right;
         background-color:  rgba(94, 117, 160, 0.521);
         width: 90%;
@@ -544,5 +544,5 @@ select{
     }
 
     .start-quiz button {
-        margin-right: 3cm;
+        margin-right: 113px;
     }
