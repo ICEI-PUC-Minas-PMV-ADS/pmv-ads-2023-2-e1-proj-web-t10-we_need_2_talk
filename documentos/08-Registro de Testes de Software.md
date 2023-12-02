@@ -7,6 +7,6 @@ Os resultados dos testes funcionais realizados na aplicação são descritos a s
 |Caso de Teste    | CT-2 - Verificar o funcionamento da página de Feedback |
 |:---|:---|
 | Resultados obtidos | Descrever resultados do teste  |
-| Responsável pela execução do caso de Teste | Nome do integrante da equipe |
+| Responsável pela execução do caso de Teste | Emília Raphael dos Santos |
 
 
