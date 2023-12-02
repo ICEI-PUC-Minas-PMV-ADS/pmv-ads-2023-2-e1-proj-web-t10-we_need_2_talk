@@ -105,6 +105,44 @@ Os testes funcionais a serem realizados na aplicação são descritos a seguir.
  </tr>
 </table>
 
+<table>
+ <tr>
+  <th>Caso de teste</th>
+  <th>Requisitos associados</th>
+  <th>Objetivo do teste</th>
+  <th>Passos</th>
+  <th>Critérios de êxito</th>
+  <th>Responsável</th>
+ </tr>
+ <tr>
+  <td>CT-03: Verificar o funcionamento da página de Cadastro de Usuário </td>
+  <td>
+   <ul>
+    <li>RF-02 O site deve permitir que os usuários personalizem seus perfis com informações como idiomas de interesse, nível de proficiência e metas de aprendizado, hobbys, assuntos relevantes.</li>
+   </ul>
+  </td>
+  <td>
+   <ul>
+    <li> Vefificar se todos os campo de formulario são preenchivíes e se os dados foram salvos no localStore.</li>  
+   </ul>
+  </td>
+  
+  <td>
+   <ol>
+    <li>Acessar o navegador.</li>
+    <li>Informar o endereço do site.</li>
+    <li>Visualizar a página Home.</li>
+    <li>Clicar no ícone de engrenagem.</li>
+    <li>Visualizar a página Cadastro de Usuário.</li>
+    <li>Preencher o fomulário corretamente.</li>
+    <li>Clicar em "Salvar Alterações"</li>
+   </ol>
+   </td>
+  <td>As informações registradas pelo usuário no momento que preencher os fonmulários devem estar disponibilizadas na página de Cadastro de Usuário para alguma alteração futura .</td>
+  <td>João Victor Diniz Piazza</td>
+ </tr>
+</table>
+
 [Utilize a estrutura abaixo para cada caso de teste]
 
 |Caso de Teste    | CT-X - Título Caso de Teste |
