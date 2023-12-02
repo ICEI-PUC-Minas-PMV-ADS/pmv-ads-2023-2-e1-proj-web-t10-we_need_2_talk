@@ -14,28 +14,6 @@ Os testes funcionais a serem realizados na aplicação são descritos a seguir.
   <th>Responsável</th>
  </tr>
  <tr>
-  <td>CT-01: Verificar o funcionamento dos links da página Home</td>
-  <td>
-   <ul>
-    <li>RF-02:	O site deve permitir ao usuário acessar as configurações.</li>
-   <li>RF-04:	O site deve permitir ao usuário acessar o menu superior Exercícios -> Exercício de vídeo -> Práticas de Conversação.</li>
-    <li>RF-05:	O site deve permitir ao usuário acessar o menu superior Exercícios -> Testes/Estatísticas -> Meu Desempenho.</li>
-   </ul>
-  </td>
-  <td>Verificar se os links da página Home estão encaminhando para as respectivas páginas corretamente</td>
-  <td>
-   <ol>
-    <li>Acessar o navegador.</li>
-    <li>Informar o endereço do site.</li>
-    <li>Visualizar a página Home.</li>
-    <li>Clicar nos links da página Home.</li>
-   </ol>
-   </td>
-  <td>Todos os links da página Home devem encaminhar os usuários para as páginas descritas.</td>
-  <td>XXXXXXXXXXXXXXXXX</td>
- </tr>
-</table>
-
 <table>
  <tr>
   <th>Caso de teste</th>
@@ -46,7 +24,7 @@ Os testes funcionais a serem realizados na aplicação são descritos a seguir.
   <th>Responsável</th>
  </tr>
  <tr>
-  <td>CT-02: Verificar a página Meu Desempenho</td>
+  <td>CT-01: Verificar a página Meu Desempenho</td>
   <td>
    <ul>
     <li>RF-05:	O site deve permitir que o usuário verifique o progresso no(s) curso(s), detalhando as lições concluídas e estatísticas de desempenho individual.</li>
@@ -79,7 +57,7 @@ Os testes funcionais a serem realizados na aplicação são descritos a seguir.
   <th>Responsável</th>
  </tr>
  <tr>
-  <td>CT-03: Verificar o funcionamento da página de Feedback</td>
+  <td>CT-02: Verificar o funcionamento da página de Feedback</td>
   <td>
    <ul>
     <li>RF-06:	Feedback Personalizado: Oferecer feedback personalizado para que os usuários possam avaliar o website.</li>
