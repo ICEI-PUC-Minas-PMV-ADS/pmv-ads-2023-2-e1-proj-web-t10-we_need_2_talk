@@ -2,7 +2,7 @@
 
 
 Os testes funcionais a serem realizados na aplicação são descritos a seguir. 
-
+<table>
  <tr>
   <th>Caso de teste</th>
   <th>Requisitos associados</th>
