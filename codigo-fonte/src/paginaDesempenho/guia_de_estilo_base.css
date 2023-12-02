@@ -168,8 +168,6 @@
         margin: 0 4%;
     
     }
-    
-    /* 48em = 768px */
 
     
     select {
@@ -657,7 +655,6 @@
     }
   
    
-
     .content-main-text .dropdown, .footer-left {
         margin-right: 0;
     }
