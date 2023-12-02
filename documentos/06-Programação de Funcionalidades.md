@@ -192,6 +192,28 @@ RF-05	Acompanhamento de Progresso: Fornecer um painel que exiba o progresso do u
 
 ● [questoesscript.js](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-2-e1-proj-web-t10-we_need_2_talk/blob/main/codigo-fonte/src/paginaDesempenho/questoesscript.js)
 
+● [quizalemao.js](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-2-e1-proj-web-t10-we_need_2_talk/blob/main/codigo-fonte/src/paginaDesempenho/quizalemao.js)
+
+● [quizespanhol.js](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-2-e1-proj-web-t10-we_need_2_talk/blob/main/codigo-fonte/src/paginaDesempenho/quizespanhol.js)
+
+● [quizitaliano.js](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-2-e1-proj-web-t10-we_need_2_talk/blob/main/codigo-fonte/src/paginaDesempenho/quizitaliano.js)
+
+● [MeusCadernos.html](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-2-e1-proj-web-t10-we_need_2_talk/blob/main/codigo-fonte/src/paginaDesempenho/MeusCadernos.html)
+
+● [GuiaEstiloCadernos.css](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-2-e1-proj-web-t10-we_need_2_talk/blob/main/codigo-fonte/src/paginaDesempenho/GuiaEstiloCadernos.css)
+
+● [ExercicioAlemao.html](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-2-e1-proj-web-t10-we_need_2_talk/blob/main/codigo-fonte/src/paginaDesempenho/ExercicioAlemao.html)
+
+● [ExercicioEspanhol.html](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-2-e1-proj-web-t10-we_need_2_talk/blob/main/codigo-fonte/src/paginaDesempenho/ExercicioEspanhol.html)
+
+● [ExercicioItaliano.html](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-2-e1-proj-web-t10-we_need_2_talk/blob/main/codigo-fonte/src/paginaDesempenho/ExercicioItaliano.html)
+
+● [GuiaEstiloExercicioAlemao.css](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-2-e1-proj-web-t10-we_need_2_talk/blob/main/codigo-fonte/src/paginaDesempenho/GuiaEstiloExercicioAlemao.css)
+
+● [GuiaEstiloExercicioEspanhol.css](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-2-e1-proj-web-t10-we_need_2_talk/blob/main/codigo-fonte/src/paginaDesempenho/GuiaEstiloExercicioEspanhol.css)
+
+● [GuiaEstiloExercicioItaliano.css](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-2-e1-proj-web-t10-we_need_2_talk/blob/main/codigo-fonte/src/paginaDesempenho/GuiaEstiloExercicioItaliano.css)
+
 
 #### Estrutura de Dados
 
