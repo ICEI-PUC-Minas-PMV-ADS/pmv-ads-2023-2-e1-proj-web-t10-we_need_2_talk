@@ -6,8 +6,8 @@
 
 @import url('https://fonts.googleapis.com/css2?family=Roboto&display=swap');
 
-
- body {
+@media screen and (max-width : 1921px){
+  body {
     font-family:'Roboto' , sans-serif;
     background-color:rgb(238, 234, 234);
     } 
@@ -174,40 +174,6 @@
        
       }
       
-      /* 48em = 768px */
-      
-      @media (max-width: 268px) {
-        
-        .header li { float:left; }
-        
-        .header li a {
-          
-          padding: 15px 30px;
-          margin-top: 10px;
-          border-radius: 6px;
-          color: #fcfcfc;
-        
-        }
-      
-        .header .nav {
-          clear: none;
-          float: right;
-          max-height: none;
-          color: #fcfcfc;
-        }
-      
-        .header .mobile-icon { 
-          display:none; 
-      }
-      
-        .header li a {
-        
-          transition:.3s;
-          border-bottom:0; 
-        
-        }
-      
-      }
 
 select{
     width: 151.106px;
@@ -263,7 +229,7 @@ select{
 
     .sidebar {
         height: 100%;
-        width: 6cm;
+        width: 226px;
         background:#fff;
         justify-content: space-between;
         flex-direction: row;
@@ -311,8 +277,8 @@ select{
     .img-noti {
         width: 23px;
         position: fixed;
-        top: 4.7cm;
-        left: 29.4cm;
+        top: 177px;
+        left: 1111px;
     }
 
     .content-course-box {
@@ -321,8 +287,8 @@ select{
         box-sizing: border-box;
         float: right;
         position:fixed;
-        left: 10.5cm;
-        top: 12.7cm;
+        left: 396px;
+        top: 480px;
         margin:auto;
     }
 
@@ -339,14 +305,14 @@ select{
 
     .breadcrumb-item {
         position: relative;
-        top: 2cm;
+        top: 75px;
     }
 
 
     img.content-profile-image {
         margin-right: 210px;
         float:inline-end;
-        margin-top: -19.5cm;
+        margin-top: -737px;
         width: 850px;
         margin-bottom: 0;
  
@@ -359,8 +325,8 @@ select{
         font-weight:bold;
         margin-bottom: 0;
         position:fixed;
-        top: 12.5cm;
-        left: 11.6cm;
+        top: 472px;
+        left: 438px;
         padding-bottom: 2px;
         text-align: left;
         display: flex;
@@ -368,8 +334,8 @@ select{
     } 
 
     .content-main-text-item { 
-        width: 2.6cm;
-        height: 0.5cm;
+        width: 98px;
+        height: 18px;
         color: rgb(85, 78, 78);
         font-weight: normal;
         font-size: 12px;
@@ -384,8 +350,8 @@ select{
 
     .dropdown {
         position:fixed;
-        left: 25.4cm;
-        top: 6.4cm;
+        left: 960px;
+        top: 241px;
     }
 
     .dropdown-item {
@@ -456,8 +422,8 @@ select{
 
     .content-main-card {
         height: 40vh;
-        margin-right: 8cm;
-        margin-top: -14cm;
+        margin-right: 302px;
+        margin-top: -529px;
         float: right;
         background-color: rgba(134, 19, 11, 0.432);
         width: 90%;
@@ -544,5 +510,154 @@ select{
     }
 
     .start-quiz button {
-        margin-right: 3cm;
+        margin-right: 113px;
     }
+
+}
+@media screen and (max-width: 768px) {
+      .header h1 {
+          font-size: 24px;
+          left: 100%;
+          bottom: 10px;
+      }
+      .header .nav {
+          max-height: 100%;
+          overflow: auto;
+          background-color: #D99F7E;
+          position: absolute;
+          top: 100%;
+          left: 0;
+          width: 100%;
+          display: none;
+          z-index: 1;
+          text-align: center;
+      }
+
+      .header ul {
+          padding-top: 20px;
+      }
+
+      .header .logo {
+          display: none;
+      }
+
+      .header .nav li {
+          width: 100%;
+          border-bottom: none;
+      }
+
+      .header .nav li a {
+          padding: 10px 0;
+      }
+
+      .header .mobile-btn:checked ~ .nav {
+          display: block;
+      }
+
+      .sidebar {
+          margin-left: 0;
+          padding-right: 0;
+          width: 100%;
+          max-width: 100%;
+      }
+      .btn-primary1 {
+        margin-right: 450px;
+        float: right;
+      }
+      .btn-primary2 {
+        margin-right: 50px;
+        float: right;
+      }
+
+      .content-main-text .dropdown, .footer-left {
+          margin-right: 0;
+      }
+      button {
+          width: 90%;
+      }
+      .content-main-card {
+        position: relative;
+        left: 280px;
+      }
+
+      img.content-profile-image{
+          margin-right: -30px;
+          width: 130%;
+          height: 100%;
+          margin-top: 20px; 
+      }
+    } 
+@media screen and (max-width: 420px) {
+      .header h1 {
+        font-size: 14px;
+        left: 150%;
+        transform: translateX(50%);
+        bottom: 103px;
+      }
+      .header .nav {
+          max-height: 100%;
+          overflow: auto;
+          background-color: #D99F7E;
+          position: absolute;
+          top: 100%;
+          left: 0;
+          width: 100%;
+          display: none;
+          z-index: 1;
+          text-align: center;
+      }
+      .header ul {
+          padding-top: 20px;
+      }
+
+      .header .nav li {
+          width: 100%;
+          border-bottom: none;
+      }
+
+      .header .nav li a {
+          padding: 10px 0;
+      }
+
+      .header .mobile-btn:checked ~ .nav {
+          display: block;
+      }
+      .sidebar {
+          margin-left: 0;
+          padding-right: 0;
+          max-width: 100%;
+      }
+      .sidebar-text {
+          font-size: 23px;
+          margin-left: 40px;
+      }
+      .sidebar-text-user {
+          font-size: 23px;
+      }
+      .sidebar-icon {
+          margin-right: -20px;
+      }
+      .content-main-text   .footer-left {
+          margin-right: 0;
+          margin-top: 100px;
+      } 
+      .btn-primary1 {
+        margin-right: 50px;
+        position: relative;
+        top: 205px;
+        float: right;
+      }
+      .btn-primary2 {
+        margin-right: 150px;
+        float: right;
+      }
+      .dropdown, .footer-left {
+          margin-right: 0;
+      }
+      img.content-profile-image{
+        margin-right: 10;
+        width: 200%;
+        height: 120%;
+        margin-top: 20px; 
+    }
+}
