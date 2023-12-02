@@ -22,6 +22,8 @@ function Enviar(params) {
         break;
       default:
         campoValidado = true;
+        alert ("E-mail encaminhado")  
+        window.location.href="http://127.0.0.1:5501/codigo-fonte/src/paginaLogin/index.html"
         break;
     }
   
@@ -29,7 +31,6 @@ function Enviar(params) {
       //salvando dados do formulários de exibição
       var iemail = document.getElementById("recuperar").value;
       localStorage.setItem("recuperar", iemail);
-      alert ("E-mail encaminhado")  
       document.getElementById('recuperar').value = "";
     }
   }
