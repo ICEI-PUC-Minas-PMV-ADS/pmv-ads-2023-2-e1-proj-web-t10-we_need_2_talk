@@ -1,6 +1,5 @@
 # Plano de Testes de Software
 
-[Apresente os cenários de testes a serem utilizados na realização dos testes da aplicação. Escolha cenários de testes que demonstrem os requisitos sendo atendidos. ]
 
 Os testes funcionais a serem realizados na aplicação são descritos a seguir. 
 
@@ -20,7 +19,7 @@ Os testes funcionais a serem realizados na aplicação são descritos a seguir.
         <li>RF-03:	Lições Estruturadas: Oferecer lições organizadas por níveis de dificuldade e tópicos, permitindo que os usuários escolham lições relevantes para suas necessidades. Pontuação em quizzes e exercícios, destacando áreas fortes e sugerindo melhorias.</li>
    </ul>
   </td>
-  <td>Verificar se os links do menu lateral e botões no núcleo central estão encaminhando para o respectivos itens corretamente e verificar se os exercícios oferecem melhoria e informam se a resposta está correta ou não</td>
+  <td>Verificar se os links do menu lateral e botões no núcleo central estão encaminhando para o respectivos itens corretamente e verificar se os exercícios oferecem melhoria e informam se a resposta está correta ou não.</td>
   <td>
    <ol>
     <li>Acessar o navegador.</li>
@@ -30,7 +29,7 @@ Os testes funcionais a serem realizados na aplicação são descritos a seguir.
     <li>Na lista suspensa clicar em Testes/Estatísticas.</li>
     <li>Na lista suspensa clicar em Meu Desempenho.</li>
     <li>Visualizar as informações referentes desempenho individual do usuário.</li>
-    <li>Clicar no menu lateral (Minhas estatísticas, Minhas questões, Meus cadernos, Meus cursos, Meus interesses, Minha assinatura, Minha rede) e nos botões (Ver curso, Go Premium e Continuar). .</li>  
+    <li>Clicar no menu lateral (Minhas estatísticas, Minhas questões, Meus cadernos, Meus cursos, Meus interesses, Minha assinatura, Minha rede) e nos botões (Ver curso, Go Premium e Continuar).</li>  
    </ol>
    </td>
   <td>Todos os links da página Meu Desempenho devem encaminhar os usuários para os elementos descritos. Os testes devem mostrar a pontuação ao usuário e se as respostas estão corretas.</td>
