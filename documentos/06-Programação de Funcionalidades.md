@@ -115,20 +115,22 @@ Exemplo da tela de práticas de conversação.
 <li>https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-2-e1-proj-web-t10-we_need_2_talk/tree/main/codigo-fonte/src/praticasdeConversa%C3%A7%C3%A3o</li>
 <hr>
 
-### Tela de desempenho (RF-05)
+### Tela de desempenho (RF-05 e RF 03)
 
 Responsável: Emília Raphael dos Santos
 
-O acesso a tela de desempenho do usuário poderá ser feito através da opção de menu “Exercícios” e depois "Testes/Estatísticas". As estruturas de dados foram baseadas em HTML e CSS.
+O acesso a tela de desempenho do usuário poderá ser feito através da opção de menu “Exercícios” e depois "Meu Desempenho". As estruturas de dados foram baseadas em HTML, CSS e javascript.
 
 Exemplo da tela de desempenho: 
 
 ![image](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-2-e1-proj-web-t10-we_need_2_talk/assets/144388125/ca4b74d7-cd79-492d-8f89-c02be3386947)
 
 
-#### Requisito atendido
+#### Requisitos atendidos
 
 RF-05	Acompanhamento de Progresso: Fornecer um painel que exiba o progresso do usuário, detalhando as lições concluídas, considerando insights de áreas que precisam de mais atenção.
+
+RF-03 Lições Estruturadas: Oferecer lições organizadas por níveis de dificuldade e tópicos, permitindo que os usuários escolham lições relevantes para suas necessidades. Pontuação em quizzes e exercícios, destacando áreas fortes e sugerindo melhorias
 
 #### Artefatos da funcionalidade
 
