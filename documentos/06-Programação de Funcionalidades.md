@@ -256,7 +256,7 @@ https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-2-e1-proj-web-t10-we_need
 ### Instruções de acesso
 
 
-1. Abra um navegador de Internet e informe a seguinte [https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-2-e1-proj-web-t10-we_need_2_talk/blob/main/codigo-fonte/src/paginaFeedback/html/Feed.html](https://icei-puc-minas-pmv-ads.github.io/pmv-ads-2023-2-e1-proj-web-t10-we_need_2_talk//codigo-fonte/src/paginaFeedback/html/Feed.html)
+1. Abra um navegador de Internet e informe a seguinte https://icei-puc-minas-pmv-ads.github.io//pmv-ads-2023-2-e1-proj-web-t10-we_need_2_talk/codigo-fonte/src/paginaFeedback/html/Feed.html
 3. Faça uma avaliação sobre como foi sua experiência  no site.
 4. Faça uma crítica construtiva ou elogio.
 5. Clique em enviar.
