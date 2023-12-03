@@ -110,6 +110,46 @@ Os testes funcionais a serem realizados na aplicação são descritos a seguir.
  </tr>
 </table>
 
+<table>
+ <tr>
+  <th>Caso de teste</th>
+  <th>Requisitos associados</th>
+  <th>Objetivo do teste</th>
+  <th>Passos</th>
+  <th>Critérios de êxito</th>
+  <th>Responsável</th>
+ </tr>
+ <tr>
+  <td>CT-04: Verificar o funcionamento da página Práticas de Conversação </td>
+  <td>
+   <ul>
+    <li>RF-04: Incluir atividades interativas de prática de conversação sessões de áudio, para melhorar as habilidades de comunicação oral dos usuários, conversas de assuntos em comum e personalizadas.</li>
+   </ul>
+  </td>
+  <td>
+   <ul>
+    <li> Vefificar se as perguntas e o placar final do quiz estão funcionando e verificar a funcionalidade dos botões inseridos na tela (vídeo, logout, ícone voltar).</li>  
+   </ul>
+  </td>
+  
+  <td>
+   <ol>
+    <li>Acessar o navegador.</li>
+    <li>Informar o endereço do site.</li>
+    <li>Acessar a pagina home.</li>
+    <li>Acessar a pagina Meu desempenho.</li>
+    <li>Clicar no ícone meus interesses.</li>
+    <li>Clicar no ícone "Práticas de conversação".</li>
+    <li>Verificar se o site esta legível.</li>
+    <li>Checar se o quiz esta funcionando corretamente.</li>
+    <li>Verificar se o vídeo esta reproduzindo corretamente.</li>
+   </ol>
+   </td>
+  <td>O usuário deve conseguir obter suas informações com facilidade, responder o quiz e conseguir verificar seu resultado no final.</td>
+  <td>Ariel Ortega Acerbi</td>
+ </tr>
+</table>
+
 [Utilize a estrutura abaixo para cada caso de teste]
 
 |Caso de Teste    | CT-X - Título Caso de Teste |
