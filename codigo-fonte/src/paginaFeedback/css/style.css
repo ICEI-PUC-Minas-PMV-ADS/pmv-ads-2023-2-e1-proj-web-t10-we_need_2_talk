@@ -112,6 +112,7 @@ footer {
 footer div {
     display: flex;
     align-items: center;
+    margin-left: 1700px;
 }
 
 footer div img {
