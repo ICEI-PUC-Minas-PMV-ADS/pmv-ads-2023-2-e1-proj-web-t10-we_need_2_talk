@@ -134,6 +134,8 @@ function salvarAlteracoes(params) {
       break;
     default:
       campoValidado = true;
+      alert ('Dados alterados e salvos com sucesso')
+      window.location.href="http://127.0.0.1:5501/codigo-fonte/src/paginaHome/home.html"
       break;
   }
 
@@ -170,52 +172,3 @@ function salvarAlteracoes(params) {
     localStorage.setItem("iIdiomasdaInterface", iIdiomadaInterface);
   }
 }
-
-//explicação do professor
-
-// todos os cantos tem que ter um ID ou usar o document.querySelector
-// id metas - id.desabilitado = porque tem que puxar a meta do site
-
-// para clicar no botão:
-// class/id.onclick = function "se tiver nome" (artributos){ aqui voce ira agrupar tudo que deseja mudar no botão. id.value="o que esta escrito no campo" id. disabled = "false= todo estao abilitados para ser modificados" id.focus(focar ja no campo que será preenchido) }
-
-// verificar se os campos estão preenchidos :
-// cria um let(referencia/ liberaBotaoMT) + id com function(){ if (ID.value.length (cumprimento do valor) > quantidades de caracteres que deseja + &&) else não passar para a proximo campo. OBS.: REUTILIZAR A FUNÇÃO VARIAS VEZES QUE FOR PRECISO}
-// o evendo a ser tratdo é o onchange ( so abilita quando eu sair do campo) já o onkeyup é quando os caracteres são preenchidos passando a quantidade exigida ele abilita mudar de campo
-
-// Armazenamento de dados :
-// variavel = temporario ate voce atualizar ou sair da pagina.
-// NÃO usar o - porque o JS entende que isso é sinal de menos (subtração)
-// Armazenamento Local = localStorage.getitem (pra recuperar uma informação 'reconverter' com JSON.parse( localStorage.getItem(nome que voce deu) ) e o localStotage.SetItem (armazena, mas é preciso uma conversão em JSON.stringify, OBS.: preciso dar um nome para que ele seja recuperado)
-
-// Operações de dado:
-// nao reutiliza um id
-// nunca altera/ NUNCA reutilizar um ID
-// readId - para leitura/recuperação de dados
-// createId -para criação de dados, sem id que sera criado pelo CRUD - cria um ultimo id no banco de dados e converte ele pra numero (parseInt) caso no exista retorna 0 (||0), ai voc soma ao novo id = ultimo id + 1 , depois salvar no localStorage.setitem ...    tem que carrega o objeto inteiro e depois armazenar o objeto inteiro de novo (update)
-// updateId - atualização algo editado e mantem o id original(recupera) - ler tudos objetos(readId), acha a posição do objeto e atualiza.
-// deleteId - exclusão passando o id - ler tudos objetos(readId) , identifica o idExcluida, retira do vetor usando o metodo splice achando a possição no findIndex(retorna o posição)e find(retorna a tarefa/ objeto) e armazena (update) de novo.
-
-//  Filtros e outras transformações
-// localecompare - considera acentuação , "pt-br", sensitivity : "base" (não considera caixa alta ou caixa baixa)
-// prioridade pode ser usado a>b
-// area de busca =  <div id="areafiltro"
-//<label for=" filtro"> Busca: </label>
-//<input id= "filtro" type= "text"/>
-//<span id= "limpaFiltro"> &times; </span> (x para sair da pagina)
-//</div>
-// comportamwnto:
-//#limpaFiltro.onclick = function(){ filtro.value = "" mostraId(mostra a tabela )}
-//filtro.onkeyup = function() { mostraId (mostra a tabela )}
-
-// graficos:
-// site: npmjs.com (recursos de criação) precisamos de uma API , lembre que devemos pegar o script primeiro
-// <canvas> dentro do html e com esse objeto desenhar usando js
-
-// API's Online
-// UUID generator
-// fetch (" Passando a URL").then( r => r.text()). then (t => console.log(t)) ; then te da uma resposta
-// Caso de erro : fetch (" Passando a URL").then( r => r.text()). then (t => console.log(t) ) .catch( erro => console.error(erro) )
-// console.log =novoid
-// id é um string e nao mais um parseItn
-//função fcallback = executa sua operação e que eu 'atualizo'

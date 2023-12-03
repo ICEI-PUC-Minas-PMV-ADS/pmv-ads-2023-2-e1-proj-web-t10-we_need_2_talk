@@ -115,20 +115,22 @@ Exemplo da tela de práticas de conversação.
 <li>https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-2-e1-proj-web-t10-we_need_2_talk/tree/main/codigo-fonte/src/praticasdeConversa%C3%A7%C3%A3o</li>
 <hr>
 
-### Tela de desempenho (RF-05)
+### Tela de desempenho (RF-05 e RF 03)
 
 Responsável: Emília Raphael dos Santos
 
-O acesso a tela de desempenho do usuário poderá ser feito através da opção de menu “Exercícios” e depois "Testes/Estatísticas". As estruturas de dados foram baseadas em HTML e CSS.
+O acesso a tela de desempenho do usuário poderá ser feito através da opção de menu “Exercícios” e depois "Meu Desempenho". As estruturas de dados foram baseadas em HTML, CSS e javascript.
 
 Exemplo da tela de desempenho: 
 
 ![image](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-2-e1-proj-web-t10-we_need_2_talk/assets/144388125/ca4b74d7-cd79-492d-8f89-c02be3386947)
 
 
-#### Requisito atendido
+#### Requisitos atendidos
 
 RF-05	Acompanhamento de Progresso: Fornecer um painel que exiba o progresso do usuário, detalhando as lições concluídas, considerando insights de áreas que precisam de mais atenção.
+
+RF-03 Lições Estruturadas: Oferecer lições organizadas por níveis de dificuldade e tópicos, permitindo que os usuários escolham lições relevantes para suas necessidades. Pontuação em quizzes e exercícios, destacando áreas fortes e sugerindo melhorias
 
 #### Artefatos da funcionalidade
 
@@ -192,6 +194,28 @@ RF-05	Acompanhamento de Progresso: Fornecer um painel que exiba o progresso do u
 
 ● [questoesscript.js](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-2-e1-proj-web-t10-we_need_2_talk/blob/main/codigo-fonte/src/paginaDesempenho/questoesscript.js)
 
+● [quizalemao.js](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-2-e1-proj-web-t10-we_need_2_talk/blob/main/codigo-fonte/src/paginaDesempenho/quizalemao.js)
+
+● [quizespanhol.js](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-2-e1-proj-web-t10-we_need_2_talk/blob/main/codigo-fonte/src/paginaDesempenho/quizespanhol.js)
+
+● [quizitaliano.js](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-2-e1-proj-web-t10-we_need_2_talk/blob/main/codigo-fonte/src/paginaDesempenho/quizitaliano.js)
+
+● [MeusCadernos.html](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-2-e1-proj-web-t10-we_need_2_talk/blob/main/codigo-fonte/src/paginaDesempenho/MeusCadernos.html)
+
+● [GuiaEstiloCadernos.css](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-2-e1-proj-web-t10-we_need_2_talk/blob/main/codigo-fonte/src/paginaDesempenho/GuiaEstiloCadernos.css)
+
+● [ExercicioAlemao.html](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-2-e1-proj-web-t10-we_need_2_talk/blob/main/codigo-fonte/src/paginaDesempenho/ExercicioAlemao.html)
+
+● [ExercicioEspanhol.html](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-2-e1-proj-web-t10-we_need_2_talk/blob/main/codigo-fonte/src/paginaDesempenho/ExercicioEspanhol.html)
+
+● [ExercicioItaliano.html](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-2-e1-proj-web-t10-we_need_2_talk/blob/main/codigo-fonte/src/paginaDesempenho/ExercicioItaliano.html)
+
+● [GuiaEstiloExercicioAlemao.css](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-2-e1-proj-web-t10-we_need_2_talk/blob/main/codigo-fonte/src/paginaDesempenho/GuiaEstiloExercicioAlemao.css)
+
+● [GuiaEstiloExercicioEspanhol.css](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-2-e1-proj-web-t10-we_need_2_talk/blob/main/codigo-fonte/src/paginaDesempenho/GuiaEstiloExercicioEspanhol.css)
+
+● [GuiaEstiloExercicioItaliano.css](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-2-e1-proj-web-t10-we_need_2_talk/blob/main/codigo-fonte/src/paginaDesempenho/GuiaEstiloExercicioItaliano.css)
+
 
 #### Estrutura de Dados
 
@@ -232,7 +256,7 @@ https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-2-e1-proj-web-t10-we_need
 ### Instruções de acesso
 
 
-1. Abra um navegador de Internet e informe a seguinte https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-2-e1-proj-web-t10-we_need_2_talk/blob/main/codigo-fonte/src/paginaFeedback/html/Feed.html
+1. Abra um navegador de Internet e informe a seguinte [https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-2-e1-proj-web-t10-we_need_2_talk/blob/main/codigo-fonte/src/paginaFeedback/html/Feed.html](https://icei-puc-minas-pmv-ads.github.io/pmv-ads-2023-2-e1-proj-web-t10-we_need_2_talk//codigo-fonte/src/paginaFeedback/html/Feed.html)
 3. Faça uma avaliação sobre como foi sua experiência  no site.
 4. Faça uma crítica construtiva ou elogio.
 5. Clique em enviar.
