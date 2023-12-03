@@ -1,9 +1,11 @@
 main {
-    background-color: #fff
+    background-color: #fff;
+    height: 540PX;
+
 }
 
 body {
-    background-color: #5F5D5D !important;
+    background-color:#EEEAEA !important;
 }
 
 #nav {
@@ -113,25 +115,43 @@ footer {
 @media (max-width:768px){
    .textNav{
         margin-top: -20px;
+        
     }
     .inputTable1 {
         margin-left: 0;
         width: 220px;
+        
     }
     
     .iBibliografia {
         width: 220px;
         margin-left: 0;
+        
     }
 
     td{
         padding: 0;
+       
     }
 }
 
-    /* a {
-        display: block;
-        width: 50%;
-        float: left;
-        box-sizing: border-box;
-    } */
+
+/*@media (min-width: 1024px) {
+
+    .textNav {
+        max-width: 1024px;
+        margin: 0 auto;
+    }
+    .container{
+        height: 100%;
+    }
+    main.container{
+        max-width: 1024px;
+        margin: 0 auto;
+    }
+    body{
+        height: 100%;
+        width: 100%;
+    }
+}*/
+
