@@ -244,9 +244,9 @@ Feedback
 RF-06	Feedback Personalizado: Oferecer feedback personalizado para que os usuários possam avaliar o website.
 
 ### Artefatos da funcionalidade
-Feed.html
-style.css
-main.js
+● [Feedbackl.html](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-2-e1-proj-web-t10-we_need_2_talk/blob/main/codigo-fonte/src/paginaFeedback/html/Feed.html)<br>
+● [Feedback.css](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-2-e1-proj-web-t10-we_need_2_talk/blob/main/codigo-fonte/src/paginaFeedback/css/style.css)<br>
+● [Feedback.js](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-2-e1-proj-web-t10-we_need_2_talk/blob/main/codigo-fonte/src/paginaFeedback/html/Feed.html)<br>
 
 ### Estrutura de Dados
 
