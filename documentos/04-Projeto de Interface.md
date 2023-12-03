@@ -146,7 +146,7 @@ Figura 16 - Tela de Práticas de Conversação.
 
 Permite que o usuário recupere a senha do website
 
-![image]![image](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-2-e1-proj-web-t10-we_need_2_talk/assets/144743654/9ee90723-d254-488b-bcfc-efc0bd30c9a5)
+![image](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-2-e1-proj-web-t10-we_need_2_talk/assets/144743654/9ee90723-d254-488b-bcfc-efc0bd30c9a5)
 
 Figura 17 - Tela de Recuperação de Senha 
 
