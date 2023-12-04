@@ -135,7 +135,7 @@ function salvarAlteracoes(params) {
     default:
       campoValidado = true;
       alert ('Dados alterados e salvos com sucesso')
-      window.location.href="http://127.0.0.1:5501/codigo-fonte/src/paginaHome/home.html"
+      window.location.href="http://127.0.0.1:5501/codigo-fonte/src/paginaHomeNova/paginahomeNova.html"
       break;
   }
 
