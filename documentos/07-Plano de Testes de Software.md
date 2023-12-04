@@ -33,7 +33,7 @@ Os testes funcionais a serem realizados na aplicação são descritos a seguir.
    </ol>
    </td>
   <td>Todos os links da página Meu Desempenho devem encaminhar os usuários para os elementos descritos. Os testes devem mostrar a pontuação ao usuário e se as respostas estão corretas.</td>
-  <td>Vitor de Paula Andrade</td>
+  <td>Emília Raphael dos Santos</td>
  </tr>
 </table>
 <table>
@@ -68,7 +68,7 @@ Os testes funcionais a serem realizados na aplicação são descritos a seguir.
    </ol>
    </td>
   <td>Todos os links da página Home devem encaminhar os usuários para as páginas descritas.</td>
-  <td>Emília Raphael dos Santos</td>
+  <td>Vitor de Paula Andrade</td>
  </tr>
 </table>
 
@@ -106,7 +106,7 @@ Os testes funcionais a serem realizados na aplicação são descritos a seguir.
    </ol>
    </td>
   <td>As informações registradas pelo usuário no momento que preencher os fonmulários devem estar disponibilizadas na página de Cadastro de Usuário para alguma alteração futura .</td>
-  <td>Ariel Ortega acerbi</td>
+  <td>João Victor Diniz Piazza</td>
  </tr>
 </table>
 
@@ -146,7 +146,7 @@ Os testes funcionais a serem realizados na aplicação são descritos a seguir.
    </ol>
    </td>
   <td>O usuário deve conseguir obter suas informações com facilidade, responder o quiz e conseguir verificar seu resultado no final.</td>
-  <td>João Victor Diniz Piazza</td>
+  <td>Ariel Ortega acerbi</td>
  </tr>
 </table>
 
