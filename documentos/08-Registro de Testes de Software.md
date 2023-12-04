@@ -23,12 +23,12 @@ https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-2-e1-proj-web-t10-we_need
 
 |Caso de Teste    | CT-3 - Verificar o funcionamento da página de Cadastro de Usuário |
 |:---|:---|
-| Resultados obtidos | Todos os campos para preencher as informaçoes estavam todos funcionais, e todos os dados foram salvos no local.   |
+| Resultados obtidos | Todos os campos para preencher as informaçoes estavam todos funcionais, e todos os dados foram salvos no LocalStorage.   |
 | Responsável pela execução do caso de Teste | Ariel Ortega Acerbi |
 
 https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-2-e1-proj-web-t10-we_need_2_talk/assets/144743493/ef6afc69-0d71-46fa-a05c-f6730248b2b8
 
-Dados salvos no local.
+Dados salvos no LocalStorage.
 
 ![Captura de tela 2023-12-03 200857](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-2-e1-proj-web-t10-we_need_2_talk/assets/144743493/da902f61-8efa-450a-af0f-88c308ca1003)
 
