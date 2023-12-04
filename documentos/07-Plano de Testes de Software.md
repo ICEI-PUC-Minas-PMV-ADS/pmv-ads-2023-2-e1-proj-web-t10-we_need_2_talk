@@ -106,7 +106,7 @@ Os testes funcionais a serem realizados na aplicação são descritos a seguir.
    </ol>
    </td>
   <td>As informações registradas pelo usuário no momento que preencher os fonmulários devem estar disponibilizadas na página de Cadastro de Usuário para alguma alteração futura .</td>
-  <td>João Victor Diniz Piazza</td>
+  <td>Ariel Ortega acerbi</td>
  </tr>
 </table>
 
@@ -146,7 +146,7 @@ Os testes funcionais a serem realizados na aplicação são descritos a seguir.
    </ol>
    </td>
   <td>O usuário deve conseguir obter suas informações com facilidade, responder o quiz e conseguir verificar seu resultado no final.</td>
-  <td>Ariel Ortega Acerbi</td>
+  <td>João Victor Diniz Piazza</td>
  </tr>
 </table>
 
