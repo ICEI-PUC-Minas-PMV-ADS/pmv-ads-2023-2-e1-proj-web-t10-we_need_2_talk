@@ -32,3 +32,18 @@ Dados salvos no local.
 
 ![Captura de tela 2023-12-03 200857](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-2-e1-proj-web-t10-we_need_2_talk/assets/144743493/da902f61-8efa-450a-af0f-88c308ca1003)
 
+
+|Caso de Teste    | CT-04: Verificar o funcionamento da página Práticas de Conversação |
+|:---|:---|
+| Resultados obtidos |  Informações estão legíveis, quiz e resultado final funcionando corretamente, vídeo esta reproduzindo e os botões inseridos na tela estão funcionando corretamente.  |
+| Responsável pela execução do caso de Teste | João Victor Diniz Piazza |
+
+https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-2-e1-proj-web-t10-we_need_2_talk/assets/144743654/7776a30c-1b0a-47f0-81c5-e6f2d196f3e2
+
+
+
+
+
+
+
+
