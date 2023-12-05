@@ -6,7 +6,8 @@
 
 Nossa tela de cadastro de usuário oferece uma experiência eficiente e personalizada. Coletamos informações pessoais, dados da conta e suas preferências de idioma em um único processo de registro.As estruturas de dados foram baseadas em HTML, CSS e JS.
 
-![image](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-2-e1-proj-web-t10-we_need_2_talk/assets/144743654/7a51a360-788e-4ceb-b878-dccc9b90aaa7)
+![image](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-2-e1-proj-web-t10-we_need_2_talk/assets/144743654/ec12b123-300d-40d3-b11b-404e7f2e9467)
+
 
 #### Requisito atendido
 
