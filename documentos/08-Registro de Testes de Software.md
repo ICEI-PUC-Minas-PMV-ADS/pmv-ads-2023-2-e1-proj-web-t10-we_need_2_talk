@@ -9,7 +9,7 @@ Os resultados dos testes funcionais realizados na aplicação são descritos a s
 | Resultados obtidos | Usuário seleciona o nível de satisfação com a plataforma de 0 até 5 e escreve alguma contribuição para enviar. Resultados:  |
 | Responsável pela execução do caso de Teste | Emília Raphael dos Santos |
 
-
+Uploading Mídia1.mp4…
 
 
 |Caso de Teste    | CT-2 - Verificar o funcionamento da página de desempenho do usuário |
