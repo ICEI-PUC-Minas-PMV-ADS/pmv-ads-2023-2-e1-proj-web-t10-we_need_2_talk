@@ -45,6 +45,17 @@ Dados salvos no LocalStorage.
 https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-2-e1-proj-web-t10-we_need_2_talk/assets/144743654/d5ac9a8f-4ab7-4979-a66e-d047319274b9
 
 
+|Caso de Teste    | CT-06: Verificar o funcionamento da página de Loguin   |
+|:---|:---|
+| Resultados obtidos | Todos os links estão funcionando corretamente juntamente com  localstorage.  |
+| Responsável pela execução do caso de Teste | Vitor de Paula Andrade |
+
+
+https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-2-e1-proj-web-t10-we_need_2_talk/assets/146040771/42adb69d-222e-4d36-b513-97a63b1fc28f
+
+![LocalStorage](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-2-e1-proj-web-t10-we_need_2_talk/assets/146040771/4affeae7-6c27-4e9c-ba78-e9e2e59abaf4)
+
+
 
 
 
