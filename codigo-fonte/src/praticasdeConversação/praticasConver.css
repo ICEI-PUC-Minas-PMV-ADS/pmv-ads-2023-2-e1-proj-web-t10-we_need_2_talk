@@ -296,10 +296,11 @@ margin: 1rem 0;
     display: flex;
     justify-content: space-between;
     align-items: flex-end;
-    bottom: 0;
+    bottom: 20px;
     left: 0;
     right: 0;
     padding: 10px;
+    
 }
 
 .footer__link {
@@ -307,11 +308,15 @@ margin: 1rem 0;
 }
 
 .footer__link:hover {
-    color: #530E73;
+    color: white;
     font-weight: 700;
 }
 
 .footer__left,
 .footer__right {
     font-size: 14px;
+}
+
+.footer__link{
+    color: white;
 }
