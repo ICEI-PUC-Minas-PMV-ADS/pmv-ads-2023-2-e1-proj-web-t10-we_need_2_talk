@@ -113,6 +113,26 @@ Página de Recuperação de senha: Arquivos HTML, CSS, JS e Imagens.
 #### Atualizado
 - Página de Desempenho: Arquivos HTML, CSS, JS e Imagens.
 - Página de Recuperação de senha: Arquivos HTML, CSS, JS e Imagens.
+- Página de Conversação:  CSS.
+
+### [0.1.18] - 3/12/2023
+####  Adicionado
+- Página Nova de home: Arquivos HTML, CSS, JS e Imagens.
+
+
+####  Atualizado
+- Página de Cadastro: Arquivos JS.
+- Página de Feedback: Arquivos HTML, CSS.
+- Página de Recuperação de senha: Arquivos HTML, CSS, JS.
+
+### [0.1.19] - 4/12/2023
+####  Atualizado 
+- Página Nova de home: Arquivos HTML, CSS, JS.
+- Página de Cadastro: Arquivos JS.
+- Página de Feedback: Arquivos HTML, CSS.
+- Página de Recuperação de senha: Arquivos HTML, CSS, JS.
+
+
 
 
 
