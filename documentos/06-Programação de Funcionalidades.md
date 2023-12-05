@@ -119,7 +119,8 @@ A nossa tela Práticas de Conversação oferece orientaçoes, vídeos e atividad
 ### Título da Funcionalidade
 Tela Práticas de Conversação
 
-![image](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-2-e1-proj-web-t10-we_need_2_talk/assets/144743493/dadc7787-bf30-466d-8dd4-96b329f5dc41)
+![image](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-2-e1-proj-web-t10-we_need_2_talk/assets/144743493/854f6032-6911-4cdb-a2dc-be769797ac69)
+
 
 ### Instruções de acesso
 
