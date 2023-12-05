@@ -42,7 +42,8 @@ Dados salvos no LocalStorage.
 | Resultados obtidos |  Informações estão legíveis, quiz e resultado final funcionando corretamente, vídeo esta reproduzindo e os botões inseridos na tela estão funcionando corretamente.  |
 | Responsável pela execução do caso de Teste | João Victor Diniz Piazza |
 
-https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-2-e1-proj-web-t10-we_need_2_talk/assets/144743654/7776a30c-1b0a-47f0-81c5-e6f2d196f3e2
+https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-2-e1-proj-web-t10-we_need_2_talk/assets/144743654/d5ac9a8f-4ab7-4979-a66e-d047319274b9
+
 
 
 
