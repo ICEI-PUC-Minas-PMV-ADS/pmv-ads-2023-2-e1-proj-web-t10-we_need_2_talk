@@ -20,7 +20,11 @@ https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-2-e1-proj-web-t10-we_need
 
 
 
-https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-2-e1-proj-web-t10-we_need_2_talk/assets/146040771/6b95f8a3-2889-4d8c-8b0a-cd5d0df0ad6d
+
+https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-2-e1-proj-web-t10-we_need_2_talk/assets/146040771/8720c3d0-a42a-40e1-b4c1-f7dc0a4710c9
+
+
+
 
 |Caso de Teste    | CT-04 - Verificar o funcionamento da página de Cadastro de Usuário |
 |:---|:---|
