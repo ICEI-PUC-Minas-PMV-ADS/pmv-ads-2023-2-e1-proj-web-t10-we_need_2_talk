@@ -1,12 +1,10 @@
 # Programação de Funcionalidades
 
 
+### Tela  de Configuração de Usuário
+
 
 Nossa tela de cadastro de usuário oferece uma experiência eficiente e personalizada. Coletamos informações pessoais, dados da conta e suas preferências de idioma em um único processo de registro.As estruturas de dados foram baseadas em HTML, CSS e JS.
-
-### Título da funcionalidade
-
-Configuração de Usuário
 
 ![image](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-2-e1-proj-web-t10-we_need_2_talk/assets/144743654/7a51a360-788e-4ceb-b878-dccc9b90aaa7)
 
@@ -42,6 +40,37 @@ Configuração de Usuário
 
 João Victor Diniz Piazza
 <hr>
+
+### Tela Home (RF-01)
+
+Tela de home principal articuladora do web site que possibilita o usuário a acessar outras páginas.
+
+![image](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-2-e1-proj-web-t10-we_need_2_talk/assets/144743654/2f237c17-58df-4a35-8dca-5c1558636d56)
+
+#### Requisito atendido
+
+[RF-01] Cadastro de Usuários: Permitir que os usuários criem contas utilizando o endereço de e-mail, CPF, endereço residencial, considerando métodos definidos RBAC e utilizando funções CRUD.
+
+#### Artefatos da funcionalidade
+
+● [paginahomeNova.html](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-2-e1-proj-web-t10-we_need_2_talk/blob/main/codigo-fonte/src/paginaHome/home.html)
+
+●[paginahomeNova.css](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-2-e1-proj-web-t10-we_need_2_talk/blob/main/codigo-fonte/src/paginaHome/homepage.css)
+
+#### Estrutura de Dados
+
+● [paginahomeNova.html](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-2-e1-proj-web-t10-we_need_2_talk/blob/main/codigo-fonte/src/paginaHomeNova/paginahomeNova.html)
+
+#### Instruções de acesso
+  1. Abra um navegador de Internet e informe a seguinte URL: https://icei-puc-minas-pmv-ads.github.io/pmv-ads-2023-2-e1-proj-web-t10-we_need_2_talk/codigo-fonte/src/paginaLogin/index.html
+  2. Preencha as lacunas com seus dados (que serão exibidos e os que serão armazenados) na página login.
+  3. Ao apertar entrer e os dados estiver todos corretos, entao o usuário vai ser encaminhado para página home https://icei-puc-minas-pmv-ads.github.io/pmv-ads-2023-2-e1-proj-web-t10-we_need_2_talk/codigo-fonte/src/paginaHomeNova/paginahomeNova.html
+  4. Aonde o usuáio podera acessar outras páginas.
+
+#### Responsável
+
+João Victor Diniz Piazza
+
 
 
 ### Tela de Login (RF-08)
