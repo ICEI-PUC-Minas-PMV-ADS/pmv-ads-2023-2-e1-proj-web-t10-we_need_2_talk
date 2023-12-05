@@ -9,7 +9,8 @@ Os resultados dos testes funcionais realizados na aplicação são descritos a s
 | Resultados obtidos | Usuário seleciona o nível de satisfação com a plataforma de 0 até 5 e escreve alguma contribuição para enviar. Resultados:  |
 | Responsável pela execução do caso de Teste | Emília Raphael dos Santos |
 
-Uploading Mídia1.mp4…
+
+https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-2-e1-proj-web-t10-we_need_2_talk/assets/144388125/e0f3977c-825b-4aa9-8db5-7a27d25d4a50
 
 
 |Caso de Teste    | CT-2 - Verificar o funcionamento da página de desempenho do usuário |
