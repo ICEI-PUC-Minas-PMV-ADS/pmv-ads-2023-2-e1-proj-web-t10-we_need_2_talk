@@ -85,8 +85,12 @@ Cassiano Torneiro Baptista
 
 
 ### Tela de Práticas de conversação (RF-04)
+A nossa tela Práticas de Conversação oferece orientaçoes, vídeos e atividades para auxiliar nossos alunos com seus estudos.
 
-Responsável: Ariel Ortega Acerbi
+### Título da Funcionalidade
+Tela Práticas de Conversação
+
+![image](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-2-e1-proj-web-t10-we_need_2_talk/assets/144743493/dadc7787-bf30-466d-8dd4-96b329f5dc41)
 
 ### Instruções de acesso
 
@@ -97,13 +101,6 @@ Responsável: Ariel Ortega Acerbi
 
 RF-04 Prática de Conversação: Incluir atividades interativas de prática de conversação sessões de áudio, para melhorar as habilidades de comunicação oral dos usuários, conversas de assuntos em comum e personalizadas.
 
-
-Exemplo da tela de práticas de conversação.
-
-
-![image](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-2-e1-proj-web-t10-we_need_2_talk/assets/144743493/dadc7787-bf30-466d-8dd4-96b329f5dc41)
-
-
 ### Artefatos da funcionalidade
 
 ● [praticasdeConversação.html](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-2-e1-proj-web-t10-we_need_2_talk/blob/main/codigo-fonte/src/praticasdeConversa%C3%A7%C3%A3o/praticasdeConversa%C3%A7%C3%A3o.html)<br>
@@ -113,6 +110,9 @@ Exemplo da tela de práticas de conversação.
 ### Estrutura de dados
 
 <li>https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-2-e1-proj-web-t10-we_need_2_talk/tree/main/codigo-fonte/src/praticasdeConversa%C3%A7%C3%A3o</li>
+<br>
+Responsável: Ariel Ortega Acerbi
+
 <hr>
 
 ### Tela de desempenho (RF-05 e RF 03)
@@ -244,9 +244,9 @@ Feedback
 RF-06	Feedback Personalizado: Oferecer feedback personalizado para que os usuários possam avaliar o website.
 
 ### Artefatos da funcionalidade
-Feed.html
-style.css
-main.js
+● [Feedbackl.html](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-2-e1-proj-web-t10-we_need_2_talk/blob/main/codigo-fonte/src/paginaFeedback/html/Feed.html)<br>
+● [Feedback.css](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-2-e1-proj-web-t10-we_need_2_talk/blob/main/codigo-fonte/src/paginaFeedback/css/style.css)<br>
+● [Feedback.js](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-2-e1-proj-web-t10-we_need_2_talk/blob/main/codigo-fonte/src/paginaFeedback/html/Feed.html)<br>
 
 ### Estrutura de Dados
 
@@ -256,7 +256,7 @@ https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-2-e1-proj-web-t10-we_need
 ### Instruções de acesso
 
 
-1. Abra um navegador de Internet e informe a seguinte [https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-2-e1-proj-web-t10-we_need_2_talk/blob/main/codigo-fonte/src/paginaFeedback/html/Feed.html](https://icei-puc-minas-pmv-ads.github.io/pmv-ads-2023-2-e1-proj-web-t10-we_need_2_talk//codigo-fonte/src/paginaFeedback/html/Feed.html)
+1. Abra um navegador de Internet e informe a seguinte https://icei-puc-minas-pmv-ads.github.io//pmv-ads-2023-2-e1-proj-web-t10-we_need_2_talk/codigo-fonte/src/paginaFeedback/html/Feed.html
 3. Faça uma avaliação sobre como foi sua experiência  no site.
 4. Faça uma crítica construtiva ou elogio.
 5. Clique em enviar.

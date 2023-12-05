@@ -53,8 +53,8 @@ function level(level) {
     
 }
 
-let Enviar = document.getElementById('Enviar');
+const btc = document.querySelector('button')
 
-Enviar.onclick(); {
-    alert("Enviado com sucesso!");
-}
+btc.addEventListener('click', function(){
+    alert("Enviado com Sucesso");
+});

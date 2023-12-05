@@ -1,9 +1,3 @@
-// seta para voltar a pagina home
-document.getElementById("setaMenu").addEventListener("click", function () {
-    window.location.href = "..//paginaHome/home.html";
-  });
-
-
 // validação de email
 const emailRegex = /^\w+([-+.']\w+)*@\w+([-.]\w+)*\.\w+([-.]\w+)*$/;
 

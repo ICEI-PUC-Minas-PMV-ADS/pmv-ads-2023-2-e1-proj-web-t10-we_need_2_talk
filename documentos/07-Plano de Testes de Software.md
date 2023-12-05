@@ -3,6 +3,39 @@
 
 Os testes funcionais a serem realizados na aplicação são descritos a seguir. 
 <table>
+  <tr>
+  <th>Caso de teste</th>
+  <th>Requisitos associados</th>
+  <th>Objetivo do teste</th>
+  <th>Passos</th>
+  <th>Critérios de êxito</th>
+  <th>Responsável</th>
+ </tr>
+ <tr>
+   <td>CT-01: Verificar a página Home</td>
+  <td>
+ </ul>
+  </td>
+  <td><ul><li>Verificar se os links da página Home estão encaminhando para as respectivas páginas corretamente.</li>
+  <li>Verificar se aparece a confirmação para o usuário de que sua avaliação sobre o website foi entregue.</li>
+  
+  </ul></td>
+  
+  <td>
+   <ol>
+    <li>Acessar o navegador.</li>
+    <li>Informar o endereço do site.</li>
+    <li>Visualizar a página Home.</li>
+    <li>Clicar no ícone de engrenagem.</li>
+    <li>Clicar em Feedback.</li>
+   </ol>
+   </td>
+  <td>Todos os links da página Home devem encaminhar os usuários para as páginas descritas.</td>
+  <td>João Victor Diniz Piazza</td>
+ </tr>
+</table>
+
+<table>
  <tr>
   <th>Caso de teste</th>
   <th>Requisitos associados</th>
@@ -12,7 +45,7 @@ Os testes funcionais a serem realizados na aplicação são descritos a seguir.
   <th>Responsável</th>
  </tr>
  <tr>
-  <td>CT-01: Verificar a página Meu Desempenho</td>
+  <td>CT-02: Verificar a página Meu Desempenho</td>
   <td>
    <ul>
     <li>RF-05:	O site deve permitir que o usuário verifique o progresso no(s) curso(s), detalhando as lições concluídas e estatísticas de desempenho individual.</li>
@@ -33,7 +66,7 @@ Os testes funcionais a serem realizados na aplicação são descritos a seguir.
    </ol>
    </td>
   <td>Todos os links da página Meu Desempenho devem encaminhar os usuários para os elementos descritos. Os testes devem mostrar a pontuação ao usuário e se as respostas estão corretas.</td>
-  <td>Vitor de Paula Andrade</td>
+  <td>Emília Raphael dos Santos</td>
  </tr>
 </table>
 <table>
@@ -46,7 +79,7 @@ Os testes funcionais a serem realizados na aplicação são descritos a seguir.
   <th>Responsável</th>
  </tr>
  <tr>
-  <td>CT-02: Verificar o funcionamento da página de Feedback</td>
+  <td>CT-03: Verificar o funcionamento da página de Feedback</td>
   <td>
    <ul>
     <li>RF-06:	Feedback Personalizado: Oferecer feedback personalizado para que os usuários possam avaliar o website.</li>
@@ -68,7 +101,7 @@ Os testes funcionais a serem realizados na aplicação são descritos a seguir.
    </ol>
    </td>
   <td>Todos os links da página Home devem encaminhar os usuários para as páginas descritas.</td>
-  <td>Emília Raphael dos Santos</td>
+  <td>Vitor de Paula Andrade</td>
  </tr>
 </table>
 
@@ -82,7 +115,7 @@ Os testes funcionais a serem realizados na aplicação são descritos a seguir.
   <th>Responsável</th>
  </tr>
  <tr>
-  <td>CT-03: Verificar o funcionamento da página de Cadastro de Usuário </td>
+  <td>CT-04: Verificar o funcionamento da página de Cadastro de Usuário </td>
   <td>
    <ul>
     <li>RF-02 O site deve permitir que os usuários personalizem seus perfis com informações como idiomas de interesse, nível de proficiência e metas de aprendizado, hobbys, assuntos relevantes.</li>
@@ -107,6 +140,46 @@ Os testes funcionais a serem realizados na aplicação são descritos a seguir.
    </td>
   <td>As informações registradas pelo usuário no momento que preencher os fonmulários devem estar disponibilizadas na página de Cadastro de Usuário para alguma alteração futura .</td>
   <td>João Victor Diniz Piazza</td>
+ </tr>
+</table>
+
+<table>
+ <tr>
+  <th>Caso de teste</th>
+  <th>Requisitos associados</th>
+  <th>Objetivo do teste</th>
+  <th>Passos</th>
+  <th>Critérios de êxito</th>
+  <th>Responsável</th>
+ </tr>
+ <tr>
+  <td>CT-05: Verificar o funcionamento da página Práticas de Conversação </td>
+  <td>
+   <ul>
+    <li>RF-04: Incluir atividades interativas de prática de conversação sessões de áudio, para melhorar as habilidades de comunicação oral dos usuários, conversas de assuntos em comum e personalizadas.</li>
+   </ul>
+  </td>
+  <td>
+   <ul>
+    <li> Vefificar se as perguntas e o placar final do quiz estão funcionando e verificar a funcionalidade dos botões inseridos na tela (vídeo, logout, ícone voltar).</li>  
+   </ul>
+  </td>
+  
+  <td>
+   <ol>
+    <li>Acessar o navegador.</li>
+    <li>Informar o endereço do site.</li>
+    <li>Acessar a pagina home.</li>
+    <li>Acessar a pagina Meu desempenho.</li>
+    <li>Clicar no ícone meus interesses.</li>
+    <li>Clicar no ícone "Práticas de conversação".</li>
+    <li>Verificar se o site esta legível.</li>
+    <li>Checar se o quiz esta funcionando corretamente.</li>
+    <li>Verificar se o vídeo esta reproduzindo corretamente.</li>
+   </ol>
+   </td>
+  <td>O usuário deve conseguir obter suas informações com facilidade, responder o quiz e conseguir verificar seu resultado no final.</td>
+  <td>Ariel Ortega acerbi</td>
  </tr>
 </table>
 
