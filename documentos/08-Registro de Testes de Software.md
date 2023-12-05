@@ -6,7 +6,7 @@ Os resultados dos testes funcionais realizados na aplicação são descritos a s
 
 |Caso de Teste    | CT-1 - Verificar o funcionamento da página de Feedback |
 |:---|:---|
-| Resultados obtidos | Usuário seleciona o nível de satisfação com a plataforma de 0 até 5 e escreve alguma contribuição para enviar. Resultados:  |
+| Resultados obtidos | Usuário seleciona o nível de satisfação com a plataforma de 0 até 5 e escreve alguma contribuição para enviar.  |
 | Responsável pela execução do caso de Teste | Emília Raphael dos Santos |
 
 
