@@ -15,6 +15,7 @@ Os testes funcionais a serem realizados na aplicação são descritos a seguir.
    <td>CT-01: Verificar a página Home</td>
   <td>
  </ul>
+  RF-08: permite que o usuário faça login no sistema, caso já possua uma conta. Caso contrário, basta criar uma nova conta e acessar.
   </td>
   <td><ul><li>Verificar se os links da página Home estão encaminhando para as respectivas páginas corretamente.</li>
   <li>Verificar se aparece a confirmação para o usuário de que sua avaliação sobre o website foi entregue.</li>
