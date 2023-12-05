@@ -268,7 +268,8 @@ Na página há um menu lateral e diversos botões na parte central que o usuári
 ### Título da funcionalidade
 Feedback
 
-![image](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-2-e1-proj-web-t10-we_need_2_talk/assets/146040771/6205e490-8dc6-4aeb-ab87-38b0266c15a0)
+![Feedback](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-2-e1-proj-web-t10-we_need_2_talk/assets/146040771/e66f29de-2951-44fd-98ef-5cfb011550af)
+
 
 
 
