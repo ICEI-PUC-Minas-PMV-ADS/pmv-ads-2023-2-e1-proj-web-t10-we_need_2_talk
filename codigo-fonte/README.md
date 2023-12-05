@@ -131,7 +131,7 @@ Página de Recuperação de senha: Arquivos HTML, CSS, JS e Imagens.
 - Página de Cadastro: Arquivos JS.
 - Página de Feedback: Arquivos HTML, CSS.
 - Página de Recuperação de senha: Arquivos HTML, CSS, JS.
-
+- Página de Conversação: Arquivos HTML, CSS.
 
 
 
