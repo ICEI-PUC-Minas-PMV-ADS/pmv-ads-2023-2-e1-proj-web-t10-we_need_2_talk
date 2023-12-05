@@ -82,7 +82,8 @@ A nossa tela de login proporciona uma experiência rápida e segura para acessar
 
 Página de Login
 
-![image](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-2-e1-proj-web-t10-we_need_2_talk/assets/146040771/70ba2329-0ae7-48a1-84b7-4d13f7cf1722)
+![image](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-2-e1-proj-web-t10-we_need_2_talk/assets/144743654/c4c36f65-dfc2-4757-9465-e01dd16a1a97)
+
 
 
 #### Requisito atendido
