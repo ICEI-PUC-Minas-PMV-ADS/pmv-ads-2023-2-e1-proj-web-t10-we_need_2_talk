@@ -27,7 +27,7 @@ function Entrar(params) {
         break;
       default:
         campoValidado = true; 
-        window.location.href="http://127.0.0.1:5501/codigo-fonte/src/paginaHomeNova/paginahomeNova.html"
+        window.location.href= "https://icei-puc-minas-pmv-ads.github.io/pmv-ads-2023-2-e1-proj-web-t10-we_need_2_talk/codigo-fonte/src/paginaHomeNova/paginahomeNova.html"
         break;
     }
   
