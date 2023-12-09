@@ -112,6 +112,69 @@ footer {
     color: #fff;
 }
 
+@media (min-width: 1900px){
+    .Conta{
+        font-size: 32px;
+    }
+
+    main.container {
+        height: 971px !important;
+        max-width: 1600px;
+    }
+    #tabela {
+       height: 900px
+    }
+    .textNav {
+        font-size: 42px;
+    }
+    
+    label{
+        font-size: 22px;
+    }
+    
+    .inputTable1{
+      margin-left: 37px !important;
+      height:70px !important;
+      width: 265px;
+      font-size: 22px;
+    }
+
+    .iBibliografia{
+      margin-left: 37px !important;
+      height: 160px;
+      width: 265px;
+      font-size: 22px;
+    }
+    .inputTable2{
+      margin-left: 8px !important;
+      height: 70px !important;
+      width: 265px;
+      font-size: 22px;
+    }
+    .SelecioneIdiomas{
+        font-size: 32px
+    }
+    .pselecione{
+        font-size: 22px;
+    }
+    .form-switch{
+        padding-left: 2.5em;
+        height: 56px;
+    }
+    #imgPais{
+        width: 110px;
+    }
+    td {
+      padding: 0;
+      font-size: 22px;
+    }
+
+    footer{
+        font-size: 28px;
+    }
+  
+}
+
 /* Estilos para telas grandes (por exemplo, 1200px) */
 @media (min-width: 1200px) {
     .container,
