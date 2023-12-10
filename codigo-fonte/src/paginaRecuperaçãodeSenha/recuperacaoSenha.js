@@ -17,7 +17,7 @@ function Enviar(params) {
       default:
         campoValidado = true;
         alert ("E-mail encaminhado")  
-        window.location.href="https://icei-puc-minas-pmv-ads.github.io/pmv-ads-2023-2-e1-proj-web-t10-we_need_2_talk/codigo-fonte/src/paginaHomeNova/paginahomeNova.html"
+        window.location.href="https://icei-puc-minas-pmv-ads.github.io/pmv-ads-2023-2-e1-proj-web-t10-we_need_2_talk/codigo-fonte/src/paginaLogin/index.html"
         break;
     }
   
