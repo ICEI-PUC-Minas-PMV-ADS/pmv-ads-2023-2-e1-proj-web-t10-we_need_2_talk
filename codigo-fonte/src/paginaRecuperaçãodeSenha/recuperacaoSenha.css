@@ -1,6 +1,6 @@
 main {
     background-color: #fff;
-    height: 537px;
+    height: 760px;
     width: auto;
     align-items: center;
     
@@ -18,11 +18,12 @@ body {
 h5{
     text-align: center;
     font-family: spartan, Helvetica, sans-serif;
-    margin-left: 50px;
+    margin-left: 40px;
 }
 h4{
     text-align: center;
     font-family: spartan, Helvetica, sans-serif;
+    margin-left: 60px;
 }
 
 #setaMenu {
@@ -47,7 +48,7 @@ h4{
     vertical-align: middle; /* Isso alinha verticalmente os elementos */
 }
 #texto {
-    margin-left: 80px;
+    margin-left: 220px;
  }
 
 
@@ -90,21 +91,3 @@ footer {
     text-decoration: none;
     color: #fff;
 }
-
-@media (max-width:768px){
-   .textNav{
-        margin-top: -20px;
-    }
-    .inputTable1 {
-        margin-left: 0;
-        width: 220px;
-    }
-    
-    .iBibliografia {
-        width: 220px;
-        margin-left: 0;
-    }
-
-    td{
-        padding: 0;
-    }}
